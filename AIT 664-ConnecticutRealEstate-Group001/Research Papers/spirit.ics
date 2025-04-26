@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Spirit//Itinerary Confirmation//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20240725T041535-523-ILCLQT@tickets.spirit.com
+ORGANIZER:MAILTO:confirmations@spirit.com
+DTSTART:20240816T110000Z
+DTEND:20240816T123300Z
+SUMMARY:Spirit flight 523 from Baltimore, MD / Washington, DC AREA on  8/16/2024 07:00 AM 
+LOCATION:Arriving Boston, MA on 8/16/2024 08:33 AM
+TRANSP:OPAQUE
+SEQUENCE:0
+DTSTAMP:20240725T041706
+DESCRIPTION:Confirmation Number: ILCLQT. 
+
+Should our flight schedule change, we will notify you by email as early as possible. If you have any questions about your reservation, please call 1-801-401-2222. 
+
+Thank you for flying Spirit.
+PRIORITY:5
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Visit http://spirit.com/ to check in online now!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T041535-523-ILCLQT@tickets.spirit.com
+ORGANIZER:MAILTO:confirmations@spirit.com
+DTSTART:20240819T220200Z
+DTEND:20240819T233600Z
+SUMMARY:Spirit flight 935 from Boston, MA on  8/19/2024 06:02 PM 
+LOCATION:Arriving Baltimore, MD / Washington, DC AREA on 8/19/2024 07:36 PM
+TRANSP:OPAQUE
+SEQUENCE:0
+DTSTAMP:20240725T041706
+DESCRIPTION:Confirmation Number: ILCLQT. 
+
+Should our flight schedule change, we will notify you by email as early as possible. If you have any questions about your reservation, please call 1-801-401-2222. 
+
+Thank you for flying Spirit.
+PRIORITY:5
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Visit http://spirit.com/ to check in online now!
+END:VALARM
+END:VEVENT
+END:VCALENDAR

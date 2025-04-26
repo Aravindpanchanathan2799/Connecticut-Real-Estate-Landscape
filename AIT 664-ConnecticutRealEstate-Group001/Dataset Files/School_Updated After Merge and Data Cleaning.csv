@@ -1,0 +1,1080 @@
+School ID,District Name,School Name,Organization Type,Organization Code,Address,Town,Zipcode,Phone,State,geometry,Student_Open_Date,Open_Year
+0,Vernon School District,Skinner Road School,Public Schools,1461011,90 Skinner Rd.,Vernon,6066,860-870-6180,CT,POINT (-72.4915022 41.8559389),1984-01-07,1984
+1,Department of Social Services,Department of Social Services,State Agencies,3320015,25 Sigourney Street,Hartford,6106,860-424-5129,CT,POINT (-72.6946265 41.7627377),2000-01-07,2000
+2,Norwalk School District,West Rocks Middle School,Public Schools,1035411,81 West Rocks Road,Norwalk,6851,203-899-2970,CT,POINT (-73.41611341915257 41.134131),1984-01-07,1984
+4,Bridgeport School District,Jettie S. Tisdale School,Public Schools,152211,250 Hollister Avenue,Bridgeport,6607,203-576-8037,CT,POINT (-73.16023450246067 41.17857135),1984-01-07,1984
+5,Regional School District 05,Amity Middle School: Orange,Regional Schools,2055212,100 Ohman Ave.,Orange,6477,203-392-3200,CT,POINT (-73.006023959067 41.30290595),2002-01-07,2002
+6,Stamford School District,Westhill High School,Public Schools,1356311,125 Roxbury Rd.,Stamford,6902,203-977-4477,CT,POINT (-73.56555214052892 41.09186725),1984-01-07,1984
+7,Norwalk School District,Concord Magnet School,Public Schools,1030311,21 Hunters Lane,Norwalk,6850,203-899-2840,CT,POINT (-73.4420929 41.1229603),1984-01-07,1984
+8,Woodbridge School District,Woodbridge School District,Public School Districts,1670011,40 Beecher Road,Woodbridge,6525,203-387-6631,CT,POINT (-73.008984 41.3351545),1996-01-07,1996
+9,Hartford School District,Hartford PreKindergarten Magnet School: North Campus,Public Schools,641311,85 Edwards Street,Hartford,6120,860-695-5820,CT,POINT (-72.68210655376039 41.7753421),2013-01-07,2013
+10,Colchester School District,Colchester Elementary School,Public Schools,280411,315 Halls Hill Rd.,Colchester,6415,860-537-0717,CT,POINT (-72.3163128 41.5747225),2006-01-07,2006
+11,Unified School District #1,Garner Correctional Institution,State Agency Facilities,3361915,50 Nunnawauk Road,Newtown,6470,203-270-2897,CT,POINT (-73.27226870683168 41.3998942),2000-01-07,2000
+12,Somers School District,Somers High School,Public Schools,1296111,5 Vision Boulevard,Somers,6071,860-749-2270,CT,POINT (-72.45866693257778 41.9769267),1984-01-07,1984
+13,Brookfield School District,Brookfield School District,Public School Districts,180011,100 Pocono Road,Brookfield,6804,203-775-7700,CT,POINT (-73.39889680457678 41.46624125),1996-01-07,1996
+14,Milford School District,J. F. Kennedy School,Public Schools,841911,404 West Ave.,Milford,6460,203-783-3568,CT,POINT (-73.0889845 41.2164727),1984-01-07,1984
+15,Capitol Region Education Council,Capitol Region Education Council,Regional Education Service Center School Districts,2410014,111 Charter Oak Avenue,Hartford,6106,860-524-4063,CT,POINT (-72.6683506 41.758367),2000-01-07,2000
+16,Hamden School District,Bear Path School,Public Schools,621211,10 Kirk Rd.,Hamden,6514,203-407-2015,CT,POINT (-72.9273655 41.3895002),1984-01-07,1984
+17,The Gilbert School District,The Gilbert School,Endowed and Incorporated Academies Schools,9026122,200 Williams Ave.,Winsted,6098,860-379-8521,CT,POINT (-73.06815412558433 41.9324001),2000-01-07,2000
+18,Tolland School District,Birch Grove Primary School,Public Schools,1420111,247 Rhodes RD,Tolland,6084,860-870-6750,CT,POINT (-72.3341415206219 41.86105915),1999-01-07,1999
+19,Waterbury School District,Maloney Interdistrict Magnet School,Public Schools,1513111,233 South Elm St.,Waterbury,6706,203-574-8162,CT,POINT (-73.03769311679116 41.5504457),1996-01-07,1996
+20,Guilford School District,Guilford Lakes School,Public Schools,600211,40 Maupas Rd.,Guilford,6437,203-453-5201,CT,POINT (-72.68877507857586 41.32843815),1984-01-07,1984
+21,Norwalk School District,Brookside Elementary School,Public Schools,1030211,382 Highland Avenue,Norwalk,6854,203-899-2830,CT,POINT (-73.4356017 41.0902528),1984-01-07,1984
+22,Regional School District 04,Regional School District 04,Regional School Districts,2040012,1 Winthrop Road,Deep River,6417,860-526-2417,CT,POINT (-72.4562226 41.3646322),2002-01-07,2002
+23,Ellington School District,Ellington Middle School,Public Schools,485111,46 Middle Butcher Rd.,Ellington,6029,860-896-2339,CT,POINT (-72.4596723618026 41.87978985),1984-01-07,1984
+24,Waterbury School District,Bucks Hill School,Public Schools,1510511,330 Bucks Hill Rd.,Waterbury,6704,203-574-8182,CT,POINT (-73.0286326 41.6006686),1984-01-07,1984
+26,Regional School District 16,Regional School District 16,Regional School Districts,2160012,30 Coer Road,Prospect,6712,203-758-6671,CT,POINT (-72.97541928714611 41.4981085),2002-01-07,2002
+27,West Haven School District,Harry M. Bailey Middle School,Public Schools,1565111,106 Morgan Ln.,West Haven,6516,203-937-4380,CT,POINT (-72.9784133 41.2540261),1984-01-07,1984
+28,Middletown School District,Wesley School,Public Schools,831411,10 Wesleyan Hills Rd.,Middletown,6457,860-344-0381,CT,POINT (-72.66572542857143 41.52403157142857),1984-01-07,1984
+29,East Lyme School District,Niantic Center School,Public Schools,450211,7 West Main St.,Niantic,6357,860-739-3961,CT,POINT (-72.20381252189205 41.32299205),1984-01-07,1984
+30,West Hartford School District,Charter Oak International Academy,Public Schools,1550511,425 Oakwood Ave.,West Hartford,6110,860-233-8506,CT,POINT (-72.72196376041666 41.7435034),1984-01-07,1984
+31,Andover School District,Andover School District,Public School Districts,10011,35 School Road,Andover,6232,860-742-7339,CT,POINT (-72.3665866 41.7285924),1996-01-07,1996
+32,South Windsor School District,Pleasant Valley School,Public Schools,1320211,591 Ellington Rd.,South Windsor,6074,860-610-0291,CT,POINT (-72.5962226 41.8106434),1984-01-07,1984
+33,New Haven School District,Barack H. Obama Magnet University School,Public Schools,932811,69 Farnham Ave,New Haven,6515,475-220-4800,CT,POINT (-72.95299966653931 41.3296767),2008-04-09,2008
+35,Capitol Region Education Council,Museum Academy,Regional Education Service Center Schools,2410514,11 Turkey Hill Road,Bloomfield,6002,860-231-7800,CT,POINT (-72.7339978517896 41.8233262),,
+36,Milford School District,Harborside Middle School,Public Schools,845211,175 High St.,Milford,6460,203-783-3523,CT,POINT (-73.0608801 41.2247943),1997-01-07,1997
+37,Hampton School District,Hampton Elementary School,Public Schools,630111,380 Main St.,Hampton,6247,860-455-9409,CT,POINT (-72.0587146970714 41.79239065),1984-01-07,1984
+39,Lebanon School District,Lebanon Elementary School,Public Schools,710111,479 Exeter Rd.,Lebanon,6249,860-642-7593,CT,POINT (-72.20485055810715 41.6400855),1984-01-07,1984
+40,Westport School District,Coleytown Middle School,Public Schools,1585311,255 North Ave.,Westport,6880,203-341-1610,CT,POINT (-73.3503387 41.1790569),,
+41,Danbury School District,Ellsworth Avenue School,Public Schools,341411,53 Ellsworth Ave,Danbury,6810,203-797-4740,CT,POINT (-73.44891483907908 41.402848),1984-01-07,1984
+42,New Canaan School District,South School,Public Schools,900211,8 Farm Rd.,New Canaan,6840,203-594-4313,CT,POINT (-73.4824307 41.134534),1984-01-07,1984
+43,Park City Prep Charter School District,Park City Prep Charter School,Public Charter Schools,2835113,1550 State Street,Bridgeport,6605,203-953-3766,CT,POINT (-73.2123996420314 41.1696218),2006-01-07,2006
+44,Newington School District,Newington High School,Public Schools,946111,605 Willard Ave.,Newington,6111,860-666-5611,CT,POINT (-72.73571587161254 41.70094305),1984-01-07,1984
+45,Southington School District,William H. Hatton Elementary School,Public Schools,1310211,50 Spring Lake Rd.,Southington,6489,860-628-3377,CT,POINT (-72.8549399 41.6006573),1984-01-07,1984
+46,Windham School District,Windham High School,Public Schools,1636111,355 High St.,Willimantic,6226,860-465-2480,CT,POINT (-72.2128553763319 41.7226949),1984-01-07,1984
+47,Canton School District,Canton School District,Public School Districts,230011,4 Market Street,Collinsville,6022,860-693-7704,CT,POINT (-72.922584 41.8108613),1996-01-07,1996
+48,Plainville School District,Louis Toffolon School,Public Schools,1100511,145 NorthWest Dr.,Plainville,6062,860-793-3280,CT,POINT (-72.8870154 41.686171),1984-01-07,1984
+49,Scotland School District,Scotland Elementary School,Public Schools,1230111,68 Brook Rd.,Scotland,6264,860-423-0064,CT,POINT (-72.08098661009001 41.70355485),1984-01-07,1984
+50,East Hartford School District,Governor William Pitkin School,Public Schools,432011,330 Hills St.,East Hartford,6118,860-622-5480,CT,POINT (-72.5913165 41.7438355),1984-01-07,1984
+51,Fairfield School District,Roger Ludlowe Middle School,Public Schools,515311,689 Unquowa Rd.,Fairfield,6824,203-255-8345,CT,POINT (-73.2616284 41.1469999),1998-01-07,1998
+52,Regional School District 13,Frank Ward Strong School,Regional Schools,2135112,191 Main Street,Durham,6422,860-349-7222,CT,POINT (-72.6790399 41.4763382),2002-01-07,2002
+53,Wilton School District,Wilton High School,Public Schools,1616111,395 Danbury Rd.,Wilton,6897,203-762-0381,CT,POINT (-73.4328123 41.2111881),1984-01-07,1984
+54,Greenwich School District,New Lebanon School,Public Schools,570611,25 Mead Ave.,Greenwich,6830,203-531-9139,CT,POINT (-73.6551016 41.0006618),1984-01-07,1984
+55,Shelton School District,Long Hill School,Public Schools,1260811,565 Long Hill Ave.,Shelton,6484,203-929-4077,CT,POINT (-73.1002831 41.2841948),1984-01-07,1984
+56,Regional School District 14,Woodbury Middle School,Regional Schools,2145112,67 Washington Ave.,Woodbury,6798,203-263-4306,CT,POINT (-73.21220576817205 41.5502799),2002-01-07,2002
+57,Ansonia School District,Ansonia Middle School,Public Schools,25111,115 Howard Ave.,Ansonia,6401,203-736-5070,CT,POINT (-73.08497148721062 41.3413026),1997-01-07,1997
+58,Judicial Centers,Judicial Centers,State Agencies,3480015,455 Winding Brook Drive,Glastonbury,6033,860-368-3800,CT,POINT (-72.5950146 41.7168652),,
+59,Meriden School District,Israel Putnam School,Public Schools,800411,133 Parker Ave.,Meriden,6450,203-237-8493,CT,POINT (-72.79163498684211 41.52961847368421),1984-01-07,1984
+61,Ellington School District,Crystal Lake School,Public Schools,480211,59 South Road,Ellington,6029,860-896-2322,CT,POINT (-72.37830569264261 41.9299572),1984-01-07,1984
+62,Integrated Day Charter School District,Integrated Day Charter School,Public Charter Schools,2640113,68 Thermos Ave.,Norwich,6360,860-892-1900,CT,POINT (-72.07700047294283 41.51167835),1997-01-07,1997
+63,Hartford School District,"Breakthrough Magnet School, South",Public Schools,643311,290 Brookfield Street,Hartford,6106,860-695-5700,CT,POINT (-72.7066775 41.7452575),2002-01-07,2002
+64,Voluntown School District,Voluntown Elementary School,Public Schools,1470111,195 Main Street,Voluntown,6384,860-376-2325,CT,POINT (-71.86620275311712 41.57457005),1984-01-07,1984
+66,Norwich School District,Veterans' Memorial School,Public Schools,1041811,80 Crouch Ave.,Norwich,6360,860-823-4209,CT,POINT (-72.07227478540725 41.50369505),1984-01-07,1984
+68,North Canaan School District,North Canaan School District,Public School Districts,1000011,90 Pease Street,Canaan,6018,860-824-5149,CT,POINT (-73.32991713776455 42.03244262242369),1996-01-07,1996
+69,Fairfield School District,Sherman School,Public Schools,511311,250 Fern St.,Fairfield,6824,203-255-8330,CT,POINT (-73.2463742 41.1398507),1984-01-07,1984
+70,Plainfield School District,Shepard Hill Elementary School,Public Schools,1090411,234 Shepard Hill Rd.,Plainfield,6374,860-564-6432,CT,POINT (-71.90607098362364 41.73342715),1992-01-07,1992
+71,East Haddam School District,East Haddam Elementary School,Public Schools,410111,45 Joe Williams Rd.,Moodus,6469,860-873-5076,CT,POINT (-72.4395017180446 41.50075215),1984-02-01,1984
+72,New Milford School District,Schaghticoke Middle School,Public Schools,965211,23 Hipp Rd.,New Milford,6776,860-354-2204,CT,POINT (-73.3923293 41.6203043),1984-01-07,1984
+73,Regional School District 06,Warren Elementary School,Regional Schools,2060312,21 Sackett Hill Rd.,Warren,6754,860-868-2223,CT,POINT (-73.34786161565492 41.7417962),2002-01-07,2002
+74,Trumbull School District,Daniels Farm School,Public Schools,1440811,710 Daniels Farm Rd.,Trumbull,6611,203-452-4388,CT,POINT (-73.1991157 41.2697649),1984-01-07,1984
+75,Avon School District,Roaring Brook School,Public Schools,40311,30 Old Wheeler Ln.,Avon,6001,860-404-4810,CT,POINT (-72.8899181 41.7926391),1984-01-07,1984
+76,Regional School District 15,Middlebury Elementary School,Regional Schools,2150612,550 Whittemore Rd,Middlebury,6762,203-758-2401,CT,POINT (-73.101003686614 41.52895205),2002-01-07,2002
+77,Hartford School District,Hartford Magnet Trinity College Academy,Public Schools,645411,53 Vernon Street,Hartford,6103,860-695-7201,CT,POINT (-72.68647677501892 41.75053665),1999-01-07,1999
+78,Hartford School District,Renzulli Gifted and Talented Academy,Public Schools,644011,85 Woodland Street,Hartford,6105,860-695-2140,CT,POINT (-72.7026054 41.7731516),2010-01-07,2010
+79,Bridgeport School District,"Biotechnology, Research & Zoological Studies Magnet High School",Public Schools,150611,840 Old Town Road,Bridgeport,6606,203-275-3413,CT,POINT (-73.18527028221652 41.2254734),,
+82,New Haven School District,Engineering - Science University Magnet School,Public Schools,931711,500 Boston Post Road,West Haven,6516,475-220-6000,CT,POINT (-72.967098 41.290285),2008-02-09,2008
+84,Naugatuck School District,Hillside Intermediate School,Public Schools,880411,51 Hillside Ave.,Naugatuck,6770,203-720-5260,CT,POINT (-73.057977 41.492082),1984-01-07,1984
+85,Achievement First Hartford Academy District,Achievement First Hartford Academy,Public Charter Schools,2880113,305 Greenfield Street,Hartford,6112,860-695-6685,CT,POINT (-72.69678585723085 41.78401635),,
+86,Stamford School District,Westover School,Public Schools,1351411,412 Stillwater Ave.,Stamford,6902,203-977-4572,CT,POINT (-73.56048200669944 41.0557793),1984-01-07,1984
+87,Ridgefield School District,Barlow Mountain Elementary School,Public Schools,1180811,115 Barlow Mountain Rd.,Ridgefield,6877,203-894-5800,CT,POINT (-73.5099305396334 41.32614245334076),2003-01-07,2003
+89,Connecticut Technical Education and Career System,Ella T. Grasso Technical High School,CT Technical Education and Career Schools,9002716,189 Fort Hill Rd.,Groton,6340,860-448-0220,CT,POINT (-72.01792441964531 41.34349065),2000-01-07,2000
+90,Stonington School District,Deans Mill School,Public Schools,1370511,35 Deans Mill Rd.,Stonington,6378,860-535-2235,CT,POINT (-71.9249525 41.3617886),1984-01-07,1984
+91,Portland School District,Portland High School,Public Schools,1136111,95 High Street,Portland,6480,860-342-1720,CT,POINT (-72.6223143 41.58121),1984-01-07,1984
+92,Sherman School District,Sherman School District,Public School Districts,1270011,2 Route 37 East,Sherman,6784,860-355-3793,CT,POINT (-73.49633857502826 41.5793068),1996-01-07,1996
+93,Waterbury School District,Michael F. Wallace Middle School,Public Schools,1515111,3465 East Main St.,Waterbury,6705,203-574-8140,CT,POINT (-72.9716503 41.5450437),1984-01-07,1984
+94,West Hartford School District,Webster Hill School,Public Schools,1551211,125 Webster Hill Blvd.,West Hartford,6117,860-521-0320,CT,POINT (-72.74243082055463 41.74341675),1984-01-07,1984
+95,Regional School District 12,Washington Primary School,Regional Schools,2120412,11 School St.,Washington Depot,6794,860-868-7331,CT,POINT (-73.3195003 41.6380151),2002-01-07,2002
+96,Hamden School District,Hamden School District,Public School Districts,620011,60 Putnam Avenue,Hamden,6517,203-407-2000,CT,POINT (-72.9141752 41.3451647),1996-01-07,1996
+97,New Haven School District,Barnard Environmental Magnet School,Public Schools,930211,170 Derby Ave.,New Haven,6511,475-220-3500,CT,POINT (-72.9525532 41.3095933),1984-01-07,1984
+98,Cromwell School District,Cromwell School District,Public School Districts,330011,9 Captain James Mann Memorial Drive,Cromwell,6416,860-632-4830,CT,POINT (-72.6575336 41.6281905),1996-01-07,1996
+99,Connecticut Technical Education and Career System,Howell Cheney Technical High School,CT Technical Education and Career Schools,9001616,791 West Middle Tpke.,Manchester,6040,860-649-5396,CT,POINT (-72.56159959424933 41.782225),2000-01-07,2000
+100,Watertown School District,Fletcher W. Judson School,Public Schools,1530311,124 Hamilton Lane,Watertown,6795,860-945-4850,CT,POINT (-73.1313793 41.600686),1984-01-07,1984
+101,Oxford School District,Great Oak Elementary School,Public Schools,1080111,50 Great Oak Road,Oxford,6478,203-888-6492,CT,POINT (-73.1407422 41.421761),1984-01-07,1984
+102,Stratford School District,Harry B. Flood Middle School,Public Schools,1385311,490 Chapel Street,Stratford,6614,203-385-4280,CT,POINT (-73.1195272 41.2388102),1984-01-07,1984
+103,Danbury School District,Western CT Academy of International Studies Elementary Magnet School,Public Schools,341911,201 University Blvd.,Danbury,6810,203-778-7462,CT,POINT (-73.4929093 41.4038479),2006-01-07,2006
+104,Regional School District 18,Lyme Consolidated School,Regional Schools,2180112,478 Hamburg Road,Lyme,6371,860-434-1233,CT,POINT (-72.3377961 41.413298),2002-01-07,2002
+105,Killingly School District,Killingly Memorial School,Public Schools,690311,339 Main St.,Danielson,6239,860-779-6680,CT,POINT (-71.87925117081468 41.8104196),1999-01-07,1999
+106,Department of Mental Health and Addiction Services,Connecticut Mental Health Center,State Agency Facilities,3370415,34 Park St.,New Haven,6790,860-262-7175,CT,POINT (-72.936768283232 41.3054443),2007-01-07,2007
+107,Waterbury School District,Margaret M. Generali Elementary School,Public Schools,1511111,3196 East Main St.,Waterbury,6705,203-574-8174,CT,POINT (-72.98207579819288 41.54539125),1984-01-07,1984
+108,Darien School District,Darien High School,Public Schools,356111,80 High School Ln.,Darien,6820,203-655-3981,CT,POINT (-73.49066448902707 41.08513015),1984-01-07,1984
+109,Windham School District,Charles H. Barrows STEM Academy,Public Schools,1630411,141 Tuckie Road,North Windham,6256,860-465-2610,CT,POINT (-72.1764926 41.7173563),,
+110,Bozrah School District,Bozrah School District,Public School Districts,130011,8 Bozrah Street Extension,Bozrah,6334,860-887-2561,CT,POINT (-72.1524663928588 41.56308195),1996-01-07,1996
+111,Sprague School District,Sprague School District,Public School Districts,1330011,25 Scotland Road,Baltic,6330,860-822-8264,CT,POINT (-72.08583297323483 41.6231168),1996-01-07,1996
+113,Thompson School District,Thompson School District,Public School Districts,1410011,785 Riverside Drive,North Grosvenor Dale,6255,860-923-9581,CT,POINT (-71.89787309538576 41.97743775),1996-01-07,1996
+114,Lisbon School District,Lisbon School District,Public School Districts,730011,15 Newent Road,Lisbon,6351,860-376-5565,CT,POINT (-72.01530537678278 41.6041633),1996-01-07,1996
+115,Bethany School District,Bethany Community School,Public Schools,80111,44 Peck Road,Bethany,6524,203-393-3350,CT,POINT (-73.00002662548647 41.42210500489996),1984-01-07,1984
+116,Westport School District,King's Highway Elementary School,Public Schools,1580511,125 Post Rd. West,Westport,6880,203-341-1802,CT,POINT (-73.368317 41.1365282),1984-01-07,1984
+117,Wallingford School District,Evarts C. Stevens School,Public Schools,1480911,18 Kondracki Lane,Wallingford,6492,203-294-3750,CT,POINT (-72.81646674812879 41.43414975),1984-01-07,1984
+118,Regional School District 07,Northwestern Regional High School,Regional Schools,2076112,100 Battistoni Dr.,Winsted,6098,860-379-8525,CT,POINT (-73.0477852 41.9152045),2002-01-07,2002
+119,Franklin School District,Franklin Elementary School,Public Schools,530111,206 Pond Rd.,North Franklin,6254,860-642-7063,CT,POINT (-72.1247989 41.6311727),1984-01-07,1984
+120,Granby School District,Granby Memorial Middle School,Public Schools,565111,321 Salmon Brook St.,Granby,6035,860-844-3029,CT,POINT (-72.790763 41.959681),1984-01-07,1984
+121,New Haven School District,"Celentano BioTech, Health and Medical Magnet School",Public Schools,934811,400 Canner Street,New Haven,6511,475-220-3400,CT,POINT (-72.9216578 41.3245461),1995-01-07,1995
+122,Manchester School District,Waddell School,Public Schools,771311,163 Broad Street,Manchester,6042,860-647-3392,CT,POINT (-72.5344062756586 41.78332355),1984-01-07,1984
+123,Bloomfield School District,Bloomfield High School,Public Schools,116111,5 Huckleberry Ln.,Bloomfield,6002,860-286-2630,CT,POINT (-72.7257358 41.8281152),1984-01-07,1984
+124,Connecticut Technical Education and Career System,Oliver Wolcott Technical High School,CT Technical Education and Career Schools,9002216,75 Oliver St.,Torrington,6790,860-496-5300,CT,POINT (-73.1119367 41.8109084),2000-01-07,2000
+126,Norwich School District,Samuel Huntington School,Public Schools,1040811,80 West Town St.,Norwich,6360,860-823-4204,CT,POINT (-72.10205774647349 41.5499499),1984-01-07,1984
+127,Enfield School District,Henry Barnard School,Public Schools,491811,27 Shaker Rd.,Enfield,6082,860-253-6540,CT,POINT (-72.5635418256114 42.0041874),1984-01-07,1984
+128,Hartford School District,Sport and Medical Sciences Academy,Public Schools,646511,280 Huyshope Avenue,Hartford,6106,860-695-6900,CT,POINT (-72.6601015 41.7528044),2002-01-07,2002
+129,Bridgeport School District,Beardsley School,Public Schools,150211,500 Huntington Rd.,Bridgeport,6610,203-576-7184,CT,POINT (-73.18157011335941 41.19975415),1984-01-07,1984
+130,Regional School District 10,Har-Bur Middle School,Regional Schools,2105112,26 Lyon Rd.,Burlington,6013,860-673-6163,CT,POINT (-72.9874807 41.7801482),2002-01-07,2002
+131,Rocky Hill School District,Rocky Hill High School,Public Schools,1196111,50 Chapin Ave.,Rocky Hill,6067,860-258-7721,CT,POINT (-72.6473281 41.6699366),1984-01-07,1984
+132,Avon School District,Avon High School,Public Schools,46111,510 West Avon Rd.,Avon,6001,860-404-4740,CT,POINT (-72.8618931 41.7830819),1984-01-07,1984
+133,New Haven School District,Hill Regional Career High School,Public Schools,936311,140 Legion Ave.,New Haven,6519,475-220-5000,CT,POINT (-72.94106160341263 41.305627),1984-01-07,1984
+134,Darien School District,Middlesex Middle School,Public Schools,355111,204 Hollow Tree Ridge Rd.,Darien,6820,203-655-2518,CT,POINT (-73.4969591 41.0738605),1984-01-07,1984
+135,Rocky Hill School District,Rocky Hill School District,Public School Districts,1190011,761 Old Main St,Rocky Hill,6067,860-258-7701,CT,POINT (-72.6383844 41.6668309),1996-01-07,1996
+136,Stafford School District,West Stafford School,Public Schools,1340411,153 West Stafford Rd.,Stafford Springs,6076,860-684-3181,CT,POINT (-72.3217475 41.9648397),1984-01-07,1984
+137,Hartford School District,West Middle School,Public Schools,642111,44 Niles Street,Hartford,6112,860-695-5480,CT,POINT (-72.6964186 41.7701037),1984-01-07,1984
+138,Naugatuck School District,Andrew Avenue School,Public Schools,880811,140 Andrew Ave.,Naugatuck,6770,203-720-5221,CT,POINT (-73.0653736 41.483095),1984-01-07,1984
+139,Canaan School District,Canaan School District,Public School Districts,210011,246 Warren Turnpike Road,Falls Village,6031,860-824-7791,CT,POINT (-73.36156920408163 41.938168591836735),1996-01-07,1996
+140,New London School District,Nathan Hale Arts Magnet School,Public Schools,950911,37 Beech Drive,New London,6320,860-447-6060,CT,POINT (-72.0983353 41.3216796),1984-01-07,1984
+141,North Haven School District,Green Acres Elementary School,Public Schools,1010711,146 Upper State St.,North Haven,6473,203-239-5387,CT,POINT (-72.8641231 41.4059327),1984-01-07,1984
+142,Thomaston School District,Black Rock School,Public Schools,1400111,57 Branch Rd.,Thomaston,6787,860-283-3040,CT,POINT (-73.0948929 41.6572027),1984-01-07,1984
+143,Waterbury School District,Crosby High School,Public Schools,1516211,300 Pierpont Rd.,Waterbury,6705,203-574-8061,CT,POINT (-72.9722766 41.5457725),1984-01-07,1984
+144,Putnam School District,Putnam School District,Public School Districts,1160011,152 Woodstock Avenue,Putnam,6260,860-963-6900,CT,POINT (-71.91727064028497 41.92218875),1996-01-07,1996
+145,Simsbury School District,Tariffville School,Public Schools,1280311,42 Winthrop St.,Tariffville,6081,860-658-5825,CT,POINT (-72.76763778511673 41.91019095),1984-01-07,1984
+146,Stamford School District,Hart School,Public Schools,1352211,61 Adams Ave.,Stamford,6902,203-977-5082,CT,POINT (-73.54721691614587 41.05805665),1992-01-07,1992
+147,Cheshire School District,Highland School,Public Schools,250411,490 Highland Ave.,Cheshire,6410,203-272-0335,CT,POINT (-72.8962776 41.5108393),1984-01-07,1984
+148,Hamden School District,Helen Street School,Public Schools,620411,285 Helen St.,Hamden,6514,203-407-2030,CT,POINT (-72.94329094934241 41.3500606),1984-01-07,1984
+149,Westbrook School District,Westbrook School District,Public School Districts,1540011,158 McVeagh Road,Westbrook,6498,860-399-6432,CT,POINT (-72.45204072604001 41.2980414172316),1996-01-07,1996
+150,Hartford School District,Montessori Magnet at Batchelder School,Public Schools,640511,757 New Britain Avenue,Hartford,6106,860-695-2600,CT,POINT (-72.70804754995771 41.7318629),2013-01-07,2013
+151,Unified School District #1,MacDougall/Walker Correctional Institution,State Agency Facilities,3362215,1153 East St. South,Suffield,6078,860-627-2127,CT,POINT (-72.6377761 41.9491873),2000-01-07,2000
+154,Learn,Marine Science Magnet High School,Regional Education Service Center Schools,2456114,130 Shennecossett Road,Groton,6340,860-434-4800,CT,POINT (-72.07115854209425 41.33737335),2011-01-07,2011
+155,West Hartford School District,Smith School,Public Schools,1551711,64 St. James St.,West Hartford,6119,860-236-3317,CT,POINT (-72.72491489511381 41.75238075),1995-01-07,1995
+156,New Haven School District,John S. Martinez Sea and Sky STEM School,Public Schools,930811,100 James St.,New Haven,6513,475-220-2000,CT,POINT (-72.9033958 41.3055628),2004-01-07,2004
+157,Middletown School District,Middletown School District,Public School Districts,830011,311 Hunting Hill Avenue,Middletown,6457,860-638-1401,CT,POINT (-72.6479502 41.5412252),1996-01-07,1996
+158,Cromwell School District,Cromwell High School,Public Schools,336111,1 Donald Harris Dr.,Cromwell,6416,860-632-4841,CT,POINT (-72.65910921386862 41.61665585),1984-01-07,1984
+159,Stonington School District,Stonington High School,Public Schools,1376111,176 South Broad St.,Pawcatuck,6379,860-599-5781,CT,POINT (-71.8610752 41.36716),1984-01-07,1984
+160,Waterbury School District,Sprague School,Public Schools,1512011,1443 Thomaston Ave.,Waterbury,6704,203-574-8189,CT,POINT (-73.0502183 41.5861491),1984-01-07,1984
+161,New Haven School District,Wexler/Grant Community School,Public Schools,933211,55 Foote St.,New Haven,6511,475-220-5600,CT,POINT (-72.93273831045312 41.317917951612195),1984-01-07,1984
+162,Norwalk School District,Fox Run Elementary School,Public Schools,1032011,228 Fillow Street,Norwalk,6850,203-899-2860,CT,POINT (-73.4543471 41.1163466),1984-01-07,1984
+163,Torrington School District,Torringford School,Public Schools,1430911,800 Charles St.,Torrington,6790,860-489-2300,CT,POINT (-73.0932275 41.8190394),1984-01-07,1984
+164,Regional School District 16,Woodland Regional High School,Regional Schools,2166012,135 Back Rimmon Rd.,Beacon Falls,6403,203-881-5551,CT,POINT (-73.0829995 41.4238583),2002-01-07,2002
+165,Berlin School District,Mary E. Griswold School,Public Schools,70511,133 Heather Ln.,Kensington,6037,860-828-6336,CT,POINT (-72.7850302 41.6367963),1984-01-07,1984
+166,The Bridge Academy District,The Bridge Academy District,Public Charter School Districts,2690013,160 Pulaski Street,Bridgeport,6608,203-336-9999,CT,POINT (-73.18381677808509 41.1838013),1997-01-07,1997
+168,Vernon School District,Lake Street School,Public Schools,1460111,201 Lake St.,Vernon,6066,860-870-6085,CT,POINT (-72.4701109 41.8114514),1984-01-07,1984
+169,Branford School District,Mary R. Tisko School,Public Schools,141511,118 Damascus Rd.,Branford,6405,203-483-1826,CT,POINT (-72.7890338 41.2845232),1984-01-07,1984
+170,Weston School District,Weston High School,Public Schools,1576111,115 School Rd.,Weston,6883,203-221-6500,CT,POINT (-73.37847441784372 41.2102631),1984-01-07,1984
+171,Bristol School District,Mountain View School,Public Schools,171711,71 Vera Rd.,Bristol,6010,860-584-7726,CT,POINT (-72.8992489 41.6961609),1998-01-07,1998
+172,Newtown School District,Newtown High School,Public Schools,976111,12 Berkshire Rd.,Sandy Hook,6482,203-426-7646,CT,POINT (-73.2714614 41.4099851),1984-01-07,1984
+173,Windsor Locks School District,Windsor Locks School District,Public School Districts,1650011,58 South Elm Street,Windsor Locks,6096,860-292-5000,CT,POINT (-72.64346860647494 41.91988715),1996-01-07,1996
+174,Farmington School District,West Woods Upper Elementary School,Public Schools,520511,50 Judson Ln.,Farmington,6032,860-284-1230,CT,POINT (-72.8730501 41.7120339),2002-01-07,2002
+175,Wallingford School District,Highland School,Public Schools,1480211,200 Highland Avenue,Wallingford,6492,203-294-3970,CT,POINT (-72.83927787399847 41.48812555),1984-01-07,1984
+176,Ledyard School District,Ledyard High School,Public Schools,726111,24 Gallup Hill Rd.,Ledyard,6339,860-464-9600,CT,POINT (-71.99388117875948 41.4372212),1984-01-07,1984
+177,Capitol Region Education Council,Academy of Computer Science and and Engineering Middle School,Regional Education Service Center Schools,2415014,337 East River Dr.,East Hartford,6108,860-290-5320,CT,POINT (-72.65371391687584 41.7572135),2002-01-07,2002
+178,Coventry School District,Coventry High School,Public Schools,326111,78 Ripley Hill Road,Coventry,6238,860-742-7346,CT,POINT (-72.31157629536125 41.7822265),1984-01-07,1984
+179,East Haven School District,Carbone School/East Haven Academy,Public Schools,441711,200 Tyler St.,East Haven,6512,203-468-3219,CT,POINT (-72.8765738 41.2748721),1997-01-07,1997
+180,Glastonbury School District,Glastonbury School District,Public School Districts,540011,628 Hebron Avenue,Glastonbury,6033,860-652-7951,CT,POINT (-72.5872526 41.7131391),1996-01-07,1996
+181,Meriden School District,Hanover School,Public Schools,800311,208 Main St.,Meriden,6450,203-235-6359,CT,POINT (-72.83247580031714 41.51927812329639),1984-01-07,1984
+182,Bridgeport School District,Edison School,Public Schools,150711,115 Boston Terrace,Bridgeport,6610,203-576-7183,CT,POINT (-73.16328705320613 41.1953003),1984-01-07,1984
+183,Greenwich School District,Eastern Middle School,Public Schools,575211,51 Hendrie Ave.,Riverside,6878,203-637-1744,CT,POINT (-73.58279866731097 41.0354182),1984-01-07,1984
+184,Bridgeport School District,Blackham School,Public Schools,154011,425 Thorme St.,Bridgeport,6606,203-576-7951,CT,POINT (-73.21384127283791 41.2052389),1984-01-07,1984
+185,Regional School District 19,Regional School District 19,Regional School Districts,2190012,1235 Storrs Road,Storrs,6268,860-487-1862,CT,POINT (-72.24434313799802 41.8020254),2002-01-07,2002
+186,Essex School District,Essex Elementary School,Public Schools,500111,108 Main St.,Centerbrook,6409,860-767-8215,CT,POINT (-72.4191537 41.3502642),1984-01-07,1984
+187,Connecticut Technical Education and Career System,Platt Technical High School,CT Technical Education and Career Schools,9002616,600 Orange Ave.,Milford,6461,203-783-5300,CT,POINT (-73.04644806745412 41.24903485),2000-01-07,2000
+188,Bethel School District,Bethel Middle School,Public Schools,95111,600 Whittlesey Dr.,Bethel,6801,203-794-8670,CT,POINT (-73.3965549 41.3840241),1984-01-07,1984
+189,East Hartford School District,Robert J. O'Brien School,Public Schools,431811,56 Farm Dr.,East Hartford,6108,860-622-5760,CT,POINT (-72.61044573180105 41.79432755),1984-01-07,1984
+190,Milford School District,Pumpkin Delight School,Public Schools,841011,27 Art St.,Milford,6460,203-783-3531,CT,POINT (-73.0790788365987 41.20437039508062),1984-01-07,1984
+191,Waterford School District,Oswegatchie Elementary School,Public Schools,1520611,470 Boston Post Rd.,Waterford,6385,860-442-4331,CT,POINT (-72.1802641820168 41.3597264),1984-01-07,1984
+192,Montville School District,Mohegan School,Public Schools,860111,49 Golden Rd.,Uncasville,6382,860-848-9261,CT,POINT (-72.09223809943435 41.4760203),1984-01-07,1984
+193,Danbury School District,Morris Street School,Public Schools,340611,28 Morris St.,Danbury,6810,203-797-4809,CT,POINT (-73.4651216459429 41.39491341813244),1984-01-07,1984
+194,Simsbury School District,Simsbury High School,Public Schools,1286111,34 Farms Village Rd.,Simsbury,6070,860-658-0451,CT,POINT (-72.82706150017518 41.86918996509707),1984-01-07,1984
+196,Darien School District,Hindley Elementary School,Public Schools,350211,10 Nearwater Ln.,Darien,6820,203-655-1323,CT,POINT (-73.4881705 41.0587491),1984-01-07,1984
+197,New London School District,Bennie Dover Jackson Middle School,Public Schools,955111,36 Waller St.,New London,6320,860-437-6480,CT,POINT (-72.1069808 41.3581612),1984-01-07,1984
+198,Mansfield School District,Mansfield Middle School,Public Schools,785111,205 Spring Hill Rd.,Storrs,6268,860-429-9341,CT,POINT (-72.2266615 41.7787637),1984-01-07,1984
+199,Regional School District 06,James Morris School,Regional Schools,2060212,10 East St.,Morris,6763,860-567-7420,CT,POINT (-73.19809303711656 41.68335405),2002-01-07,2002
+200,Capitol Region Education Council,Academy of International Studies Elementary School,Regional Education Service Center Schools,2410414,625 Chapel Road,South Windsor,6074,860-291-6001,CT,POINT (-72.59598404885794 41.8054794),2008-02-09,2008
+201,Griswold School District,Griswold Elementary School,Public Schools,580311,303 Slater Ave.,Griswold,6351,860-376-7610,CT,POINT (-71.97775808342979 41.594138),1984-01-07,1984
+202,Hartford School District,Betances Learning Lab Magnet School,Public Schools,642811,42 Charter Oak Avenue,Hartford,6106,860-695-2840,CT,POINT (-72.6725402 41.7596333),1984-01-07,1984
+203,North Stonington School District,North Stonington School District,Public School Districts,1020011,298 Norwich/Westerly Road,North Stonington,6359,860-535-2800,CT,POINT (-71.885613 41.4394298),1996-01-07,1996
+204,East Hartford School District,Joseph O. Goodwin School,Public Schools,430411,1235 Forbes St.,East Hartford,6118,860-622-5420,CT,POINT (-72.60727655294974 41.7392054),1984-01-07,1984
+205,Norwalk School District,Roton Middle School,Public Schools,1035511,201 Highland Avenue,Norwalk,6853,203-899-2930,CT,POINT (-73.433828 41.080325),1984-01-07,1984
+206,Enfield School District,Hazardville Memorial School,Public Schools,490411,68 North Maple St.,Enfield,6082,860-763-7500,CT,POINT (-72.5391671 41.9930476),1984-01-07,1984
+207,Monroe School District,Monroe School District,Public School Districts,850011,375 Monroe Turnpike,Monroe,6468,203-452-2860,CT,POINT (-73.2244616 41.3096537),1996-01-07,1996
+208,Eastern Connecticut Regional Educational Service Center (EASTCONN),Quinebaug Middle College,Regional Education Service Center Schools,2536114,742 Upper Maple St.,Danielson,6239,860-932-4100,CT,POINT (-71.89038204610841 41.82522155),2008-02-09,2008
+209,Suffield School District,A. Ward Spaulding School,Public Schools,1390411,945 Mountain Rd.,Suffield,6078,860-668-3826,CT,POINT (-72.68656509523933 41.9847394),1984-01-07,1984
+210,Brookfield School District,Brookfield High School,Public Schools,186111,45 Long Meadow Hill Rd.,Brookfield,6804,203-775-7725,CT,POINT (-73.38887745588598 41.4801322),1984-01-07,1984
+211,Easton School District,Easton School District,Public School Districts,460011,654 Morehouse Road,Easton,6612,203-261-2513,CT,POINT (-73.29475556926845 41.24979732015198),1996-01-07,1996
+212,Chaplin School District,Chaplin Elementary School,Public Schools,240211,240 Palmer Rd.,Chaplin,6235,860-455-9593,CT,POINT (-72.14825055348979 41.7899743),1992-01-07,1992
+213,New Britain School District,DiLoreto Elementary & Middle School,Public Schools,891111,732 Slater Rd.,New Britain,6053,860-223-2885,CT,POINT (-72.8079758 41.6865279),1984-01-07,1984
+214,Explorations District,Explorations District,Public Charter School Districts,2720013,71 Spencer St.,Winsted,6098,860-738-9070,CT,POINT (-73.07607398143399 41.9293751),1999-01-07,1999
+215,Westbrook School District,Westbrook High School,Public Schools,1546111,156 McVeagh Rd.,Westbrook,6498,860-399-6214,CT,POINT (-72.4542691 41.2985838),1984-01-07,1984
+216,Wolcott School District,Wakelee School,Public Schools,1660511,12 Hempel Dr.,Wolcott,6716,203-879-8154,CT,POINT (-73.01028676340906 41.60990475),1984-01-07,1984
+217,Hamden School District,West Woods School,Public Schools,621411,350 West Todd St.,Hamden,6518,203-407-2050,CT,POINT (-72.9266 41.4316627),1984-01-07,1984
+218,New Haven School District,New Haven Academy,Public Schools,937011,444 Orange Street,New Haven,6511,475-220-6600,CT,POINT (-72.9188954375 41.3127395),1995-01-07,1995
+219,Stamford School District,Scofield Middle School,Public Schools,1355711,641 Scofieldtown Rd.,Stamford,6903,203-977-2750,CT,POINT (-73.5573823 41.1376357),1990-01-07,1990
+220,Bridgeport School District,Bassick High School,Public Schools,156111,1181 Fairfield Ave.,Bridgeport,6605,203-576-7350,CT,POINT (-73.20681630795521 41.1723891),1984-01-07,1984
+221,Hartford School District,Hartford PreKindergarten Magnet School: South Campus,Public Schools,641610,195 Putnam Street,Hartford,6106,860-695-5820,CT,POINT (-72.6922363673429 41.76143315),2022-01-07,2022
+222,Weston School District,Hurlbutt Elementary School,Public Schools,1570111,9 School Rd.,Weston,6883,203-221-6300,CT,POINT (-73.3811576 41.204785),1984-01-07,1984
+223,Unified School District #1,Cheshire Correctional Institution,State Agency Facilities,3360315,900 Highland Ave.,Cheshire,6410,203-651-6247,CT,POINT (-72.9008002 41.5215607),2000-01-07,2000
+224,Regional School District 09,Joel Barlow High School,Regional Schools,2096112,100 Black Rock Tpke.,Redding,6896,203-938-2508,CT,POINT (-73.3388645 41.3000932),2002-01-07,2002
+225,Stratford School District,Lordship School,Public Schools,1380811,254 Crown Street,Stratford,6615,203-385-4170,CT,POINT (-73.12726498729864 41.15333892881706),1984-01-07,1984
+226,Waterbury School District,Washington School,Public Schools,1512311,685 Baldwin St.,Waterbury,6706,203-574-8177,CT,POINT (-73.03332127189415 41.54325935),1984-01-07,1984
+227,Milford School District,East Shore Middle School,Public Schools,845111,240 Chapel St.,Milford,6460,203-783-3559,CT,POINT (-73.001986680479 41.2274777),1997-01-07,1997
+228,Newtown School District,Middle Gate Elementary School,Public Schools,970311,7 Cold Spring Rd.,Newtown,6470,203-426-7662,CT,POINT (-73.27332400689463 41.36772685),1984-01-07,1984
+229,Wethersfield School District,Alfred W. Hanmer School,Public Schools,1590811,50 Francis St.,Wethersfield,6109,860-571-8370,CT,POINT (-72.6582931 41.7151373),1984-01-07,1984
+230,Southington School District,R. E. Thalberg Elementary School,Public Schools,1310911,145 Dunham Rd.,Southington,6489,860-628-3370,CT,POINT (-72.86222396524988 41.64670782575716),1984-01-07,1984
+231,Coventry School District,Coventry School District,Public School Districts,320011,1700 Main Street,Coventry,6238,860-742-7317,CT,POINT (-72.31025507810898 41.77934755),1984-01-07,1984
+232,Hebron School District,Hebron School District,Public School Districts,670011,580 Gilead Street,Hebron,6248,860-228-2577,CT,POINT (-72.4090826 41.676581),1996-01-07,1996
+233,Plymouth School District,Plymouth Center School,Public Schools,1110211,107 North Street,Plymouth,6782,860-283-6321,CT,POINT (-73.0538281 41.6796525),1984-01-07,1984
+234,Farmington School District,Union School,Public Schools,520111,173 School St.,Unionville,6085,860-673-2575,CT,POINT (-72.89076944491391 41.75765535),1984-01-07,1984
+235,Bridgeport School District,Hallen School,Public Schools,151211,68 Omega Ave.,Bridgeport,6606,203-576-8216,CT,POINT (-73.19095108308943 41.2174016),1984-01-07,1984
+237,Pomfret School District,Pomfret Community School,Public Schools,1120111,20 Pomfret St.,Pomfret Center,6259,860-928-2718,CT,POINT (-71.961978 41.884892),1984-01-07,1984
+238,Seymour School District,Seymour Middle School,Public Schools,1245111,211 Mountain Rd.,Seymour,6483,203-888-4513,CT,POINT (-73.109306 41.3762985),1984-01-07,1984
+239,East Hartford School District,East Hartford High School,Public Schools,436211,869 Forbes St.,East Hartford,6118,860-622-5200,CT,POINT (-72.60559934989332 41.7549041),1984-01-07,1984
+240,Glastonbury School District,Naubuc School,Public Schools,540711,84 Griswold St.,Glastonbury,6033,860-652-7918,CT,POINT (-72.6114074 41.7208111),1984-01-07,1984
+241,West Haven School District,Forest School,Public Schools,1560311,95 Burwell Rd.,West Haven,6516,203-931-6800,CT,POINT (-72.9687642 41.2989132),1984-01-07,1984
+242,Trumbull School District,Trumbull High School,Public Schools,1446111,72 Strobel Rd.,Trumbull,6611,203-452-4555,CT,POINT (-73.1920603 41.2613863),1984-01-07,1984
+243,Regional School District 14,Mitchell Elementary School,Regional Schools,2140212,14 School St.,Woodbury,6798,203-263-4314,CT,POINT (-73.2095411 41.5477099),2002-01-07,2002
+244,Meriden School District,Thomas Hooker School,Public Schools,801011,70 Overlook Rd.,Meriden,6450,203-237-8839,CT,POINT (-72.7789214 41.5174165),1984-01-07,1984
+245,Capitol Region Education Council,Greater Hartford Academy of the Arts High School - Full Day,Regional Education Service Center Schools,2416414,160 Huyshope Ave,Hartford,6106,860-757-6300,CT,POINT (-72.6620668 41.7555425),2007-05-08,2007
+246,Clinton School District,Clinton School District,Public School Districts,270011,137 B Glenwood Road,Clinton,6413,860-664-6500,CT,POINT (-72.5281759 41.2887707),1996-01-07,1996
+247,Southington School District,Southington High School,Public Schools,1316211,720 Pleasant Street,Southington,6489,860-628-3229,CT,POINT (-72.86112828002376 41.61567355),1984-01-07,1984
+248,Hartland School District,Hartland School,Public Schools,650111,30 South Rd.,East Hartland,6027,860-653-7207,CT,POINT (-72.9076897936621 41.99699299107083),1984-01-07,1984
+249,Bristol School District,Greene-Hills School,Public Schools,170511,718 Pine St.,Bristol,6010,860-584-7822,CT,POINT (-72.895917 41.6666607),1998-01-07,1998
+250,Clinton School District,Lewin G. Joel Jr. School,Public Schools,270311,137A Glenwood Rd.,Clinton,6413,860-664-6501,CT,POINT (-72.5281759 41.2887707),1984-01-07,1984
+251,Old Saybrook School District,Old Saybrook School District,Public School Districts,1060011,50 Sheffield Street,Old Saybrook,6475,860-395-3157,CT,POINT (-72.3688559661335 41.289459172906795),1996-01-07,1996
+255,Canton School District,Cherry Brook Primary School,Public Schools,230211,4 Barbourtown Rd.,Canton,6019,860-693-7721,CT,POINT (-72.9151976 41.8598693),1984-01-07,1984
+256,East Windsor School District,East Windsor Middle School,Public Schools,475411,38 Main St.,Broad Brook,6016,860-623-4488,CT,POINT (-72.5466644 41.9220605),2000-01-07,2000
+257,Madison School District,Walter C. Polson Middle School,Public Schools,765211,302 Green Hill Rd.,Madison,6443,203-245-6480,CT,POINT (-72.61826769651765 41.29567385),2003-01-07,2003
+258,Andover School District,Andover Elementary School,Public Schools,10111,35 School Rd.,Andover,6232,860-742-7339,CT,POINT (-72.3665866 41.7285924),1984-01-07,1984
+259,Goodwin University Educational Services (GUES),Riverside Magnet School at Goodwin University,College Affiliated Schools,2310218,29 Willowbrook Road,East Hartford,6118,860-709-6800,CT,POINT (-72.63736925609068 41.74455435),2021-01-07,2021
+260,Fairfield School District,Holland Hill School,Public Schools,510411,105 Meadowcroft Road,Fairfield,6824,203-255-8314,CT,POINT (-73.2444078 41.1707687),1984-01-07,1984
+261,Tolland School District,Tolland High School,Public Schools,1426111,1 Eagle Hill,Tolland,6084,860-870-6818,CT,POINT (-72.33897941143064 41.8711896),1984-01-07,1984
+262,New Britain School District,New Britain School District,Public School Districts,890011,272 Main St,New Britain,6050,860-827-2200,CT,POINT (-72.7822025 41.6680399),1996-01-07,1996
+263,New Canaan School District,New Canaan High School,Public Schools,906111,11 Farm Rd.,New Canaan,6840,203-594-4600,CT,POINT (-73.489439 41.1287756),1984-01-07,1984
+264,Greenwich School District,Riverside School,Public Schools,571011,90 Hendrie Ave.,Riverside,6878,203-637-1440,CT,POINT (-73.5796714 41.0328861),1984-01-07,1984
+265,Bridgeport School District,Geraldine Johnson School,Public Schools,153211,475 Lexington Avenue,Bridgeport,6604,203-275-2500,CT,POINT (-73.20402103596848 41.1845462),1984-01-07,1984
+266,East Hampton School District,Memorial School,Public Schools,420111,20 Smith St.,East Hampton,6424,860-365-4020,CT,POINT (-72.48612034407006 41.57056225),1984-01-07,1984
+267,Greenwich School District,Hamilton Avenue School,Public Schools,570511,184 Hamilton Avenue,Greenwich,6830,203-869-1685,CT,POINT (-73.6401677 41.0179288),1984-01-07,1984
+269,Glastonbury School District,Hopewell School,Public Schools,540611,1068 Chestnut Hill Rd.,South Glastonbury,6073,860-652-7897,CT,POINT (-72.5887609 41.6772554),1984-01-07,1984
+270,Judicial Centers,Bridgeport Residential Center,State Agency Facilities,3480115,60 Housatonic Ave,Bridgeport,6604,203-579-3671,CT,POINT (-73.18794431987745 41.1823064),,
+271,East Lyme School District,Flanders School,Public Schools,450111,167 Boston Post Rd.,East Lyme,6333,860-739-8475,CT,POINT (-72.21562867684045 41.36807715),1984-01-07,1984
+272,Meriden School District,Roger Sherman School,Public Schools,800811,64 North Pearl St.,Meriden,6450,203-238-1286,CT,POINT (-72.7835975 41.5356397),1984-01-07,1984
+273,Ansonia School District,Ansonia High School,Public Schools,26111,20 Pulaski Hwy.,Ansonia,6401,203-736-5060,CT,POINT (-73.0610082857143 41.32868085714286),1984-01-07,1984
+274,Waterbury School District,Waterbury Career Academy,Public Schools,1516711,175 Birch Street,Waterbury,6704,203-574-8000,CT,POINT (-73.0203214 41.5575222),,
+275,Ellington School District,Windermere School,Public Schools,480611,2 Abbott Rd.,Ellington,6029,860-896-2329,CT,POINT (-72.5003003 41.8716402),1984-01-07,1984
+276,Bridgeport School District,Hall School,Public Schools,151111,290 Clermont Ave.,Bridgeport,6610,203-576-7560,CT,POINT (-73.159734505577 41.19134405),1984-01-07,1984
+277,Hartford School District,"Breakthrough Magnet School, North",Public Schools,643511,25 Ridgefield Street,Hartford,6112,860-695-6380,CT,POINT (-72.6966104 41.7856835),,
+278,Canton School District,Canton Intermediate School,Public Schools,230311,39 Dyer Ave.,Canton,6019,860-693-7717,CT,POINT (-72.91977422098503 41.82225507658649),1984-01-07,1984
+279,New Britain School District,Lincoln Elementary School,Public Schools,890811,145 Steele St.,New Britain,6052,860-229-2564,CT,POINT (-72.8048794 41.6593053),1984-01-07,1984
+281,Manchester School District,Illing Middle School,Public Schools,775311,227 Middle Tpke E,Manchester,6040,860-647-3400,CT,POINT (-72.5125313 41.7858985),1984-01-07,1984
+282,Plainfield School District,Plainfield Central School,Public Schools,1095111,75 Canterbury Rd.,Plainfield,6374,860-564-6437,CT,POINT (-71.930559469634 41.68234705),1984-01-07,1984
+283,Fairfield School District,Stratfield School,Public Schools,511411,1407 Melville Ave.,Fairfield,6825,203-255-8332,CT,POINT (-73.237518 41.1947718),1984-01-07,1984
+284,New Fairfield School District,Consolidated School,Public Schools,910111,24 Gillotti Rd.,New Fairfield,6812,203-312-5940,CT,POINT (-73.4990798 41.4621626),1984-01-07,1984
+285,Old Saybrook School District,Kathleen E. Goodwin School,Public Schools,1060211,80 Old Boston Post Rd.,Old Saybrook,6475,860-395-3165,CT,POINT (-72.3818123 41.2861053),1984-01-07,1984
+286,New Haven School District,John C. Daniels,Public Schools,931311,569 Congress Ave.,New Haven,6519,475-220-3600,CT,POINT (-72.9385145 41.3005838),2007-01-07,2007
+287,Stamford School District,Rogers International School,Public Schools,1350811,202 Blachley Rd.,Stamford,6902,203-977-4560,CT,POINT (-73.5160857 41.0520136),1984-01-07,1984
+288,Waterford School District,Quaker Hill Elementary School,Public Schools,1520711,285 Bloomingdale Rd.,Quaker Hill,6375,860-442-1095,CT,POINT (-72.113377 41.4018012),,
+289,Bridgeport School District,Central High School,Public Schools,156211,1 Lincoln Blvd.,Bridgeport,6606,203-576-7377,CT,POINT (-73.2050204328568 41.18855455),1984-01-07,1984
+291,Department of Mental Health and Addiction Services,Southeast Mental Health Authority,State Agency Facilities,3370715,401 West Thames St.,Norwich,6360,860-262-7175,CT,POINT (-72.09463487231037 41.50643325),2007-01-07,2007
+292,Amistad Academy District,Amistad Academy District,Public Charter School Districts,2790013,370 James Street,New Haven,6513,203-772-7000,CT,POINT (-72.9042581 41.3132619),1999-01-07,1999
+293,Southington School District,Southington School District,Public School Districts,1310011,200 North Main Street,Southington,6489,860-628-3202,CT,POINT (-72.878208 41.606213),1996-01-07,1996
+294,Stamford School District,"The Academy of Information, Technology & Engineering",Public Schools,1356411,411 High Ridge Rd.,Stamford,6905,203-977-4336,CT,POINT (-73.54918970066068 41.0854553057768),2003-01-07,2003
+295,Hartford School District,Global Communications Academy,Public Schools,643611,85 Edwards Street,Hartford,6112,860-695-6020,CT,POINT (-72.68210655376039 41.7753421),,
+296,East Hartford School District,East Hartford Middle School,Public Schools,435111,777 Burnside Ave.,East Hartford,6108,860-622-5600,CT,POINT (-72.60368945634193 41.7785246),1997-01-07,1997
+297,Hartford School District,Naylor/CCSU Leadership Academy,Public Schools,641411,639 Franklin Avenue,Hartford,6114,860-695-4620,CT,POINT (-72.6752216 41.7305327),1984-01-07,1984
+298,New Hartford School District,Bakerville Consolidated School,Public Schools,920111,51 Cedar Ln.,New Hartford,6057,860-482-0288,CT,POINT (-73.0354853 41.833544),1984-01-07,1984
+299,Regional School District 13,John Lyman School,Regional Schools,2130512,106 Way Rd.,Middlefield,6455,860-349-7240,CT,POINT (-72.72539637269652 41.51830595),2002-01-07,2002
+300,Ridgefield School District,Branchville Elementary School,Public Schools,1180611,40 Florida Rd.,Ridgefield,6877,203-894-5850,CT,POINT (-73.44615729287483 41.27055510617882),1995-01-07,1995
+301,Regional School District 08,Regional School District 08,Regional School Districts,2080012,85 Wall Street,Hebron,6248,860-228-2115,CT,POINT (-72.3653186925972 41.6644418),2002-01-07,2002
+302,Stamford School District,Northeast School,Public Schools,1351811,82 Scofieldtown Rd.,Stamford,6903,203-977-4469,CT,POINT (-73.5469512 41.1224759),1984-01-07,1984
+304,Achievement First Hartford Academy District,Achievement First Hartford Academy District,Public Charter School Districts,2880013,370 James Street,New Haven,6513,860-695-5280,CT,POINT (-72.9042581 41.3132619),,
+305,Guilford School District,Melissa Jones School,Public Schools,600311,181 Ledge Hill Rd.,Guilford,6437,203-457-0773,CT,POINT (-72.7263389 41.3688914),1984-01-07,1984
+306,Waterbury School District,Woodrow Wilson School,Public Schools,1513211,235 Birch St.,Waterbury,6704,203-573-6660,CT,POINT (-73.0198051 41.5561774),1997-01-07,1997
+307,West Haven School District,Seth G. Haley School,Public Schools,1560411,148 South St.,West Haven,6516,203-931-6810,CT,POINT (-72.97748769061874 41.24204679357922),1984-01-07,1984
+308,Connecticut Technical Education and Career System,H. C. Wilcox Technical High School,CT Technical Education and Career Schools,9001716,298 Oregon Rd.,Meriden,6450,203-238-6260,CT,POINT (-72.83077359004258 41.53117223750016),2000-01-07,2000
+309,Waterbury School District,Bunker Hill School,Public Schools,1510611,170 Bunker Hill Ave.,Waterbury,6708,203-574-8183,CT,POINT (-73.06232402480971 41.56799615),1984-01-07,1984
+310,Shelton School District,Shelton High School,Public Schools,1266111,120 Meadow St.,Shelton,6484,203-922-3004,CT,POINT (-73.1186657658352 41.31694295),1984-01-07,1984
+311,Stratford School District,Wilcoxson School,Public Schools,1381411,600 Wilcoxson Avenue,Stratford,6614,203-385-4196,CT,POINT (-73.122288 41.207429),1984-01-07,1984
+312,Wolcott School District,Alcott School,Public Schools,1660611,1490 Woodtick Rd.,Wolcott,6716,203-879-8160,CT,POINT (-72.95675980964029 41.62363305),1984-01-07,1984
+313,South Windsor School District,Orchard Hill School,Public Schools,1320611,380 Foster St.,South Windsor,6074,860-648-5015,CT,POINT (-72.5267545 41.8296232),1984-01-07,1984
+314,West Hartford School District,Bristow Middle School,Public Schools,1555311,34 Highland St.,West Hartford,6102,860-231-2100,CT,POINT (-72.717253 41.7679654),2005-01-07,2005
+315,Granby School District,Granby Memorial High School,Public Schools,566111,54 North Granby Road,Granby,6035,860-844-3014,CT,POINT (-72.79595873662232 41.95901831913793),1984-01-07,1984
+316,Essex School District,Essex School District,Public School Districts,500011,1 Winthrop Road,Deep River,6417,860-526-2417,CT,POINT (-72.4562226 41.3646322),1996-01-07,1996
+317,Cooperative Educational Services,Cooperative Educational Services,Regional Education Service Center School Districts,2430014,40 Lindeman Drive,Trumbull,6611,203-365-8803,CT,POINT (-73.1996097 41.2332238),2000-01-07,2000
+318,Trumbull School District,Tashua School,Public Schools,1440911,401 Stonehouse Rd.,Trumbull,6611,203-452-4433,CT,POINT (-73.2430987 41.2747553),1984-01-07,1984
+319,Hamden School District,Hamden Middle School,Public Schools,625211,2623 Dixwell Ave.,Hamden,6518,203-407-3140,CT,POINT (-72.91179069113286 41.37871635),1984-01-07,1984
+320,Bethel School District,Ralph M. T. Johnson School,Public Schools,90511,500 Whittlesey Dr.,Bethel,6801,203-794-8700,CT,POINT (-73.3965549 41.3840241),1984-01-07,1984
+322,Connecticut Technical Education and Career System,Bullard-Havens Technical High School,CT Technical Education and Career Schools,9001116,500 Palisade Ave.,Bridgeport,6610,203-579-6333,CT,POINT (-73.16358944060909 41.20004665),2000-01-07,2000
+323,New Milford School District,New Milford High School,Public Schools,966111,388 Danbury Rd.,New Milford,6776,860-350-6647,CT,POINT (-73.4248818 41.5269938),1984-01-07,1984
+324,Danbury School District,Hayestown Avenue School,Public Schools,340211,42 Tamarack Ave.,Danbury,6811,203-797-4771,CT,POINT (-73.45206034097029 41.4149244),1984-01-07,1984
+325,Stratford School District,Franklin School,Public Schools,1380411,1895 Barnum Avenue,Stratford,6615,203-385-4190,CT,POINT (-73.14619355260392 41.19311678318807),1984-01-07,1984
+326,New Haven School District,Family Academy of Multilingual Exploration,Public Schools,934111,255 Blatchley Ave.,New Haven,6513,475-220-2500,CT,POINT (-72.8988326 41.3094556),1984-01-07,1984
+327,Hartford School District,Capital Preparatory Magnet School,Public Schools,646911,1304 Main Street,Hartford,6103,860-695-9800,CT,POINT (-72.67529714688911 41.7721633),2005-01-07,2005
+328,Glastonbury School District,Glastonbury High School,Public Schools,546111,330 Hubbard St.,Glastonbury,6033,860-652-7200,CT,POINT (-72.59057068811434 41.7006153),1984-01-07,1984
+329,Bridgeport School District,Read School,Public Schools,152511,130 Ezra St.,Bridgeport,6606,203-576-8030,CT,POINT (-73.19857228543903 41.20285005),1984-01-07,1984
+331,Derby School District,Derby Middle School,Public Schools,375011,73 Chatfield Street,Derby,6418,203-736-1426,CT,POINT (-73.09894709787291 41.33497089332873),2010-04-01,2010
+332,Lebanon School District,Lebanon School District,Public School Districts,710011,891 Exeter Road,Lebanon,6249,860-642-7795,CT,POINT (-72.2382541 41.6264601),1996-01-07,1996
+333,Portland School District,Portland School District,Public School Districts,1130011,33 East Main Street,Portland,6480,860-342-6790,CT,POINT (-72.6343852 41.575425),1996-01-07,1996
+334,Norwalk School District,Cranbury Elementary School,Public Schools,1030411,10 Knowalot Lane,Norwalk,6851,203-846-3600,CT,POINT (-73.40344173621264 41.15539821596366),1984-01-07,1984
+335,Madison School District,Daniel Hand High School,Public Schools,766111,286 Green Hill Rd.,Madison,6443,203-245-6350,CT,POINT (-72.61938300725302 41.29351425),1984-01-07,1984
+336,Fairfield School District,Fairfield Woods Middle School,Public Schools,515211,1115 Fairfield Woods Rd.,Fairfield,6824,203-255-8334,CT,POINT (-73.2482191 41.1866771),1984-01-07,1984
+337,Stafford School District,Stafford High School,Public Schools,1346111,145 Orcuttville Rd.,Stafford Springs,6076,860-684-4233,CT,POINT (-72.306111443809 41.97034345),1984-01-07,1984
+338,Berlin School District,Catherine M. McGee Middle School,Public Schools,75111,899 Norton Rd.,Berlin,6037,860-828-0323,CT,POINT (-72.7631762 41.6160731),1984-01-07,1984
+339,Colchester School District,Jack Jackter Intermediate School,Public Schools,280211,215 Halls Hill Rd.,Colchester,6415,860-537-9421,CT,POINT (-72.32174907484901 41.5721069),1984-01-07,1984
+340,Danbury School District,Park Avenue School,Public Schools,340811,82 Park Ave.,Danbury,6810,203-797-4763,CT,POINT (-73.46153127180756 41.3861182),1984-01-07,1984
+341,Stonington School District,West Vine Street School,Public Schools,1370611,17 West Vine St.,Pawcatuck,6379,860-599-5832,CT,POINT (-71.8421324 41.3863683),1984-01-07,1984
+342,Scotland School District,Scotland School District,Public School Districts,1230011,68 Brook Road,Scotland,6264,860-423-0064,CT,POINT (-72.08098661009001 41.70355485),1996-01-07,1996
+343,Bloomfield School District,Laurel Literacy Academy,Public Schools,110611,1 Filley St.,Bloomfield,6002,860-286-2675,CT,POINT (-72.72388829130662 41.83825065),2012-01-07,2012
+344,The Woodstock Academy District,The Woodstock Academy District,Endowed and Incorporated Academies Districts,9030022,57 Academy Road,Woodstock,6281,860-928-6575,CT,POINT (-71.97312686702469 41.9527722),2000-01-07,2000
+345,Bristol School District,Ellen P. Hubbell School,Public Schools,171411,90 West Washington St.,Bristol,6010,860-584-7842,CT,POINT (-72.908206 41.6788343),1998-01-07,1998
+346,Waterbury School District,Waterbury Arts Magnet School,Public Schools,1516011,16 South Elm St.,Waterbury,6706,203-573-6300,CT,POINT (-73.0380903693038 41.5546674),2005-01-07,2005
+347,Middletown School District,Lawrence School,Public Schools,831311,Kaplan Dr.,Middletown,6457,860-632-2158,CT,POINT (-72.6816718 41.5850846),1984-01-07,1984
+348,East Haven School District,Overbrook Early Learning Center,Public Schools,441811,54 Gerrish Ave.,East Haven,6512,203-468-3305,CT,POINT (-72.88040562000037 41.28013575),2001-01-07,2001
+349,Tolland School District,Tolland Intermediate School,Public Schools,1420211,96 Old Post RD,Tolland,6084,860-870-6885,CT,POINT (-72.37139323722764 41.8697895),1984-01-07,1984
+350,New Haven School District,Betsy Ross Arts Magnet School,Public Schools,935511,150 Kimberly Ave.,New Haven,6519,475-220-5300,CT,POINT (-72.9341712 41.2889431),1984-01-07,1984
+352,Regional School District 04,John Winthrop Middle School,Regional Schools,2045112,1 Winthrop Road,Deep River,6417,860-526-9546,CT,POINT (-72.4562226 41.3646322),2002-01-07,2002
+353,Enfield School District,Enfield Street School,Public Schools,490211,1318 Enfield St.,Enfield,6082,860-253-6565,CT,POINT (-72.5937383 41.9764129),1984-01-07,1984
+354,East Granby School District,Allgrove School,Public Schools,400111,33 Turkey Hills Rd.,East Granby,6026,860-653-2505,CT,POINT (-72.73256176157517 41.9432122),1984-01-07,1984
+355,Hartford School District,Environmental Sciences Magnet at Hooker School,Public Schools,640911,440 Broadview Terrace,Hartford,6106,860-695-3760,CT,POINT (-72.70266235174898 41.7417629),1984-01-07,1984
+356,North Stonington School District,Wheeler High School,Public Schools,1026111,297 Norwich/Westerly Rd.,North Stonington,6359,860-535-0377,CT,POINT (-71.88506876681141 41.438976571181875),1984-01-07,1984
+357,Wallingford School District,Wallingford School District,Public School Districts,1480011,100 South Turnpike Road,Wallingford,6492,203-949-6500,CT,POINT (-72.8441897 41.4467448),1996-01-07,1996
+358,Torrington School District,Southwest School,Public Schools,1430811,340 Litchfield St.,Torrington,6790,860-489-2311,CT,POINT (-73.1270571 41.7951148),1984-01-07,1984
+359,Manchester School District,Verplanck School,Public Schools,771211,126 Olcott Street,Manchester,6040,860-647-3383,CT,POINT (-72.5539313 41.7727708),1984-01-07,1984
+360,Bristol School District,Chippens Hill Middle School,Public Schools,175111,551 Peacedale St.,Bristol,6010,860-584-3881,CT,POINT (-72.9652104 41.6991182),1992-01-07,1992
+363,New London School District,New London School District,Public School Districts,950011,134 Williams Street,New London,6320,860-447-6000,CT,POINT (-72.106313 41.3578272),1996-01-07,1996
+364,New Canaan School District,New Canaan School District,Public School Districts,900011,39 Locust Avenue,New Canaan,6840,203-594-4018,CT,POINT (-73.49168470944736 41.1488942),1996-01-07,1996
+365,Stratford School District,Stratford High School,Public Schools,1386111,245 King Street,Stratford,6615,203-385-4230,CT,POINT (-73.1346379130108 41.19614945273993),1984-01-07,1984
+366,Wallingford School District,James H. Moran Middle School,Public Schools,1485311,141 Hope Hill Road,Wallingford,6492,203-741-2900,CT,POINT (-72.83115096578665 41.4850754),1984-01-07,1984
+367,Achievement First Bridgeport Academy District,Achievement First Bridgeport Academy District,Public Charter School Districts,2850013,370 James Street,New Haven,6513,203-333-9128,CT,POINT (-72.9042581 41.3132619),2007-02-08,2007
+368,Middletown School District,Spencer School,Public Schools,830111,207 Westfield St.,Middletown,6457,860-344-0711,CT,POINT (-72.67676704359134 41.563634821334745),1990-01-07,1990
+369,Montville School District,Oakdale School,Public Schools,860511,30 Indiana Circle,Oakdale,6370,860-859-1800,CT,POINT (-72.19169741803327 41.4708969),1984-01-07,1984
+370,Regional School District 15,Long Meadow Elementary School,Regional Schools,2150712,65 North Benson Rd.,Middlebury,6762,203-758-1144,CT,POINT (-73.15482026941568 41.5039455),2002-01-07,2002
+371,Woodstock School District,Woodstock Elementary School,Public Schools,1690211,24 Frog Pond Rd.,Woodstock,6281,860-928-0471,CT,POINT (-71.9627367 41.9442335),1984-01-07,1984
+372,Somers School District,Somers School District,Public School Districts,1290011,1 Vision Blvd,Somers,6071,860-749-2270,CT,POINT (-72.4613111 41.9787843),1996-01-07,1996
+374,Department of Mental Health and Addiction Services,Connecticut Valley Hospital,State Agency Facilities,3370215,1000 Silver St.,Middletown,6457,860-262-7175,CT,POINT (-72.6379425 41.5522531),2007-01-07,2007
+375,New Haven School District,Benjamin Jepson Magnet School,Public Schools,931811,15 Lexington Ave.,New Haven,6513,475-220-2900,CT,POINT (-72.888226 41.2980246),1990-01-07,1990
+376,Area Cooperative Educational Services,ACES at Chase,Regional Education Service Center Schools,2445114,565 Chase Parkway,Waterbury,6708,203-639-8403,CT,POINT (-73.06588725130729 41.54525345),2001-01-07,2001
+377,Ridgefield School District,Veterans Park Elementary School,Public Schools,1180211,8 Governor St.,Ridgefield,6877,203-894-5525,CT,POINT (-73.49641584126148 41.2795247),1984-01-07,1984
+378,Meriden School District,Lincoln Middle School,Public Schools,805211,164 Centennial Ave.,Meriden,6450,203-238-2381,CT,POINT (-72.8242831 41.5373722),1984-01-07,1984
+379,Thompson School District,Mary R. Fisher Elementary School,Public Schools,1410111,785 Riverside Dr.,North Grosvenordale,6255,860-923-9142,CT,POINT (-71.89787309538576 41.97743775),1984-01-07,1984
+381,Westport School District,Long Lots School,Public Schools,1580711,13 Hyde Ln.,Westport,6880,203-341-1910,CT,POINT (-73.3150731 41.1433619),1997-01-07,1997
+382,Windsor School District,Windsor High School,Public Schools,1646111,50 Sage Park Rd.,Windsor,6095,860-687-2020,CT,POINT (-72.6557922107456 41.8436493),1984-01-07,1984
+383,Farmington School District,Irving A. Robbins Middle School,Public Schools,525111,20 Wolf Pit Rd.,Farmington,6032,860-677-2683,CT,POINT (-72.7983414 41.7204754),1984-01-07,1984
+384,East Haven School District,Deer Run School,Public Schools,440111,311 Foxon Rd.,East Haven,6512,203-468-3324,CT,POINT (-72.83534070276906 41.32833565),1984-01-07,1984
+385,Capitol Region Education Council,Glastonbury/East Hartford Magnet School,Regional Education Service Center Schools,2410114,95 Oak Street,Glastonbury,6033,860-633-4455,CT,POINT (-72.5946342 41.708823),2000-01-07,2000
+386,New Britain School District,Pulaski Middle School,Public Schools,895311,757 Farmington Ave.,New Britain,6053,860-225-7665,CT,POINT (-72.78826076535442 41.698868),1997-01-07,1997
+387,Shelton School District,Mohegan School,Public Schools,1260911,47 Mohegan Rd.,Shelton,6484,203-929-4121,CT,POINT (-73.1699033 41.3042805),1984-01-07,1984
+388,Newington School District,Ruth Chaffee School,Public Schools,940711,160 Superior Ave.,Newington,6111,860-666-4687,CT,POINT (-72.7153594 41.6830048),1984-01-07,1984
+389,Portland School District,Portland Middle School,Public Schools,1135111,93 High Street,Portland,6480,860-342-1880,CT,POINT (-72.6219868 41.5802118),1984-01-07,1984
+390,Regional School District 17,Burr District Elementary School,Regional Schools,2170212,792 Killingworth Road,Higganum,6441,860-345-4584,CT,POINT (-72.55536104611058 41.4458026495597),2002-01-07,2002
+391,Norwich Free Academy District,Norwich Free Academy District,Endowed and Incorporated Academies Districts,9010022,305 Broadway,Norwich,6360,860-887-2505,CT,POINT (-72.08038405156037 41.53811715),2000-01-07,2000
+392,Vernon School District,Center Road School,Public Schools,1461411,20 Center Rd.,Vernon,6066,860-870-6300,CT,POINT (-72.46660981509825 41.839614),1984-01-07,1984
+393,Interdistrict School for Arts and Comm District,Interdistrict School for Arts and Comm District,Public Charter School Districts,2650013,190 Governor Winthrop Blvd.,New London,6320,860-447-1003,CT,POINT (-72.09815155858001 41.35569015),,
+394,Greenwich School District,Western Middle School,Public Schools,575311,1 Western Junior Hwy.,Greenwich,6830,203-531-5700,CT,POINT (-73.6497629 41.0109945),1984-01-07,1984
+395,Norwich School District,Bishop School Early Learning Center,Public Schools,1040111,526 East Main St.,Norwich,6360,860-823-4201,CT,POINT (-72.06253676907865 41.5229398),1984-01-07,1984
+396,West Hartford School District,Aiken School,Public Schools,1551611,212 King Philip Dr.,West Hartford,6117,860-233-6994,CT,POINT (-72.7446715 41.8007836),1990-01-07,1990
+397,Windsor Locks School District,Windsor Locks High School,Public Schools,1656111,58 South Elm St.,Windsor Locks,6096,860-292-5032,CT,POINT (-72.64346860647494 41.91988715),1984-01-07,1984
+398,Cromwell School District,Cromwell Middle School,Public Schools,335111,6 Captain James Mann Memorial Dr.,Cromwell,6416,860-632-4853,CT,POINT (-72.6576549028839 41.62762185),1984-01-07,1984
+400,Capitol Region Education Council,Discovery Academy,Regional Education Service Center Schools,2418114,176 Cumberland Avenue,Wethersfield,6109,860-296-2090,CT,POINT (-72.67522025662834 41.7204358),,
+401,Regional School District 13,Regional School District 13,Regional School Districts,2130012,135-A Pickett Lane,Durham,6422,860-349-7200,CT,POINT (-72.6745935 41.4755562),2002-01-07,2002
+402,Capitol Region Education Council,Ana Grace Academy of the Arts,Regional Education Service Center Schools,2410614,129 Griffin Road North,Bloomfield,6002,860-677-0380,CT,POINT (-72.7392413 41.8844073),,
+403,Connecticut Technical Education and Career System,J. M. Wright Technical High School,CT Technical Education and Career Schools,9002116,120 Bridge St.,Stamford,6905,203-324-7363,CT,POINT (-73.54716999718462 41.06136465),,
+404,Salem School District,Salem School District,Public School Districts,1210011,200 Hartford Road,Salem,6420,860-892-1223,CT,POINT (-72.273801 41.4879775),1996-01-07,1996
+405,Wethersfield School District,Emerson-Williams School,Public Schools,1590211,461 Wells Rd.,Wethersfield,6109,860-571-8360,CT,POINT (-72.68057719875068 41.7033258),1984-01-07,1984
+406,Killingly School District,Killingly Central School,Public Schools,690111,60 Soap St.,Dayville,6241,860-779-6750,CT,POINT (-71.8837177 41.8490812),1999-01-07,1999
+407,Avon School District,Avon School District,Public School Districts,40011,34 Simsbury Road,Avon,6001,860-404-4700,CT,POINT (-72.8297774 41.8119462),1996-01-07,1996
+408,Regional School District 18,Mile Creek School,Regional Schools,2180212,205 Mile Creek Rd.,Old Lyme,6371,860-434-2209,CT,POINT (-72.28339863220971 41.2965003424691),2002-01-07,2002
+409,Derby School District,Derby School District,Public School Districts,370011,35 Fifth Street,Derby,6418,203-736-5027,CT,POINT (-73.09086461114615 41.322963546405774),1996-01-07,1996
+410,Windsor School District,Windsor School District,Public School Districts,1640011,601 Matianuck Avenue,Windsor,6095,860-687-2000,CT,POINT (-72.673192 41.824037),1996-01-07,1996
+411,Hartford School District,Classical Magnet School,Public Schools,646411,85 Woodland Street,Hartford,6105,860-695-9100,CT,POINT (-72.7026054 41.7731516),1995-01-07,1995
+412,Bridgeport School District,Black Rock School,Public Schools,150311,545 Brewster St.,Bridgeport,6605,203-576-7500,CT,POINT (-73.22616991921063 41.1563353),1984-01-07,1984
+414,Hartford School District,SAND School,Public Schools,640111,1750 Main Street,Hartford,6120,860-695-5040,CT,POINT (-72.6758474 41.7790683),1984-01-07,1984
+415,Danbury School District,King Street Primary School,Public Schools,341311,151 South King St.,Danbury,6811,203-797-4744,CT,POINT (-73.50020011338245 41.4244293),1984-01-07,1984
+416,New Milford School District,New Milford School District,Public School Districts,960011,50 East Street,New Milford,6776,860-355-8406,CT,POINT (-73.4079253 41.5802244),1996-01-07,1996
+419,North Branford School District,Jerome Harrison School,Public Schools,990411,335 Foxon Rd.,North Branford,6471,203-484-1235,CT,POINT (-72.810816 41.3280034),1984-01-07,1984
+420,Sprague School District,Sayles School,Public Schools,1330111,25 Scotland Road,Baltic,6330,860-822-8264,CT,POINT (-72.08583297323483 41.6231168),1984-01-07,1984
+422,Capitol Region Education Council,Academy of International Studies 6-12,Regional Education Service Center Schools,2416114,1551 Blue Hills Ave.,Bloomfield,6002,860-242-7834,CT,POINT (-72.72666604165046 41.86984385),2000-01-07,2000
+423,Naugatuck School District,Maple Hill School,Public Schools,880311,641 Maple Hill Rd.,Naugatuck,6770,203-720-5236,CT,POINT (-73.0176589 41.4889668),1989-01-07,1989
+424,Willington School District,Hall Memorial School,Public Schools,1605111,111 River Rd.,West Willington,6279,860-429-9391,CT,POINT (-72.3019236 41.881673),1997-01-07,1997
+425,Trumbull School District,Trumbull School District,Public School Districts,1440011,6254 Main Street,Trumbull,6611,203-452-4301,CT,POINT (-73.2250296 41.2690198),1996-01-07,1996
+426,Brooklyn School District,Brooklyn Middle School,Public Schools,195111,119 Gorman Rd.,Brooklyn,6234,860-774-9153,CT,POINT (-71.93643000185398 41.78538985),1984-01-07,1984
+427,Groton School District,Charles Barnum Magnet School,Public Schools,591811,68 Briar Hill Rd.,Groton,6340,860-449-5640,CT,POINT (-72.0675404 41.3847976),1984-01-07,1984
+428,Milford School District,Milford School District,Public School Districts,840011,70 West River Street,Milford,6460,203-783-3402,CT,POINT (-73.0593119831054 41.2259188),1996-01-07,1996
+429,Enfield School District,Eli Whitney School,Public Schools,491611,94 Middle Rd.,Enfield,6082,860-763-7540,CT,POINT (-72.55686759379229 41.9853724066727),1984-01-07,1984
+430,Wallingford School District,Mary G. Fritz Elementary School of Yalesville,Public Schools,1480811,415 Church Street,Yalesville,6492,203-284-6900,CT,POINT (-72.824158 41.491313),1984-01-07,1984
+431,Achievement First Bridgeport Academy District,Achievement First Bridgeport Academy,Public Charter Schools,2850113,655 Stillman St.,Bridgeport,6608,203-338-0593,CT,POINT (-73.1760524 41.1926164),2007-02-08,2007
+432,Woodstock School District,Woodstock Middle School,Public Schools,1695111,147 B-Route 169,Woodstock,6281,860-963-6575,CT,POINT (-72.0100215 42.0269172),1995-01-07,1995
+433,Regional School District 15,Pomperaug Regional High School,Regional Schools,2156212,234 Judd Rd.,Southbury,6488,203-262-3200,CT,POINT (-73.1609344 41.5024593),2002-01-07,2002
+434,Monroe School District,Fawn Hollow Elementary School,Public Schools,850511,375 Fan Hill Rd.,Monroe,6468,203-452-2923,CT,POINT (-73.23080673214054 41.3466660953926),1984-01-07,1984
+435,Cheshire School District,Darcey School,Public Schools,250211,1686 Waterbury Rd.,Cheshire,6410,203-272-3577,CT,POINT (-72.940402 41.537069),1984-01-07,1984
+436,East Haven School District,Momauguin School,Public Schools,440711,99 Cosey Beach Rd.,East Haven,6512,203-468-3321,CT,POINT (-72.871856 41.248156),1984-01-07,1984
+437,Guilford School District,Guilford High School,Public Schools,606111,605 New England Rd.,Guilford,6437,203-453-2741,CT,POINT (-72.71295588348337 41.31376512621191),1984-01-07,1984
+438,Watertown School District,Watertown High School,Public Schools,1536111,324 French St.,Watertown,6795,860-945-4810,CT,POINT (-73.10245670955362 41.59411865),1984-01-07,1984
+439,Bridgeport School District,Wilbur Cross School,Public Schools,153911,1775 Reservoir Ave.,Bridgeport,6606,203-275-2100,CT,POINT (-73.1950053 41.2250002),1984-01-07,1984
+440,New Haven School District,Brennan Rogers School,Public Schools,932111,200 Wilmot Rd.,New Haven,6515,475-220-2200,CT,POINT (-72.9587647 41.344016),2010-01-07,2010
+441,Simsbury School District,Latimer Lane School,Public Schools,1280611,33 Mountain View Rd.,Weatogue,6089,860-658-4774,CT,POINT (-72.82124388488315 41.84127567782554),1984-01-07,1984
+443,Derby School District,Derby High School,Public Schools,376111,75 Chatfield Street,Derby,6418,203-736-5032,CT,POINT (-73.09886276823353 41.335066820750676),1984-01-07,1984
+444,New Haven School District,New Haven School District,Public School Districts,930011,54 Meadow Street,New Haven,6519,475-220-1000,CT,POINT (-72.9262862 41.2998773),1996-01-07,1996
+445,Oxford School District,Oxford School District,Public School Districts,1080011,462 Oxford Road,Oxford,6478,203-888-7754,CT,POINT (-73.1186221 41.4374716),1996-01-07,1996
+446,Waterbury School District,Duggan School,Public Schools,1511611,952 Bank Street,Waterbury,6708,203-574-8875,CT,POINT (-73.0469297 41.5434762),,
+449,Milford School District,Live Oaks School,Public Schools,841611,575 Merwin Ave.,Milford,6460,203-783-3564,CT,POINT (-72.9953815 41.2378751),1984-01-07,1984
+451,New Canaan School District,Saxe Middle School,Public Schools,905111,468 South Ave.,New Canaan,6840,203-594-4564,CT,POINT (-73.4854889 41.1317835),1984-01-07,1984
+452,Monroe School District,Jockey Hollow School,Public Schools,855211,365 Fan Hill Rd.,Monroe,6468,203-452-2905,CT,POINT (-73.2335329 41.3438125),1998-01-07,1998
+453,Windsor Locks School District,Windsor Locks Middle School,Public Schools,1655111,7 Center St.,Windsor Locks,6096,860-292-5012,CT,POINT (-72.6318142873675 41.92777445),1984-01-07,1984
+454,Judicial Centers,Hartford Residential Center,State Agency Facilities,3480315,920 Broad St.,Hartford,6106,860-244-7965,CT,POINT (-72.68628902286983 41.75682915),,
+455,New London School District,New London Visual and Performing Arts Magnet School,Public Schools,951411,36 Waller Street,New London,6320,860-449-6800,CT,POINT (-72.1069808 41.3581612),2016-01-09,2016
+457,Regional School District 06,Goshen Center School,Regional Schools,2060112,50 North St.,Goshen,6756,860-491-6020,CT,POINT (-73.227171 41.8349519),2002-01-07,2002
+458,Westport School District,Westport School District,Public School Districts,1580011,110 Myrtle Avenue,Westport,6880,203-341-1025,CT,POINT (-73.35994250022787 41.1450981),1996-01-07,1996
+459,New Beginnings Inc Family Academy District,New Beginnings Inc Family Academy District,Public Charter School Districts,2800013,184 Garden St.,Bridgeport,6605,203-384-2897,CT,POINT (-73.19895913049942 41.1698456),2002-01-07,2002
+460,New Haven School District,Nathan Hale School,Public Schools,931411,480 Townsend Ave.,New Haven,6512,475-220-4200,CT,POINT (-72.8976499 41.2695218),1984-01-07,1984
+461,East Hartford School District,Dr. Franklin H. Mayberry School,Public Schools,430611,101 Great Hill Rd.,East Hartford,6108,860-622-5720,CT,POINT (-72.59633849018692 41.7749698),1984-01-07,1984
+462,Redding School District,Redding School District,Public School Districts,1170011,654 Morehouse Road,Easton,6612,203-261-2513,CT,POINT (-73.29475556926845 41.24979732015198),1996-01-07,1996
+463,North Haven School District,North Haven High School,Public Schools,1016111,221 Elm Street,North Haven,6473,203-239-1641,CT,POINT (-72.8625645 41.3730647),1984-01-07,1984
+464,Thomaston School District,Thomaston School District,Public School Districts,1400011,185 Branch Road,Thomaston,6787,860-283-3053,CT,POINT (-73.09391082213806 41.65785449989002),1996-01-07,1996
+465,Hartford School District,Bulkeley High School,Public Schools,647111,395 Lyme Street,Hartford,6112,860-695-1011,CT,POINT (-72.7044282 41.803952),2009-01-07,2009
+466,Capitol Region Education Council,Montessori Magnet School,Regional Education Service Center Schools,2413114,1460 Broad St.,Hartford,6106,860-757-6100,CT,POINT (-72.6865791 41.7495633),2000-01-07,2000
+468,Winchester School District,Pearson School,Public Schools,1625111,2 Wetmore Ave.,Winsted,6098,860-379-7588,CT,POINT (-73.067564 41.9260811),1997-01-07,1997
+469,Regional School District 18,Lyme-Old Lyme High School,Regional Schools,2186112,69 Lyme St.,Old Lyme,6371,860-434-1651,CT,POINT (-72.32641703534534 41.3183584),2002-01-07,2002
+470,Wethersfield School District,Silas Deane Middle School,Public Schools,1595211,551 Silas Deane Hwy.,Wethersfield,6109,860-571-8300,CT,POINT (-72.6639582 41.7105643),1984-01-07,1984
+472,New Britain School District,Smalley Elementary School,Public Schools,891211,175 West St.,New Britain,6051,860-225-8647,CT,POINT (-72.77143871200408 41.6766736),1984-01-07,1984
+473,Side By Side Charter School District,Side By Side Charter School,Public Charter Schools,2700113,10 Chestnut St.,Norwalk,6854,203-857-0306,CT,POINT (-73.42015756366737 41.09598684185112),1997-01-07,1997
+475,Connecticut Technical Education and Career System,Emmett O'Brien Technical High School,CT Technical Education and Career Schools,9002516,141 Prindle Ave.,Ansonia,6401,203-732-1800,CT,POINT (-73.06400126774923 41.33430234945581),2000-01-07,2000
+476,Learn,The Friendship School,Regional Education Service Center Schools,2450214,24 Rope Ferry Rd.,Waterford,6385,860-447-4049,CT,POINT (-72.1328933 41.3413668),2005-01-07,2005
+477,Norwich School District,Thomas W. Mahan School,Public Schools,1041711,94 Salem Tpke.,Norwich,6360,860-823-4205,CT,POINT (-72.11247528918685 41.51016455),1984-01-07,1984
+478,Unified School District #1,Corrigan/Radgowski Correctional Institution,State Agency Facilities,3362415,986 Norwich-New London Tpke.,Uncasville,6382,860-848-5729,CT,POINT (-72.1138075435719 41.4552993),2000-01-07,2000
+481,Meriden School District,Washington Middle School,Public Schools,805411,1225 North Broad St.,Meriden,6450,203-235-6606,CT,POINT (-72.7794406 41.5512902),1984-01-07,1984
+482,Wethersfield School District,Samuel B. Webb Elementary School,Public Schools,1591211,51 Willow St.,Wethersfield,6109,860-571-8340,CT,POINT (-72.6911764 41.6983225),1997-01-07,1997
+483,Danbury School District,King Street Intermediate School,Public Schools,341711,151 South King St.,Danbury,6811,203-797-4761,CT,POINT (-73.50020011338245 41.4244293),1984-01-07,1984
+484,Waterbury School District,Rotella Interdistrict Magnet School,Public Schools,1513311,380 Pierpont Rd.,Waterbury,6705,203-574-8168,CT,POINT (-72.9699327 41.549466),1999-01-07,1999
+485,Rocky Hill School District,West Hill School,Public Schools,1190511,95 Cronin Dr.,Rocky Hill,6067,860-258-7761,CT,POINT (-72.67951512673862 41.66258835236079),1984-01-07,1984
+486,Avon School District,Avon Middle School,Public Schools,45111,375 West Avon Rd.,Avon,6001,860-404-4770,CT,POINT (-72.8654425 41.7914264),1984-01-07,1984
+487,Cheshire School District,Cheshire High School,Public Schools,256111,525 South Main St.,Cheshire,6410,203-250-2511,CT,POINT (-72.907011 41.4900658),1984-01-07,1984
+489,New Haven School District,James Hillhouse High School,Public Schools,936211,480 Sherman Parkway,New Haven,6511,475-220-7500,CT,POINT (-72.93983554066781 41.32166645),1984-01-07,1984
+490,Bolton School District,Bolton High School,Public Schools,126111,72 Brandy St.,Bolton,6043,860-643-2768,CT,POINT (-72.4216413 41.7607414),1984-01-07,1984
+491,South Windsor School District,Eli Terry School,Public Schools,1320711,569 Griffin Rd.,South Windsor,6074,860-648-5020,CT,POINT (-72.5508508 41.8646706),1984-01-07,1984
+492,Hartford School District,Webster Micro Society Magnet School,Public Schools,642011,5 Cone Street,Hartford,6105,860-695-5380,CT,POINT (-72.7122362 41.7682368),1984-01-07,1984
+493,Naugatuck School District,Western School,Public Schools,880711,108 Pine St.,Naugatuck,6770,203-720-5244,CT,POINT (-73.06871497758013 41.493007275711456),1984-01-07,1984
+494,Newtown School District,Newtown Middle School,Public Schools,975111,11 Queen St.,Newtown,6470,203-426-7638,CT,POINT (-73.30041270374036 41.4117892),1984-01-07,1984
+495,Clinton School District,Jared Eliot School,Public Schools,275111,69 Fairy Dell Rd.,Clinton,6413,860-664-6503,CT,POINT (-72.5198768 41.2972168),1997-01-07,1997
+496,Cheshire School District,Dodd Middle School,Public Schools,255111,100 Park Place,Cheshire,6410,203-272-3249,CT,POINT (-72.9045978 41.5109551),1984-01-07,1984
+497,Hamden School District,Dunbar Hill School,Public Schools,620311,315 Lane St.,Hamden,6514,203-407-2025,CT,POINT (-72.9401958 41.3656416),1984-01-07,1984
+498,East Lyme School District,East Lyme High School,Public Schools,456111,30 Chesterfield Rd.,East Lyme,6333,860-739-6946,CT,POINT (-72.2127680540828 41.36890625),1984-01-07,1984
+499,Brookfield School District,Whisconier Middle School,Public Schools,185311,17 West Whisconier Rd.,Brookfield,6804,203-775-7710,CT,POINT (-73.37539905595001 41.442497095687166),1997-01-07,1997
+500,East Windsor School District,East Windsor High School,Public Schools,476111,76 South Main St.,East Windsor,6088,860-623-3361,CT,POINT (-72.61017283333334 41.90105583333333),1984-01-07,1984
+501,Unified School District #2,Unified School District #2,State Agencies,3470015,505 Hudson Street,Hartford,6106,860-550-6416,CT,POINT (-72.6793586 41.756948),2000-01-07,2000
+502,Stamford School District,Strawberry Hill an ext. of Rogers International,Public Schools,1350711,200 Strawberry Hill Ave.,Stamford,6902,203-977-6600,CT,POINT (-73.53382 41.068078),2016-01-07,2016
+503,Ansonia School District,Ansonia School District,Public School Districts,20011,42 Grove Street,Ansonia,6401,203-736-5095,CT,POINT (-73.08584301616465 41.34211419576316),1996-01-07,1996
+504,Regional School District 16,Long River Middle School,Regional Schools,2165112,38 Columbia Ave.,Prospect,6712,203-758-4421,CT,POINT (-72.97632291765888 41.50427785),2002-01-07,2002
+505,West Hartford School District,West Hartford School District,Public School Districts,1550011,50 South Main Street,West Hartford,6107,860-561-6600,CT,POINT (-72.74174753292121 41.758528),1996-01-07,1996
+506,Fairfield School District,McKinley School,Public Schools,510611,60 Thompson St.,Fairfield,6825,203-255-8318,CT,POINT (-73.2378355 41.1800469),1984-01-07,1984
+507,Norwalk School District,Kendall College & Career Academy,Public Schools,1030811,57 Fillow Street,Norwalk,6850,203-899-2880,CT,POINT (-73.4329584 41.1179656),1984-01-07,1984
+508,Hartford School District,M. D. Fox School,Public Schools,640811,470 Maple Avenue,Hartford,6114,860-695-7790,CT,POINT (-72.6803876 41.7462164),1984-01-07,1984
+509,Stamford School District,Cloonan School,Public Schools,1355611,11 West North St.,Stamford,6902,203-977-4544,CT,POINT (-73.5475030436555 41.0598048),1984-01-07,1984
+511,New Britain School District,Chamberlain Elementary School,Public Schools,890311,221 Farmington Ave.,New Britain,6053,860-832-5691,CT,POINT (-72.7875718 41.6835612),1984-01-07,1984
+512,Greenwich School District,Old Greenwich School,Public Schools,570911,825 Sound Beach Ave.,Old Greenwich,6870,203-637-0150,CT,POINT (-73.5621759 41.0197301),1984-01-07,1984
+513,New Haven School District,Hill Central Music Academy,Public Schools,930711,140 Dewitt St.,New Haven,6519,475-220-6100,CT,POINT (-72.9361393 41.2951567),1984-01-07,1984
+515,Southington School District,William M. Strong Elementary School,Public Schools,1310811,820 Marion Ave.,Plantsville,6479,860-628-3314,CT,POINT (-72.91757932075633 41.57210105),1984-01-07,1984
+517,Hebron School District,Hebron Elementary School,Public Schools,670111,92 Church St.,Hebron,6248,860-228-9465,CT,POINT (-72.3639568829145 41.651685),1984-01-07,1984
+518,Regional School District 05,Amity Middle School: Bethany,Regional Schools,2055112,190 Luke Hill Rd.,Bethany,6524,203-393-3102,CT,POINT (-73.0063417 41.417474),2002-01-07,2002
+519,New Haven School District,Conte/West Hills Magnet School,Public Schools,933111,511 Chapel St.,New Haven,6511,475-220-5400,CT,POINT (-72.91579445178951 41.30480325),1984-01-07,1984
+520,Regional School District 14,Bethlehem Elementary School,Regional Schools,2140112,92 East St.,Bethlehem,6751,203-266-7506,CT,POINT (-73.19944646512042 41.63894395),2002-01-07,2002
+521,Unified School District #1,Osborn Correctional Institution,State Agency Facilities,3361215,335 Bilton Road,Somers,6071,860-814-4783,CT,POINT (-72.49705277012336 42.0166252),2000-01-07,2000
+522,Plainfield School District,Plainfield School District,Public School Districts,1090011,651 Norwich Road,Plainfield,6374,860-564-6403,CT,POINT (-71.91636758732666 41.67612745),1996-01-07,1996
+523,Woodstock School District,Woodstock School District,Public School Districts,1690011,147 A Route 169,Woodstock,6281,860-928-7453,CT,POINT (-72.0100215 42.0269172),1996-01-07,1996
+524,New Fairfield School District,Meeting House Hill School,Public Schools,910211,24 Gillotti Rd.,New Fairfield,6812,203-312-5905,CT,POINT (-73.4990798 41.4621626),1997-01-07,1997
+525,West Hartford School District,Conard High School,Public Schools,1556111,110 Beechwood Rd.,West Hartford,6107,860-231-5000,CT,POINT (-72.75092937578432 41.7362325),1984-01-07,1984
+526,Unified School District #1,New Haven Correctional Center,State Agency Facilities,3360915,245 Whalley Ave.,New Haven,6530,203-974-4111,CT,POINT (-72.9403164 41.3171481),2000-01-07,2000
+527,Southington School District,John F. Kennedy Middle School,Public Schools,1315311,1071 South Main St.,Plantsville,6479,860-628-3275,CT,POINT (-72.893897 41.5780799),1984-01-07,1984
+529,New London School District,Winthrop STEM Elementary Magnet School,Public Schools,950811,74 Grove Street,New London,6320,860-447-6070,CT,POINT (-72.09993394250041 41.368594),1984-01-07,1984
+530,Old Saybrook School District,Old Saybrook Middle School,Public Schools,1065211,60 Sheffield St.,Old Saybrook,6475,860-395-3168,CT,POINT (-72.3712571 41.2893753),1990-01-07,1990
+531,Ridgefield School District,Ridgefield High School,Public Schools,1186111,700 North Salem Rd.,Ridgefield,6877,203-894-5750,CT,POINT (-73.53006464782219 41.3263756),1984-01-07,1984
+532,Wallingford School District,Dag Hammarskjold Middle School,Public Schools,1485211,106 Pond Hill Road,Wallingford,6492,203-294-3700,CT,POINT (-72.81841544614079 41.4348059),1984-01-07,1984
+533,Waterford School District,Clark Lane Middle School,Public Schools,1525111,105 Clark Ln.,Waterford,6385,860-443-2837,CT,POINT (-72.1261290401041 41.3518051),1984-01-07,1984
+534,Waterbury School District,Gilmartin School,Public Schools,1512611,107 Wyoming Ave.,Waterbury,6706,203-574-8175,CT,POINT (-73.0290621 41.5250768),1984-01-07,1984
+535,Granby School District,Granby School District,Public School Districts,560011,15-B North Granby Road,Granby,6035,860-844-5250,CT,POINT (-72.796979 41.95968),1996-01-07,1996
+536,Eastern Connecticut Regional Educational Service Center (EASTCONN),Arts at the Capitol Theater Magnet School (ACT),Regional Education Service Center Schools,2536014,896 Main Street,Willimantic,6226,860-465-5636,CT,POINT (-72.21613755823807 41.71231),2007-04-09,2007
+537,Ledyard School District,Gales Ferry School,Public Schools,720211,1858 Route 12,Gales Ferry,6335,860-464-7664,CT,POINT (-72.06903739179415 41.45233175),1984-01-07,1984
+538,Weston School District,Weston School District,Public School Districts,1570011,24 School Road,Weston,6883,203-221-6550,CT,POINT (-73.38096447411604 41.204938162306604),1996-01-07,1996
+539,Simsbury School District,Central School,Public Schools,1280111,29 Massaco St.,Simsbury,6070,860-658-4732,CT,POINT (-72.80685212763639 41.88224461736513),1984-01-07,1984
+540,North Haven School District,Ridge Road Elementary School,Public Schools,1010311,1341 Ridge Rd.,North Haven,6473,203-248-4050,CT,POINT (-72.89357322677617 41.37062105),1984-01-07,1984
+541,Madison School District,J. Milton Jeffrey Elementary School,Public Schools,760111,331 Copse Rd.,Madison,6443,203-245-6460,CT,POINT (-72.61557803256663 41.2948801),1984-01-07,1984
+542,New Britain School District,Northend Elementary School,Public Schools,890911,160 Bassett St.,New Britain,6051,860-223-3819,CT,POINT (-72.7795118 41.656564),1984-01-07,1984
+543,Common Ground High School District,Common Ground High School,Public Charter Schools,2686113,358 Springside Ave.,New Haven,6515,203-389-4333,CT,POINT (-72.9594906 41.3378861),1997-01-07,1997
+544,Manchester School District,Manchester School District,Public School Districts,770011,45 North School Street,Manchester,6042,860-647-3441,CT,POINT (-72.52488545643587 41.7962544),1996-01-07,1996
+545,Goodwin University Educational Services (GUES),Connecticut River Academy at Goodwin University,College Affiliated Schools,2310118,9 Riverside Drive,East Hartford,6118,860-913-2200,CT,POINT (-72.64386593312129 41.74920515),2021-01-07,2021
+546,Connecticut Technical Education and Career System,H. H. Ellis Technical High School,CT Technical Education and Career Schools,9001316,613 Upper Maple St.,Danielson,6239,860-412-7500,CT,POINT (-71.89441702346124 41.819922),2000-01-07,2000
+547,Stratford School District,Eli Whitney School,Public Schools,1381311,1130 Huntington Road,Stratford,6615,203-385-4198,CT,POINT (-73.13470284782584 41.22238533552472),1984-01-07,1984
+548,Danbury School District,South Street School,Public Schools,341011,129 South St.,Danbury,6810,203-797-4787,CT,POINT (-73.44357981907706 41.386738002791134),1984-01-07,1984
+549,Bloomfield School District,Metacomet School,Public Schools,110511,185 School St.,Bloomfield,6002,860-286-2660,CT,POINT (-72.7108794813437 41.82594515),2011-01-07,2011
+550,Bloomfield School District,Carmen Arace Intermediate School,Public Schools,110711,390 Park Avenue,Bloomfield,6002,860-286-2626,CT,POINT (-72.71656135474228 41.8239087),2004-01-07,2004
+551,Fairfield School District,Burr Elementary School,Public Schools,510211,1960 Burr St.,Fairfield,6824,203-255-7385,CT,POINT (-73.2873248 41.1979346),2005-01-07,2005
+552,Branford School District,Mary T. Murphy School,Public Schools,141411,14 Brushy Plain Rd.,Branford,6405,203-483-1832,CT,POINT (-72.81953289054074 41.29339783114652),1984-01-07,1984
+553,Torrington School District,Torrington High School,Public Schools,1436111,50 Major Besse Dr.,Torrington,6790,860-489-2294,CT,POINT (-73.1115076122449 41.815482653061224),1984-01-07,1984
+556,Bridgeport School District,Information Technology & Software Engineering Magnet High School,Public Schools,151511,840 Old Town Road,Bridgeport,6606,203-275-3372,CT,POINT (-73.18527028221652 41.2254734),,
+557,New Haven School District,Sound School,Public Schools,936711,60 South Water St.,New Haven,6519,475-220-2300,CT,POINT (-72.9285733 41.2818095),1995-01-07,1995
+558,Darien School District,Royle Elementary School,Public Schools,350511,133 Mansfield Ave.,Darien,6820,203-655-0044,CT,POINT (-73.4743317 41.086438),1984-01-07,1984
+559,Plymouth School District,Eli Terry Jr. Middle School,Public Schools,1115111,21 North Main Street,Terryville,6786,860-314-2790,CT,POINT (-73.0097933 41.6800055),1984-01-07,1984
+560,Glastonbury School District,Smith Middle School,Public Schools,545211,216 Addison Rd.,Glastonbury,6033,860-652-7040,CT,POINT (-72.57474004095178 41.72367965),1984-01-07,1984
+561,Berlin School District,Berlin School District,Public School Districts,70011,238 Kensington Road,Berlin,6037,860-828-6581,CT,POINT (-72.77071729362231 41.62727302154768),1996-01-07,1996
+562,Marlborough School District,Marlborough School District,Public School Districts,790011,25 School Drive,Marlborough,6447,860-295-6236,CT,POINT (-72.4594303 41.6270507),1996-01-07,1996
+563,Coventry School District,Coventry Grammar School,Public Schools,320211,3453 Main Street,Coventry,6238,860-742-7313,CT,POINT (-72.36770523236135 41.7944644),1984-01-07,1984
+564,Hartford School District,STEM Magnet at Annie Fisher School,Public Schools,642511,280 Plainfield Street,Hartford,6112,860-695-3500,CT,POINT (-72.70799611143528 41.79365885),1984-01-07,1984
+565,Seymour School District,Chatfield-LoPresti School,Public Schools,1240211,51 Skokorat St.,Seymour,6483,203-888-4640,CT,POINT (-73.0565792 41.4029129),2012-05-09,2012
+566,Newtown School District,Sandy Hook Elementary School,Public Schools,970211,12 Dickinson Drive,Sandy Hook,6482,203-426-7657,CT,POINT (-73.27754597799154 41.42034485),1984-01-07,1984
+567,New London School District,C.B. Jennings International Elementary Magnet,Public Schools,950311,50 Mercer Street,New London,6320,860-447-6050,CT,POINT (-72.10522051639647 41.3565303),1984-01-07,1984
+568,Amistad Academy District,Amistad Academy,Public Charter Schools,2795113,130 Edgewood Avenue,New Haven,6511,203-772-7000,CT,POINT (-72.9383714 41.3115907),1999-01-07,1999
+569,Stratford School District,Chapel School,Public Schools,1380311,380 Chapel Street,Stratford,6614,203-385-4192,CT,POINT (-73.11731451673876 41.239411),1984-01-07,1984
+570,New Haven School District,Roberto Clemente Leadership Academy for Global Awareness,Public Schools,934211,360 Columbus Avenue,New Haven,6519,475-220-7600,CT,POINT (-72.9364731262446 41.29696395),2003-01-07,2003
+571,Waterbury School District,Walsh School,Public Schools,1512211,55 Dikeman Street,Waterbury,6704,203-574-8164,CT,POINT (-73.0305594 41.5581363),1984-01-07,1984
+572,Westport School District,Saugatuck Elementary School,Public Schools,1580811,170 Riverside Ave.,Westport,6880,203-221-2910,CT,POINT (-73.3672931 41.1338831),2002-01-07,2002
+573,Danbury School District,Rogers Park Middle School,Public Schools,345211,21 Memorial Dr.,Danbury,6810,203-797-4881,CT,POINT (-73.4430184320711 41.3822369),1984-01-07,1984
+575,Windsor School District,Clover Street School,Public Schools,1640111,57 Clover St.,Windsor,6095,860-687-2050,CT,POINT (-72.66383315984376 41.8317981),1984-01-07,1984
+576,Portland School District,Valley View School,Public Schools,1130211,81 High St.,Portland,6480,860-342-3131,CT,POINT (-72.62515922344505 41.57779315),1984-01-07,1984
+579,Seymour School District,Bungay School,Public Schools,1240111,35 Bungay Rd.,Seymour,6483,203-881-7500,CT,POINT (-73.09209786309194 41.38758045684208),1984-01-07,1984
+580,Berlin School District,Berlin High School,Public Schools,76111,139 Patterson Way,Berlin,6037,860-828-6577,CT,POINT (-72.75174838294858 41.6208261),1984-01-07,1984
+581,Branford School District,Branford School District,Public School Districts,140011,185 Damascus Road,Branford,6405,203-488-7276,CT,POINT (-72.7819841 41.2847828),1996-01-07,1996
+582,Thompson School District,Thompson Middle School,Public Schools,1415111,785 Riverside Dr.,North Grosvenordale,6255,860-923-9380,CT,POINT (-71.89787309538576 41.97743775),1984-01-07,1984
+583,Area Cooperative Educational Services,Area Cooperative Educational Services,Regional Education Service Center School Districts,2440014,350 State Street,North Haven,6473,203-498-6817,CT,POINT (-72.8870933 41.3693049),2000-01-07,2000
+584,Southington School District,Joseph A. Depaolo Middle School,Public Schools,1315111,385 Pleasant St.,Southington,6489,860-628-3260,CT,POINT (-72.85661304759076 41.60772035),1984-01-07,1984
+585,Farmington School District,Farmington High School,Public Schools,526111,10 Monteith Dr,Farmington,6032,860-673-2514,CT,POINT (-72.8676085 41.7508984),1984-01-07,1984
+586,Shelton School District,Booth Hill School,Public Schools,1261011,544 Booth Hill Rd.,Shelton,6484,203-929-5625,CT,POINT (-73.1827357 41.2845431),1984-01-07,1984
+587,Vernon School District,Vernon Center Middle School,Public Schools,1465111,777 Hartford Tpke.,Vernon,6066,860-870-6070,CT,POINT (-72.462653 41.8421629),1984-01-07,1984
+588,Stratford School District,Stratford Academy - Johnson House,Public Schools,1381511,719 Birdseye Street,Stratford,6615,203-385-4180,CT,POINT (-73.14038890802908 41.17920275),1997-01-07,1997
+589,Newington School District,Anna Reynolds School,Public Schools,940611,85 Reservoir Rd.,Newington,6111,860-521-7830,CT,POINT (-72.7458717 41.7150587),1984-01-07,1984
+591,Newington School District,John Paterson School,Public Schools,940811,120 Church St.,Newington,6111,860-666-4657,CT,POINT (-72.73758795212173 41.6694074),1984-01-07,1984
+592,Glastonbury School District,Hebron Avenue School,Public Schools,540411,1363 Hebron Avenue,Glastonbury,6033,860-652-7875,CT,POINT (-72.52874840009613 41.714788),1984-01-07,1984
+593,West Haven School District,Edith E. Mackrille School,Public Schools,1560611,806 Jones Hill Rd.,West Haven,6516,203-931-6820,CT,POINT (-72.9679859 41.2595218),1984-01-07,1984
+594,Bridgeport School District,Luis Munoz Marin School,Public Schools,151011,479 Helen St.,Bridgeport,6608,203-576-8202,CT,POINT (-73.17548122883014 41.19346445),1990-01-07,1990
+595,Canton School District,Canton Middle School,Public Schools,235111,76 Simonds Avenue,Canton,6019,860-693-7712,CT,POINT (-72.91596245453107 41.82376099621312),2004-01-07,2004
+596,Cooperative Educational Services,Six-Six Magnet School,Regional Education Service Center Schools,2430114,601 Pearl Harbor St.,Bridgeport,6610,203-365-8200,CT,POINT (-73.16136749272295 41.2046079),2000-01-07,2000
+597,Farmington School District,Noah Wallace School,Public Schools,520211,2 School St.,Farmington,6032,860-677-1659,CT,POINT (-72.888956 41.7586105),1984-01-07,1984
+599,Connecticut Technical Education and Career System,Norwich Technical High School,CT Technical Education and Career Schools,9002016,7 Mahan Drive,Norwich,6360,860-889-8453,CT,POINT (-72.08036676953212 41.54880425),2000-01-07,2000
+600,New Haven School District,Edgewood School,Public Schools,931211,737 Edgewood Ave.,New Haven,6515,475-220-8000,CT,POINT (-72.96196073854547 41.31819864659639),1984-01-07,1984
+601,Enfield School District,Enfield High School,Public Schools,496111,1264 Enfield St.,Enfield,6082,860-253-5540,CT,POINT (-72.59838825968257 41.97896655),1984-01-07,1984
+602,Bethel School District,Anna H. Rockwell School,Public Schools,90411,400 Whittlesey Dr.,Bethel,6801,203-794-8688,CT,POINT (-73.3965549 41.3840241),1984-01-07,1984
+604,Norwalk School District,Silvermine Dual Language Magnet School,Public Schools,1032311,157 Perry Avenue,Norwalk,6850,203-899-2950,CT,POINT (-73.4407394 41.1474941),1984-01-07,1984
+605,Bridgeport School District,Roosevelt School,Public Schools,152611,680 Park Ave.,Bridgeport,6604,203-576-8032,CT,POINT (-73.19546345007664 41.17143385),1984-01-07,1984
+606,Hartford School District,University High School of Science and Engineering,Public Schools,646711,351 Mark Twain Drive,Hartford,6112,860-695-9020,CT,POINT (-72.70895201724628 41.79627005),2004-01-07,2004
+607,Odyssey Community School District,Odyssey Community School District,Public Charter School Districts,2630013,579 Middle Tpke West,Manchester,6040,860-645-1234,CT,POINT (-72.5506458 41.7813658),1999-01-07,1999
+608,Avon School District,Thompson Brook School,Public Schools,40511,150 Thompson Rd.,Avon,6001,860-404-4870,CT,POINT (-72.8530546 41.7725466),2002-01-07,2002
+609,Marlborough School District,Elmer Thienes-Mary Hall Elementary School,Public Schools,790111,25 School Dr.,Marlborough,6447,860-295-6220,CT,POINT (-72.4594303 41.6270507),1984-01-07,1984
+610,Westbrook School District,Westbrook Middle School,Public Schools,1545111,154 McVeagh Rd.,Westbrook,6498,860-399-2010,CT,POINT (-72.45211185388817 41.29801537255915),1997-01-07,1997
+611,Hartford School District,Montessori Magnet at Fisher School,Public Schools,643711,280 Plainfield Street,Hartford,6112,860-695-3560,CT,POINT (-72.70799611143528 41.79365885),,
+612,Bridgeport School District,Bryant School,Public Schools,150411,230 Poplar St.,Bridgeport,6605,203-576-7303,CT,POINT (-73.2146420746261 41.1741453),1984-01-07,1984
+613,New Haven School District,High School In The Community,Public Schools,936611,175 Water St.,New Haven,6511,475-220-6200,CT,POINT (-72.9222313 41.3016572),1995-01-07,1995
+614,Greenwich School District,Parkway School,Public Schools,571111,141 Lower Cross Rd.,Greenwich,6831,203-869-7466,CT,POINT (-73.6533094 41.1117683),1992-01-07,1992
+615,North Branford School District,Totoket Valley Elementary School,Public Schools,990611,1388 Middletown Ave.,Northford,6472,203-484-1455,CT,POINT (-72.79222412706406 41.39250865434556),1997-01-07,1997
+616,Stafford School District,Stafford Middle School,Public Schools,1345211,21 Levinthal Run,Stafford Springs,6076,860-684-2785,CT,POINT (-72.3057275393443 41.96579365),1992-01-07,1992
+618,Ridgefield School District,Scotland Elementary School,Public Schools,1180511,111 Barlow Mountain Rd.,Ridgefield,6877,203-894-5825,CT,POINT (-73.50998474344891 41.326116866446476),1984-01-07,1984
+619,Naugatuck School District,Cross Street Intermediate School,Public Schools,880211,120 Cross St.,Naugatuck,6770,203-720-5227,CT,POINT (-73.0442884 41.471048),1984-01-07,1984
+620,Regional School District 11,Parish Hill High School,Regional Schools,2116112,304 Parish Hill Rd.,Chaplin,6235,860-455-9584,CT,POINT (-72.10536611059551 41.75140295),2002-01-07,2002
+621,Capitol Region Education Council,University of Hartford Magnet School,Regional Education Service Center Schools,2410214,196 Bloomfield Ave.,West Hartford,6117,860-236-2899,CT,POINT (-72.71288671053266 41.793519),2001-01-07,2001
+622,The Woodstock Academy District,The Woodstock Academy,Endowed and Incorporated Academies Schools,9036122,57 Academy Rd.,Woodstock,6281,860-928-6575,CT,POINT (-71.97312686702469 41.9527722),2000-01-07,2000
+623,Branford School District,Branford High School,Public Schools,146111,185 East Main St.,Branford,6405,203-488-7291,CT,POINT (-72.80043674135135 41.28772765),1984-01-07,1984
+624,Middletown School District,Moody School,Public Schools,831211,300 Country Club Rd.,Middletown,6457,860-347-2561,CT,POINT (-72.7119293 41.5638711),1984-01-07,1984
+626,Guilford School District,Calvin Leete School,Public Schools,600411,280 South Union St.,Guilford,6437,203-453-2726,CT,POINT (-72.6688669 41.282886),1984-01-07,1984
+628,East Lyme School District,East Lyme Middle School,Public Schools,455111,31 Society Rd.,Niantic,6357,860-739-4491,CT,POINT (-72.21326937089432 41.35072665),1984-01-07,1984
+629,Waterbury School District,John F. Kennedy High School,Public Schools,1516411,422 Highland Ave.,Waterbury,6708,203-574-8153,CT,POINT (-73.05811199882763 41.54577395),1984-01-07,1984
+630,Stamford School District,Turn of River School,Public Schools,1355511,117 Vine Rd.,Stamford,6905,203-977-4284,CT,POINT (-73.54167517319573 41.09896005),1984-01-07,1984
+631,Darien School District,Tokeneke Elementary School,Public Schools,350611,7 Old Farm Rd.,Darien,6820,203-655-9666,CT,POINT (-73.4582165 41.0739938),1984-01-07,1984
+632,Putnam School District,Putnam Middle School,Public Schools,1165111,35 Wicker St.,Putnam,6260,860-963-6920,CT,POINT (-71.92339350890737 41.92662235),1984-01-07,1984
+633,West Hartford School District,Wolcott School,Public Schools,1551511,71 Wolcott Rd.,West Hartford,6110,860-561-2300,CT,POINT (-72.749357 41.7251155),1984-01-07,1984
+634,Connecticut Technical Education and Career System,Vinal Technical High School,CT Technical Education and Career Schools,9001816,60 Daniels St.,Middletown,6457,860-344-7100,CT,POINT (-72.6750574 41.5285059),2000-01-07,2000
+635,Hamden School District,Hamden High School,Public Schools,626111,2040 Dixwell Ave.,Hamden,6514,203-407-2040,CT,POINT (-72.92273297700046 41.36777635),1984-01-07,1984
+636,New Haven School District,Clinton Avenue School,Public Schools,930611,293 Clinton Ave.,New Haven,6513,475-220-3300,CT,POINT (-72.8923223 41.3186362),1984-01-07,1984
+637,Bridgeport School District,Warren Harding High School,Public Schools,156311,379 Bond St,Bridgeport,6610,203-275-2751,CT,POINT (-73.16941147125502 41.19756865),1984-01-07,1984
+638,Oxford School District,Oxford Middle School,Public Schools,1085111,40 Great Oak Rd.,Oxford,6478,203-888-5418,CT,POINT (-73.14028827885014 41.42287869327705),1997-01-07,1997
+640,Wethersfield School District,Wethersfield School District,Public School Districts,1590011,127 Hartford Avenue,Wethersfield,6109,860-571-8110,CT,POINT (-72.6581144 41.7164502),1996-01-07,1996
+641,Newtown School District,Reed Intermediate School,Public Schools,970511,3 Trades Lane,Newtown,6470,203-270-4880,CT,POINT (-73.2894538 41.4040516),2002-01-07,2002
+643,Deep River School District,Deep River Elementary School,Public Schools,360111,12 River St.,Deep River,6417,860-526-5319,CT,POINT (-72.4344641 41.3858202),1984-01-07,1984
+644,Waterbury School District,F. J. Kingsbury School,Public Schools,1511411,220 Columbia Blvd.,Waterbury,6710,203-574-8172,CT,POINT (-73.0452979 41.5718867),1984-01-07,1984
+646,Danbury School District,Stadley Rough School,Public Schools,341611,25 Karen Rd.,Danbury,6811,203-797-4773,CT,POINT (-73.42878116199671 41.43295675),1984-01-07,1984
+647,Stratford School District,Bunnell High School,Public Schools,1386211,1 Bulldog Boulevard,Stratford,6614,203-385-4250,CT,POINT (-73.13634 41.225829),1984-01-07,1984
+648,Canterbury School District,Canterbury Elementary School,Public Schools,220211,67 Kitt Rd.,Canterbury,6331,860-546-6744,CT,POINT (-71.98356945910712 41.70202315),1990-01-07,1990
+649,Plainville School District,Linden Street School,Public Schools,1100211,69 Linden St.,Plainville,6062,860-793-3270,CT,POINT (-72.8583742 41.6694346),1984-01-07,1984
+650,East Hartford School District,Sunset Ridge Middle School,Public Schools,432411,450 Forbes St.,East Hartford,6118,860-622-5800,CT,POINT (-72.5991023603396 41.76460635),1999-01-07,1999
+651,Fairfield School District,Tomlinson Middle School,Public Schools,515111,200 Unquowa Rd.,Fairfield,6824,203-255-8336,CT,POINT (-73.2565499 41.1442836),1984-01-07,1984
+653,Capitol Region Education Council,Academy of Computer Science and Engineering,Regional Education Service Center Schools,2415214,1617 King Street,Enfield,6082,860-253-0274,CT,POINT (-72.59938725909356 41.94813485),,
+654,Windsor School District,Sage Park Middle School,Public Schools,1645311,25 Sage Park Rd.,Windsor,6095,860-687-2030,CT,POINT (-72.66057408119681 41.84331785),1984-01-07,1984
+655,Litchfield School District,Litchfield School District,Public School Districts,740011,35 Wamogo Road,Litchfield,6759,860-567-7500,CT,POINT (-73.2256802 41.7280238),1996-01-07,1996
+657,Regional School District 08,RHAM Middle School,Regional Schools,2085112,25 Rham Rd.,Hebron,6248,860-228-9423,CT,POINT (-72.3667976254619 41.66358445),2002-01-07,2002
+658,Sharon School District,Sharon School District,Public School Districts,1250011,80 Hilltop Road,Sharon,6069,860-364-5153,CT,POINT (-73.4714377 41.8825229),1996-01-07,1996
+659,Hartford School District,Sanchez School,Public Schools,643011,176 Babcock Street,Hartford,6106,860-695-4940,CT,POINT (-72.68865715534969 41.7590141),1992-01-07,1992
+661,Winchester School District,Mary P. Hinsdale School,Public Schools,1620211,15 Hinsdale Ave.,Winsted,6098,860-379-5423,CT,POINT (-73.0749841 41.9272414),2022-01-07,2022
+662,East Haven School District,Joseph Melillo Middle School,Public Schools,445111,67 Hudson St.,East Haven,6512,203-468-3227,CT,POINT (-72.866243 41.2860863),1984-01-07,1984
+663,Hartford School District,Kennelly School,Public Schools,641011,180 White Street,Hartford,6114,860-695-3860,CT,POINT (-72.69522140024768 41.7356956),1984-01-07,1984
+665,Bridgeport School District,Interdistrict Discovery Magnet School,Public Schools,153711,4510 Park Avenue,Bridgeport,6606,203-275-1801,CT,POINT (-73.233879795879 41.21564315),,
+666,New Haven School District,Metropolitan Business Academy,Public Schools,936011,115 Water Street,New Haven,6511,475-220-7700,CT,POINT (-72.91952039530491 41.30113266413359),2003-01-07,2003
+667,Ashford School District,Ashford School District,Public School Districts,30011,440 Westford Rd.,Ashford,6278,860-429-1927,CT,POINT (-72.16789988672193 41.8922366),1996-01-07,1996
+668,Interdistrict School for Arts and Comm District,Interdistrict School For Arts And Communication,Public Charter Schools,2655113,190 Governor Winthrop Blvd.,New London,6320,860-447-1003,CT,POINT (-72.09815155858001 41.35569015),,
+669,Ellington School District,Ellington School District,Public School Districts,480011,47 Main Street,Ellington,6029,860-896-2300,CT,POINT (-72.46479741666666 41.9026145),1996-01-07,1996
+670,Sharon School District,Sharon Center School,Public Schools,1250111,80 Hilltop Road,Sharon,6069,860-364-5153,CT,POINT (-73.4714377 41.8825229),1984-01-07,1984
+671,Greenwich School District,Greenwich High School,Public Schools,576111,10 Hillside Rd.,Greenwich,6830,203-625-8000,CT,POINT (-73.61344042662367 41.040361),1984-01-07,1984
+672,New Britain School District,Gaffney Elementary School,Public Schools,890511,322 Slater Rd.,New Britain,6053,860-225-6247,CT,POINT (-72.8133261 41.6758161),1984-01-07,1984
+673,Wallingford School District,Moses Y. Beach School,Public Schools,1480111,340 North Main Street,Wallingford,6492,203-294-3940,CT,POINT (-72.815039 41.4601617),1984-01-07,1984
+674,Bolton School District,Bolton School District,Public School Districts,120011,72 Brandy Street,Bolton,6043,860-643-1569,CT,POINT (-72.4216413 41.7607414),1996-01-07,1996
+675,Norwich School District,Norwich School District,Public School Districts,1040011,90 Town Street,Norwich,6360,860-823-4200,CT,POINT (-72.09517799849029 41.5485309),1996-01-07,1996
+676,Regional School District 06,Wamogo Regional High School,Regional Schools,2066112,98 Wamogo Rd.,Litchfield,6759,860-567-7410,CT,POINT (-73.22563396685115 41.72791175),2002-01-07,2002
+677,Manchester School District,Keeney School,Public Schools,770611,65 North School St.,Manchester,6042,860-647-3354,CT,POINT (-72.52352107396334 41.7972079),1984-01-07,1984
+678,Bristol School District,Northeast Middle School,Public Schools,175211,530 Stevens St.,Bristol,6010,860-584-7839,CT,POINT (-72.90768888775057 41.71314015),1997-01-07,1997
+679,North Haven School District,North Haven School District,Public School Districts,1010011,5 Linsley Street,North Haven,6473,203-239-2581,CT,POINT (-72.86253682296302 41.38680925),1996-01-07,1996
+682,Fairfield School District,North Stratfield School,Public Schools,511611,190 Putting Green Rd.,Fairfield,6825,203-255-8322,CT,POINT (-73.2497853 41.2068147),1984-01-07,1984
+683,East Hampton School District,East Hampton Middle School,Public Schools,425111,19 Childs Rd.,East Hampton,6424,860-365-4060,CT,POINT (-72.52424092257738 41.5682083),1984-01-07,1984
+684,Newtown School District,Newtown School District,Public School Districts,970011,3 Primrose Street,Newtown,6470,203-426-7620,CT,POINT (-73.2851937068142 41.40102095),1996-01-07,1996
+685,Trumbull School District,Frenchtown Elementary School,Public Schools,1441011,30 Frenchtown Rd.,Trumbull,6611,203-452-4227,CT,POINT (-73.21169645084136 41.22952593308686),2003-01-07,2003
+686,Wallingford School District,Lyman Hall High School,Public Schools,1486111,70 Pond Hill Road,Wallingford,6492,203-294-5350,CT,POINT (-72.81868571939606 41.4390844),1984-01-07,1984
+687,Milford School District,Mathewson School,Public Schools,841711,466 West River St.,Milford,6460,203-783-3527,CT,POINT (-73.0628746 41.2392),1984-01-07,1984
+688,Sterling School District,Sterling School District,Public School Districts,1360011,251 Sterling Road,Sterling,6377,860-564-4219,CT,POINT (-71.8365781 41.7052592),2007-04-09,2007
+689,Hartford School District,Weaver High School,Public Schools,646311,415 Granby St.,Hartford,6112,860-695-1640,CT,POINT (-72.7083324 41.800319),2019-01-07,2019
+690,Montville School District,Dr. Charles E. Murphy School,Public Schools,860711,500 Chesterfield Rd.,Oakdale,6370,860-848-9241,CT,POINT (-72.19616696633179 41.4475172),1984-01-07,1984
+691,Regional School District 15,Rochambeau Middle School,Regional Schools,2155112,100 Peter Rd.,Southbury,6488,203-264-2711,CT,POINT (-73.22416664449909 41.46771715),2002-01-07,2002
+692,Norwalk School District,Center for Global Studies,Public Schools,1030511,300 Highland Avenue,Norwalk,6854,203-852-9488,CT,POINT (-73.4332203 41.0856984),,
+693,Somers School District,Somers Elementary School,Public Schools,1290411,4 Vision Boulevard,Somers,6071,860-749-2270,CT,POINT (-72.46233795993167 41.97696005),1995-01-07,1995
+694,Hamden School District,Spring Glen School,Public Schools,621011,1908 Whitney Ave.,Hamden,6517,203-407-2045,CT,POINT (-72.9074292 41.3685453),1984-01-07,1984
+695,Trumbull School District,Booth Hill School,Public Schools,1440111,545 Booth Hill Rd.,Trumbull,6611,203-452-4377,CT,POINT (-73.1730434226359 41.2601953),1984-01-07,1984
+696,Hartford School District,Parkville Community School,Public Schools,641511,47 New Park Avenue,Hartford,6106,860-695-4721,CT,POINT (-72.7075848 41.7564945),1984-01-07,1984
+697,New Haven School District,Mauro-Sheridan Magnet School,Public Schools,931911,191 Fountain St.,New Haven,6515,475-220-2800,CT,POINT (-72.96585736628563 41.3275009),2009-02-09,2009
+698,New Hartford School District,New Hartford Elementary School,Public Schools,920211,40 Wickett St.,New Hartford,6057,860-379-0713,CT,POINT (-72.96661565364758 41.87752485),1984-01-07,1984
+699,Stonington School District,Stonington Middle School,Public Schools,1375211,204 Mistuxet Ave.,Mystic,6355,860-536-9613,CT,POINT (-71.9442061 41.3577076),1984-01-07,1984
+700,Brookfield School District,Center Elementary School,Public Schools,180311,8 Obtuse Hill Road,Brookfield,6804,203-775-7650,CT,POINT (-73.38033669252738 41.46861292659963),1984-01-07,1984
+701,North Branford School District,North Branford School District,Public School Districts,990011,1332 Middletown Avenue,Northford,6472,203-484-1440,CT,POINT (-72.7921419 41.3925592),1996-01-07,1996
+702,Griswold School District,Griswold High School,Public Schools,586211,267 Slater Ave.,Griswold,6351,860-376-7640,CT,POINT (-71.9820122011883 41.59457015),1992-01-07,1992
+703,New Milford School District,Hill And Plain School,Public Schools,960511,60 Old Town Park Rd.,New Milford,6776,860-354-5430,CT,POINT (-73.4307314 41.5351732),1984-01-07,1984
+704,Colchester School District,Bacon Academy,Public Schools,286111,611 Norwich Ave.,Colchester,6415,860-537-2378,CT,POINT (-72.3021320475728 41.57827565),1984-01-07,1984
+705,Stamford School District,Toquam Magnet School,Public Schools,1351911,123 Ridgewood Ave.,Stamford,6907,203-977-4556,CT,POINT (-73.52301201389923 41.081607727003345),1990-01-07,1990
+706,East Hartford School District,Anna E. Norris School,Public Schools,430911,40 Remington Rd.,East Hartford,6108,860-622-5740,CT,POINT (-72.63022120208947 41.78539815),1984-01-07,1984
+708,Salem School District,Salem Elementary School,Public Schools,1210111,200 Hartford Rd.,Salem,6420,860-859-0267,CT,POINT (-72.273801 41.4879775),1984-01-07,1984
+709,North Haven School District,North Haven Middle School,Public Schools,1015211,55 Bailey Rd.,North Haven,6473,203-239-1683,CT,POINT (-72.8609403 41.3740065),1984-01-07,1984
+710,Bristol School District,Stafford School,Public Schools,171211,212 Louisiana Ave.,Bristol,6010,860-584-7824,CT,POINT (-72.9175788679558 41.6884296),1998-01-07,1998
+711,Milford School District,Jonathan Law High School,Public Schools,846211,20 Lansdale Ave.,Milford,6460,203-783-3574,CT,POINT (-73.08749833695573 41.203746662083255),1984-01-07,1984
+712,Tolland School District,Tolland Middle School,Public Schools,1425111,1 Falcon Way,Tolland,6084,860-870-6860,CT,POINT (-72.3491967693308 41.87186425),1984-01-07,1984
+713,Preston School District,Preston Veterans' Memorial School,Public Schools,1140411,325 Shetucket Tpke.,Preston,6365,860-887-3113,CT,POINT (-71.98486429957856 41.52967675),2002-01-07,2002
+714,New Britain School District,House of Arts Letters and Science (HALS) Academy,Public Schools,895411,40 Goodwin St,New Britain,6051,860-826-1866,CT,POINT (-72.7617184 41.6652797),2006-01-07,2006
+715,Bridgeport School District,Park City Magnet School,Public Schools,151711,1526 Chopsey Hill Rd.,Bridgeport,6606,203-576-7547,CT,POINT (-73.20028561346308 41.2210732),1984-01-07,1984
+716,Easton School District,Helen Keller Middle School,Public Schools,465111,360 Sport Hill Rd.,Easton,6612,203-268-8651,CT,POINT (-73.2715612721309 41.2446712),1984-01-07,1984
+717,Enfield School District,Enfield School District,Public School Districts,490011,1010 Enfield Street,Enfield,6082,860-253-6500,CT,POINT (-72.59505734664309 41.99387325),1996-01-07,1996
+718,Regional School District 01,Regional School District 01,Regional School Districts,2010012,246 Warren Turnpike Road,Falls Village,6031,860-824-0855,CT,POINT (-73.36156920408163 41.938168591836735),2002-01-07,2002
+719,Waterbury School District,H. S. Chase School,Public Schools,1510711,40 Woodtick Rd.,Waterbury,6705,203-574-8188,CT,POINT (-73.00570537671362 41.552921),1984-01-07,1984
+720,Side By Side Charter School District,Side By Side Charter School District,Public Charter School Districts,2700013,10 Chestnut St.,Norwalk,6854,203-857-0306,CT,POINT (-73.42015756366737 41.09598684185112),1999-01-07,1999
+723,Waterbury School District,North End Middle School,Public Schools,1515311,534 Bucks Hill Rd.,Waterbury,6704,203-574-8097,CT,POINT (-73.0289803 41.6040478),1984-01-07,1984
+724,Southington School District,Walter A. Derynoski Elementary School,Public Schools,1311511,240 Main St.,Southington,6489,860-628-3286,CT,POINT (-72.8786575 41.5963214),1984-01-07,1984
+725,West Hartford School District,Morley School,Public Schools,1550911,77 Bretton Rd.,West Hartford,6119,860-233-8535,CT,POINT (-72.73246533182143 41.76895795),1984-01-07,1984
+726,Wolcott School District,Tyrrell Middle School,Public Schools,1665111,500 Todd Rd.,Wolcott,6716,203-879-8151,CT,POINT (-72.968134 41.5561916),1997-01-07,1997
+727,Orange School District,Peck Place School,Public Schools,1070511,500 Peck Ln.,Orange,6477,203-891-8034,CT,POINT (-73.03058423036813 41.2648454),1984-01-07,1984
+728,Cromwell School District,Woodside Intermediate School,Public Schools,330311,30 Woodside Rd.,Cromwell,6416,860-632-3564,CT,POINT (-72.65859125291057 41.62435675),2006-01-07,2006
+729,East Granby School District,R. Dudley Seymour School,Public Schools,400211,185 Hartford Ave.,East Granby,6026,860-653-7214,CT,POINT (-72.7689739 41.9321648),1984-01-07,1984
+730,Brooklyn School District,Brooklyn Elementary School,Public Schools,190111,119 Gorman Rd.,Brooklyn,6234,860-774-7577,CT,POINT (-71.93643000185398 41.78538985),1984-01-07,1984
+731,Groton School District,Catherine Kolnaski Magnet School,Public Schools,592011,500 Poquonnock Rd.,Groton,6340,860-449-5608,CT,POINT (-72.0618713 41.3475847),2008-07-01,2008
+732,Middletown School District,Bielefield School,Public Schools,830211,70 Maynard St.,Middletown,6457,860-347-4124,CT,POINT (-72.63257181582625 41.54158005),1984-01-07,1984
+733,Watertown School District,Swift Middle School,Public Schools,1535111,250 Colonial St.,Oakville,6779,860-945-4830,CT,POINT (-73.09189892533848 41.586018),1984-01-07,1984
+734,Regional School District 12,Booth Free School,Regional Schools,2120212,14 South St.,Roxbury,6783,860-354-9391,CT,POINT (-73.3076964 41.5550176),2002-01-07,2002
+735,Capitol Region Education Council,Academy of Aerospace and Engineering Elementary,Regional Education Service Center Schools,2410714,7 Gardner Way,Rocky Hill,6067,860-529-1652,CT,POINT (-72.65730174865419 41.64059855),,
+736,Waterbury School District,Reed School,Public Schools,1513411,33 Griggs Street,Waterbury,6704,203-574-8180,CT,POINT (-73.02739125416134 41.56562815),,
+737,Plainville School District,Plainville High School,Public Schools,1106111,47 Robert Holcomb Way,Plainville,6062,860-793-3220,CT,POINT (-72.8584712 41.6658702),1984-01-07,1984
+738,New Britain School District,New Britain High School,Public Schools,896111,110 Mill St.,New Britain,6051,860-225-6300,CT,POINT (-72.77810630816322 41.64997335),1984-01-07,1984
+739,Wethersfield School District,Highcrest School,Public Schools,1591111,95 Highcrest Rd.,Wethersfield,6109,860-571-8380,CT,POINT (-72.68440280497376 41.6803284),1984-01-07,1984
+740,Department of Mental Health and Addiction Services,Capitol Region Mental Health Center,State Agency Facilities,3370615,500 Vine St.,Hartford,6112,860-262-7175,CT,POINT (-72.68755284132294 41.7964101),2007-01-07,2007
+741,Chester School District,Chester School District,Public School Districts,260011,1 Winthrop Road,Deep River,6417,860-526-2417,CT,POINT (-72.4562226 41.3646322),1996-01-07,1996
+742,Hebron School District,Gilead Hill School,Public Schools,670211,580 Gilead St.,Hebron,6248,860-228-9458,CT,POINT (-72.4090826 41.676581),1984-01-07,1984
+743,West Haven School District,Alma E. Pagels School,Public Schools,1560811,26 Benham Hill Rd.,West Haven,6516,203-931-6840,CT,POINT (-72.987601 41.2427245),1984-01-07,1984
+744,Office of Early Childhood (OEC),Office of Early Childhood (OEC),State Agencies,3490015,460 Capitol Avenue,Hartford,6106,860-418-6148,CT,POINT (-72.6912879 41.7638176),2000-01-07,2000
+745,Southington School District,Urbin T. Kelley School,Public Schools,1311411,501 Ridgewood Rd.,Southington,6489,860-628-3310,CT,POINT (-72.894021 41.6085607),1984-01-07,1984
+746,Norwalk School District,Tracey Magnet School,Public Schools,1031411,20 Camp Street,Norwalk,6851,203-899-2960,CT,POINT (-73.41244977674646 41.12438205),1984-01-07,1984
+747,Regional School District 07,Regional School District 07,Regional School Districts,2070012,100 Battistoni Drive,Winsted,6098,860-379-1084,CT,POINT (-73.0477852 41.9152045),2002-01-07,2002
+748,Portland School District,Gildersleeve School,Public Schools,1130411,565 Main St.,Portland,6480,860-342-0411,CT,POINT (-72.62098362914814 41.59143145),1984-01-07,1984
+749,Regional School District 13,Middlefield Memorial School,Regional Schools,2130412,124 Hubbard St.,Middlefield,6455,860-349-7235,CT,POINT (-72.6927029 41.5229928),2002-01-07,2002
+750,Fairfield School District,Fairfield Warde High School,Public Schools,516211,755 Melville Ave.,Fairfield,6825,203-255-8449,CT,POINT (-73.235122 41.1861834),1984-01-07,1984
+751,Union School District,Union School,Public Schools,1450111,18 Kinney Hollow Rd.,Union,6076,860-684-3146,CT,POINT (-72.1619602 41.9873427),1984-01-07,1984
+752,South Windsor School District,Timothy Edwards School,Public Schools,1325111,100 Arnold Way,South Windsor,6074,860-648-5030,CT,POINT (-72.525509 41.8264703),1984-01-07,1984
+753,Wallingford School District,Rock Hill School,Public Schools,1480411,910 Old Rock Hill Road,Wallingford,6492,203-294-6260,CT,POINT (-72.78886489869501 41.4552776),1984-01-07,1984
+754,Windsor Locks School District,South Elementary School,Public Schools,1650411,87 South St.,Windsor Locks,6096,860-292-5021,CT,POINT (-72.63887963966538 41.92052955),1984-01-07,1984
+755,East Haven School District,East Haven School District,Public School Districts,440011,35 Wheelbarrow Lane,East Haven,6513,203-468-3261,CT,POINT (-72.83153525098547 41.3299067),1996-01-07,1996
+756,Norfolk School District,Botelle Elementary School,Public Schools,980111,128 Greenwoods Rd. East,Norfolk,6058,860-542-5286,CT,POINT (-73.1881248 41.9874448),1984-01-07,1984
+758,Wethersfield School District,Wethersfield High School,Public Schools,1596111,411 Wolcott Hill Rd.,Wethersfield,6109,860-571-8200,CT,POINT (-72.67134478944872 41.707785),1984-01-07,1984
+759,Greenwich School District,Glenville School,Public Schools,570411,33 Riversville Rd.,Greenwich,6831,203-531-9287,CT,POINT (-73.66198457843898 41.03987615),1984-01-07,1984
+760,Clinton School District,The Morgan School,Public Schools,276111,71 Killingworth Tpke.,Clinton,6413,860-664-6504,CT,POINT (-72.5301117 41.2997035),1984-01-07,1984
+761,Capitol Region Education Council,CREC Preschool at Progress Drive,Regional Education Service Center Schools,2412114,123 Progress Drive,Wethersfield,6109,860-240-6615,CT,POINT (-72.69917104428814 41.70155365),2023-03-07,2023
+762,New Haven School District,Bishop Woods Architecture and Design Magnet School,Public Schools,934311,1481 Quinnipiac Avenue,New Haven,6513,475-220-7300,CT,POINT (-72.86916770731386 41.3272652),1984-01-07,1984
+763,Windham School District,North Windham School,Public Schools,1630311,112 Jordan Ln.,North Windham,6256,860-465-2400,CT,POINT (-72.15620011330039 41.7406126),1987-01-07,1987
+764,Granby School District,Wells Road Intermediate School,Public Schools,560311,134 Wells Rd.,Granby,6035,860-844-3048,CT,POINT (-72.8083716 41.9909583),1984-01-07,1984
+766,Ansonia School District,Mead School,Public Schools,20311,75 Ford St.,Ansonia,6401,203-736-5090,CT,POINT (-73.0508116 41.3378322),1984-01-07,1984
+767,Fairfield School District,Mill Hill School,Public Schools,510711,635 Mill Hill Terrace,Southport,6890,203-255-8320,CT,POINT (-73.28293323967043 41.14476875),1990-01-07,1990
+768,Torrington School District,Forbes School,Public Schools,1430211,500 Migeon Ave.,Torrington,6790,860-489-2500,CT,POINT (-73.1324592 41.8129996),1986-01-07,1986
+769,Naugatuck School District,City Hill Middle School,Public Schools,885111,441 City Hill St.,Naugatuck,6770,203-720-5246,CT,POINT (-73.0362181 41.4933049),1984-01-07,1984
+770,Manchester School District,Elisabeth M. Bennet Academy,Public Schools,771711,1151 Main St.,Manchester,6040,860-647-3571,CT,POINT (-72.5196792 41.76591),,
+771,Manchester School District,Bowers School,Public Schools,770111,141 Princeton Street,Manchester,6042,860-647-3313,CT,POINT (-72.50966429360825 41.78880805),1984-01-07,1984
+772,East Windsor School District,East Windsor School District,Public School Districts,470011,70 South Main Street,East Windsor,6088,860-623-3346,CT,POINT (-72.6115988 41.9011287),1996-01-07,1996
+773,Bridgeport School District,James J. Curiale School,Public Schools,154211,300 Laurel Ave.,Bridgeport,6604,203-576-8437,CT,POINT (-73.205037 41.1759428),1984-01-07,1984
+774,Norwich School District,Wequonnoc Magnet School,Public Schools,1041511,155 Providence St.,Taftville,6380,860-823-4210,CT,POINT (-72.05498207536826 41.5694235),1984-01-07,1984
+775,Waterford School District,Waterford School District,Public School Districts,1520011,15 Rope Ferry Road,Waterford,6385,860-444-5801,CT,POINT (-72.1309685 41.3428678),1996-01-07,1996
+776,Danbury School District,Great Plain School,Public Schools,341111,10 Stadley Rough Rd.,Danbury,6811,203-797-4749,CT,POINT (-73.4346579 41.4208693),1984-01-07,1984
+777,Bloomfield School District,Wintonbury Early Childhood Magnet School,Public Schools,110811,44 Brown Street,Bloomfield,6002,860-769-5510,CT,POINT (-72.7459985 41.8382867),2009-01-07,2009
+778,Norwich School District,Kelly STEAM Magnet Middle School,Public Schools,1045111,25 Mahan Dr.,Norwich,6360,860-823-4211,CT,POINT (-72.07955853302192 41.5468357),1984-01-07,1984
+780,Regional School District 15,Gainfield Elementary School,Regional Schools,2150412,307 Old Field Rd.,Southbury,6488,203-264-5312,CT,POINT (-73.2226951 41.4793467),2002-01-07,2002
+781,Regional School District 05,Regional School District 05,Regional School Districts,2050012,25 Newton Road,Woodbridge,6525,203-397-4811,CT,POINT (-73.0077637 41.3574219),2002-01-07,2002
+782,Monroe School District,Masuk High School,Public Schools,856111,1014 Monroe Tpke.,Monroe,6468,203-452-5823,CT,POINT (-73.194533 41.3502311),1984-01-07,1984
+783,Plainfield School District,Moosup Elementary School,Public Schools,1090111,35 Church St.,Moosup,6354,860-564-6430,CT,POINT (-71.88147138744702 41.71652965),1984-01-07,1984
+784,Madison School District,Kathleen H. Ryerson Elementary School,Public Schools,760311,982 Durham Rd.,Madison,6443,203-245-6440,CT,POINT (-72.62621088828557 41.34063545),1984-01-07,1984
+785,Elm City College Preparatory School District,Elm City College Preparatory School,Public Charter Schools,2890113,407 James Street,New Haven,6513,203-772-7010,CT,POINT (-72.9033784 41.3137945),2009-01-07,2009
+786,Unified School District #2,Albert J. Solnit Children's Center - North Campus,State Agency Facilities,3470115,36 Gardner St.,East Windsor,6088,860-292-4048,CT,POINT (-72.6135470449274 41.93169275),2000-01-07,2000
+787,New London School District,Science and Technology Magnet Pathway for High School Grades,Public Schools,951311,20 Chester Street,New London,6320,860-447-6400,CT,POINT (-72.12368223646352 41.35985350402688),2016-01-09,2016
+788,New Fairfield School District,New Fairfield Middle School,Public Schools,915211,56 Gillotti Rd.,New Fairfield,6812,203-312-5885,CT,POINT (-73.503207 41.458642),1989-01-07,1989
+789,West Hartford School District,Norfeldt School,Public Schools,1551011,35 Barksdale Rd.,West Hartford,6117,860-233-4421,CT,POINT (-72.7636127 41.7945086),1984-01-07,1984
+790,Stamford School District,Springdale School,Public Schools,1351111,1127 Hope St.,Stamford,6907,203-977-4575,CT,POINT (-73.5187793 41.0974266),1984-01-07,1984
+791,Plainville School District,Plainville School District,Public School Districts,1100011,1 Central Square,Plainville,6062,860-793-3200,CT,POINT (-72.86697545 41.6717098),1996-01-07,1996
+792,Old Saybrook School District,Old Saybrook Senior High School,Public Schools,1066111,1111 Boston Post Rd.,Old Saybrook,6475,860-395-3175,CT,POINT (-72.3970386 41.288685),1984-01-07,1984
+793,New Haven School District,Augusta Lewis Troup School,Public Schools,931511,259 Edgewood Ave.,New Haven,6511,475-220-3000,CT,POINT (-72.9421378 41.3134918),2005-01-07,2005
+794,Waterford School District,Waterford High School,Public Schools,1526111,20 Rope Ferry Rd.,Waterford,6385,860-437-6956,CT,POINT (-72.12991155368329 41.3398851),1984-01-07,1984
+795,Hartford School District,Burr Middle School,Public Schools,642311,400 Wethersfield Avenue,Hartford,6114,860-695-3080,CT,POINT (-72.67148579985789 41.74570945),1984-01-07,1984
+796,Enfield School District,Prudence Crandall School,Public Schools,491511,150 Brainard Rd.,Enfield,6082,860-253-6464,CT,POINT (-72.5688506 42.0160603),1984-01-07,1984
+797,Eastern Connecticut Regional Educational Service Center (EASTCONN),Eastern Connecticut Regional Educational Service Center (EASTCONN),Regional Education Service Center School Districts,2530014,376 Hartford Turnpike,Hampton,6247,860-455-0707,CT,POINT (-72.08782095423874 41.7724728),2000-01-07,2000
+798,Norwalk School District,Brien McMahon High School,Public Schools,1036211,300 Highland Avenue,Norwalk,6854,203-852-9488,CT,POINT (-73.4332203 41.0856984),1984-01-07,1984
+799,East Hampton School District,East Hampton High School,Public Schools,426111,15 North Maple St.,East Hampton,6424,860-365-4030,CT,POINT (-72.5122214 41.5824248),1984-01-07,1984
+800,Monroe School District,Stepney Elementary School,Public Schools,850311,180 Old Newtown Rd.,Monroe,6468,203-452-2885,CT,POINT (-73.2524457 41.3185079),1984-01-07,1984
+801,Canterbury School District,Canterbury School District,Public School Districts,220011,45 Westminster Road,Canterbury,6331,860-546-6950,CT,POINT (-71.9769128 41.6984023),1996-01-07,1996
+802,Sterling School District,Sterling Community School,Public Schools,1360311,251 Sterling Rd.,Sterling,6377,860-564-2728,CT,POINT (-71.8365781 41.7052592),2007-03-09,2007
+803,Regional School District 15,Memorial Middle School,Regional Schools,2155212,1 Memorial Dr,Middlebury,6762,203-758-2496,CT,POINT (-73.0927961 41.5430487),2002-01-07,2002
+804,Simsbury School District,Simsbury School District,Public School Districts,1280011,933 Hopmeadow Street,Simsbury,6070,860-651-3361,CT,POINT (-72.80017904761905 41.880254428571426),1996-01-07,1996
+805,North Haven School District,Montowese Elementary School,Public Schools,1010211,145 Fitch St.,North Haven,6473,203-239-2564,CT,POINT (-72.85073061646523 41.35647),1984-01-07,1984
+806,New Britain School District,Smith Elementary School,Public Schools,891311,142 Rutherford St.,New Britain,6051,860-223-1574,CT,POINT (-72.75830198267653 41.6604988),1984-01-07,1984
+807,West Hartford School District,Braeburn School,Public Schools,1550211,45 Braeburn Rd.,West Hartford,6107,860-561-2200,CT,POINT (-72.7600634 41.7605975),1984-01-07,1984
+808,Hamden School District,Church Street School,Public Schools,620211,95 Church St.,Hamden,6514,203-407-2020,CT,POINT (-72.93349537810403 41.35440135),1984-01-07,1984
+809,Cheshire School District,Chapman School,Public Schools,250111,38 Country Club Rd.,Cheshire,6410,203-272-3591,CT,POINT (-72.8965484 41.5202089),1984-01-07,1984
+810,Common Ground High School District,Common Ground High School District,Public Charter School Districts,2680013,358 Springside Ave.,New Haven,6515,203-389-0823,CT,POINT (-72.9594906 41.3378861),1999-01-07,1999
+811,Wolcott School District,Wolcott School District,Public School Districts,1660011,1488 Woodtick Road,Wolcott,6716,203-879-8183,CT,POINT (-72.9601435180387 41.623068820842924),1996-01-07,1996
+812,Hartford School District,Hartford School District,Public School Districts,640011,280 Trumbull Street,Hartford,6103,860-695-8000,CT,POINT (-72.6749273 41.7686949),1996-01-07,1996
+813,Simsbury School District,Squadron Line School,Public Schools,1280711,44 Squadron Line Rd.,Simsbury,6070,860-658-2251,CT,POINT (-72.81223519218055 41.89899867433919),1984-01-07,1984
+814,New Haven School District,Lincoln-Bassett School,Public Schools,932011,130 Bassett St.,New Haven,6511,475-220-8500,CT,POINT (-72.9310726 41.3310647),1984-01-07,1984
+815,Weston School District,Weston Middle School,Public Schools,1575111,135 School Rd.,Weston,6883,203-221-6360,CT,POINT (-73.3806547 41.2128405),1984-01-07,1984
+816,Meriden School District,Francis T. Maloney High School,Public Schools,806111,121 Gravel St.,Meriden,6450,203-238-2334,CT,POINT (-72.7723397255179 41.53164675),1984-01-07,1984
+817,Unified School District #1,Bridgeport Correctional Center,State Agency Facilities,3360115,1106 North Ave.,Bridgeport,6604,475-225-9000,CT,POINT (-73.20049140971133 41.19004505),2000-01-07,2000
+818,Stratford School District,Second Hill Lane School,Public Schools,1381011,65 Second Hill Lane,Stratford,6614,203-385-4292,CT,POINT (-73.14912076145825 41.21750635),1984-01-07,1984
+819,Suffield School District,Suffield High School,Public Schools,1396111,1060 Sheldon Street,West Suffield,6093,860-668-3810,CT,POINT (-72.69271694140082 41.980191),1984-01-07,1984
+821,Cornwall School District,Cornwall School District,Public School Districts,310011,5 Cream Hill Road,Cornwall,6796,860-672-6617,CT,POINT (-73.341375 41.8767465),1996-01-07,1996
+822,Regional School District 08,RHAM High School,Regional Schools,2086112,85 Wall St.,Hebron,6248,860-228-9474,CT,POINT (-72.3653186925972 41.6644418),2002-01-07,2002
+823,South Windsor School District,Philip R. Smith School,Public Schools,1320111,949 Avery Street,South Windsor,6074,860-648-5025,CT,POINT (-72.512912 41.8410136),1984-01-07,1984
+824,Branford School District,Francis Walsh Intermediate School,Public Schools,145111,185 Damascus Rd.,Branford,6405,203-488-8317,CT,POINT (-72.7819841 41.2847828),1984-01-07,1984
+825,New Canaan School District,East School,Public Schools,900411,54 Little Brook Rd.,New Canaan,6840,203-594-4219,CT,POINT (-73.4801054 41.1479433),1984-01-07,1984
+826,Ridgefield School District,Farmingville Elementary School,Public Schools,1180411,324 Farmingville Rd.,Ridgefield,6877,203-894-5570,CT,POINT (-73.4689431357833 41.29579935984862),1984-01-07,1984
+827,New Haven School District,King/Robinson Magnet School,Public Schools,933011,150 Fournier St.,New Haven,6511,475-220-2700,CT,POINT (-72.94222844897959 41.329179448979595),2004-01-07,2004
+828,Windham School District,W. B. Sweeney School,Public Schools,1630611,60 Oak Hill Dr.,Willimantic,6226,860-465-2420,CT,POINT (-72.2282731 41.7244671),1984-01-07,1984
+829,Newington School District,Martin Kellogg Middle School,Public Schools,945111,155 Harding Ave.,Newington,6111,860-666-5418,CT,POINT (-72.73206620830425 41.7081502),1984-01-07,1984
+832,Bridgeport School District,Cesar Batalla School,Public Schools,151411,606 Howard Ave.,Bridgeport,6605,203-579-8501,CT,POINT (-73.2077872818862 41.16980115),1984-01-07,1984
+833,Norwalk School District,Marvin Elementary School,Public Schools,1032211,15 Calf Pasture Beach Road,Norwalk,6855,203-899-2890,CT,POINT (-73.3949955812308 41.09379945),1984-01-07,1984
+834,Woodbridge School District,Beecher Road School,Public Schools,1670311,40 Beecher Rd.,Woodbridge,6525,203-389-2195,CT,POINT (-73.008984 41.3351545),2012-01-07,2012
+836,Berlin School District,Richard D. Hubbard School,Public Schools,70111,139 Grove St.,East Berlin,6023,860-828-4119,CT,POINT (-72.7223464 41.6147516),1984-01-07,1984
+839,Putnam School District,Putnam High School,Public Schools,1166111,152 Woodstock Ave.,Putnam,6260,860-963-6905,CT,POINT (-71.91727064028497 41.92218875),1984-01-07,1984
+841,New Beginnings Inc Family Academy District,New Beginnings Inc Family Academy,Public Charter Schools,2800113,184 Garden St.,Bridgeport,6605,203-384-2897,CT,POINT (-73.19895913049942 41.1698456),2002-01-07,2002
+842,Connecticut Technical Education and Career System,E. C. Goodwin Technical High School,CT Technical Education and Career Schools,9001916,735 Slater Rd.,New Britain,6053,860-827-7736,CT,POINT (-72.80560757294091 41.6862965),2000-01-07,2000
+843,Coventry School District,George Hersey Robertson School,Public Schools,320411,227 Cross Street,Coventry,6238,860-742-7341,CT,POINT (-72.31026194806101 41.75981595),1984-01-07,1984
+844,Redding School District,Redding Elementary School,Public Schools,1170111,33 Lonetown Rd.,Redding,6896,203-938-2519,CT,POINT (-73.385358 41.3091453),1984-01-07,1984
+845,Wallingford School District,Pond Hill School,Public Schools,1481211,299 Pond Hill Road,Wallingford,6492,203-294-6230,CT,POINT (-72.8191557 41.4186085),1984-01-07,1984
+846,Ledyard School District,Gallup Hill School,Public Schools,720411,169 Gallup Hill Rd.,Ledyard,6339,860-536-9477,CT,POINT (-71.97481515550507 41.42833295),1984-01-07,1984
+847,Westport School District,Coleytown Elementary School,Public Schools,1580311,65 Easton Rd.,Westport,6880,203-341-1710,CT,POINT (-73.3499296 41.1761819),1984-01-07,1984
+848,Bristol School District,West Bristol School,Public Schools,172011,500 Clark Avenue,Bristol,6010,860-584-7815,CT,POINT (-72.98116356280347 41.68376675),2012-01-07,2012
+849,Groton School District,Thames River Magnet School,Public Schools,591711,154 Toll Gate Road,Groton,6340,860-980-8230,CT,POINT (-72.06625766081777 41.3737563),1984-01-07,1984
+850,West Hartford School District,Hall High School,Public Schools,1556211,975 North Main St.,West Hartford,6117,860-232-4561,CT,POINT (-72.75326646626075 41.7939364),1984-01-07,1984
+851,Shelton School District,Elizabeth Shelton School,Public Schools,1260511,138 Willoughby Rd.,Shelton,6484,203-929-1330,CT,POINT (-73.13283535562526 41.31553006379423),1984-01-07,1984
+852,Lebanon School District,Lebanon Middle School,Public Schools,715111,891 Exeter Rd.,Lebanon,6249,860-642-4702,CT,POINT (-72.2382541 41.6264601),1997-01-07,1997
+853,Connecticut Technical Education and Career System,Windham Technical High School,CT Technical Education and Career Schools,9002416,210 Birch St.,Willimantic,6226,860-456-3879,CT,POINT (-72.22042392177241 41.71993255),2000-01-07,2000
+854,Fairfield School District,Dwight Elementary School,Public Schools,510111,1600 Redding Rd.,Fairfield,6824,203-255-8312,CT,POINT (-73.305088 41.182541),1984-01-07,1984
+855,Regional School District 18,Lyme-Old Lyme Middle School,Regional Schools,2185112,53 Lyme St.,Old Lyme,6371,860-434-2568,CT,POINT (-72.3274863 41.3187318),2002-01-07,2002
+856,Greenwich School District,North Street School,Public Schools,570811,381 North St.,Greenwich,6830,203-869-6756,CT,POINT (-73.6190172 41.0579472),1984-01-07,1984
+857,Wilton School District,Middlebrook School,Public Schools,1615211,131 School Rd.,Wilton,6897,203-762-8388,CT,POINT (-73.4383721 41.2021741),1984-01-07,1984
+859,Regional School District 10,Lake Garda Elementary School,Regional Schools,2100212,61 Monce Rd.,Burlington,6013,860-673-2511,CT,POINT (-72.9087381 41.7409084),2002-01-07,2002
+860,Bridgeport School District,Madison School,Public Schools,152011,376 Wayne St.,Bridgeport,6606,203-576-7186,CT,POINT (-73.20856038878081 41.2026153),1984-01-07,1984
+861,East Granby School District,East Granby Middle School,Public Schools,405111,95 South Main St.,East Granby,6026,860-653-7113,CT,POINT (-72.7279499 41.9329458),1984-01-07,1984
+862,Oxford School District,Oxford High School,Public Schools,1086011,61 Quaker Farms Rd.,Oxford,6478,203-888-2468,CT,POINT (-73.1380483 41.3829683),,
+863,Danbury School District,Danbury High School,Public Schools,346111,43 Clapboard Ridge Rd.,Danbury,6811,203-797-4803,CT,POINT (-73.47022266248165 41.4169585),1984-01-07,1984
+864,Stamford School District,Newfield School,Public Schools,1350611,345 Pepper Ridge Rd.,Stamford,6905,203-977-4282,CT,POINT (-73.54058879400124 41.09144162794512),1984-01-07,1984
+865,Darien School District,Holmes Elementary School,Public Schools,350711,18 Hoyt St.,Darien,6820,203-353-4371,CT,POINT (-73.5136465 41.0795644),1996-01-07,1996
+866,Groton School District,Robert E. Fitch High School,Public Schools,596111,101 Groton Long Point Road,Groton,6340,860-449-7200,CT,POINT (-72.01367841472441 41.3401671),1984-01-07,1984
+868,Unified School District #1,Manson Youth Institution,State Agency Facilities,3361115,42 Jarvis St.,Cheshire,6410,203-806-2570,CT,POINT (-72.8996439 41.5288709),2000-01-07,2000
+869,Mansfield School District,Mansfield School District,Public School Districts,780011,4 South Eagleville Road,Storrs,6268,860-429-3350,CT,POINT (-72.24283207762576 41.80132335),1996-01-07,1996
+870,Barkhamsted School District,Barkhamsted Elementary School,Public Schools,50111,65 Ripley Hill Rd.,Barkhamsted,6063,860-379-2729,CT,POINT (-72.9899935 41.9113479),1984-01-07,1984
+871,Regional School District 06,Regional School District 06,Regional School Districts,2060012,35 Wamogo Road,Litchfield,6759,860-567-7400,CT,POINT (-73.2256802 41.7280238),2002-01-07,2002
+872,Hartford School District,Milner Middle School,Public Schools,641911,150 Tower Avenue,Hartford,6112,860-695-4380,CT,POINT (-72.67002 41.7979328),1984-01-07,1984
+873,Ridgefield School District,Scotts Ridge Middle School,Public Schools,1185211,750 North Salem Rd.,Ridgefield,6877,203-894-5725,CT,POINT (-73.53508669623997 41.32612131192344),2002-01-07,2002
+874,Naugatuck School District,Salem School,Public Schools,880611,124 Meadow St.,Naugatuck,6770,203-720-5242,CT,POINT (-73.0570600549043 41.49070515),1984-01-07,1984
+875,Thomaston School District,Thomaston High School,Public Schools,1406211,185 Branch Rd.,Thomaston,6787,860-283-3030,CT,POINT (-73.09391082213806 41.65785449989002),1984-01-07,1984
+876,Norwich Free Academy District,Norwich Free Academy,Endowed and Incorporated Academies Schools,9016122,305 Broadway,Norwich,6360,860-887-2505,CT,POINT (-72.08038405156037 41.53811715),2000-01-07,2000
+877,Middletown School District,Farm Hill School,Public Schools,830511,390 Ridge Rd.,Middletown,6457,860-346-1225,CT,POINT (-72.64117191494351 41.5382786),1984-01-07,1984
+878,Cheshire School District,Doolittle School,Public Schools,250611,735 Cornwall Ave.,Cheshire,6410,203-272-3549,CT,POINT (-72.9237698 41.4985171),1984-01-07,1984
+879,Guilford School District,E. C. Adams Middle School,Public Schools,605111,233 Church St.,Guilford,6437,203-453-2755,CT,POINT (-72.68553838141271 41.29189343474997),1984-01-07,1984
+880,Middletown School District,Middletown High School,Public Schools,836211,200 LaRosa Lane,Middletown,6457,860-704-4500,CT,POINT (-72.67979516814069 41.57731635),1984-01-07,1984
+881,Newington School District,Elizabeth Green School,Public Schools,940211,30 Thomas St.,Newington,6111,860-666-3394,CT,POINT (-72.7219607 41.7121102),1984-01-07,1984
+882,West Hartford School District,Sedgwick Middle School,Public Schools,1555211,128 Sedgwick Rd.,West Hartford,6107,860-570-6500,CT,POINT (-72.7551342665177 41.75276765),1984-01-07,1984
+883,Stamford School District,Stamford High School,Public Schools,1356111,55 Strawberry Hill Ave.,Stamford,6902,203-977-4223,CT,POINT (-73.5316883 41.0620792),1984-01-07,1984
+884,Hartford School District,Dwight-Bellizzi Dual Language Academy,Public Schools,640711,215 South Street,Hartford,6114,860-695-2400,CT,POINT (-72.6808418 41.734318),1984-01-07,1984
+886,Connecticut Technical Education and Career System,Henry Abbott Technical High School,CT Technical Education and Career Schools,9001216,21 Hayestown Ave.,Danbury,6811,203-797-4460,CT,POINT (-73.45462758304086 41.41424245),2000-01-07,2000
+887,Norwalk School District,Nathan Hale Middle School,Public Schools,1035211,176 Strawberry Hill Avenue,Norwalk,6851,203-899-2910,CT,POINT (-73.3953296 41.1169887),1984-01-07,1984
+888,Connecticut Technical Education and Career System,Eli Whitney Technical High School,CT Technical Education and Career Schools,9001416,100 Fairview Ave,Hamden,6514,203-397-4031,CT,POINT (-72.94260235034257 41.3415794),2000-01-07,2000
+889,New Haven School District,Ross/Woodward School,Public Schools,931011,185 Barnes Ave.,New Haven,6513,475-220-3100,CT,POINT (-72.8781326 41.3234434),2004-01-07,2004
+890,Waterbury School District,Carrington School,Public Schools,1512711,24 Kenmore Ave.,Waterbury,6708,203-574-8184,CT,POINT (-73.08390155181159 41.5726332),1984-01-07,1984
+891,Bloomfield School District,Bloomfield School District,Public School Districts,110011,1133 Blue Hills Avenue,Bloomfield,6002,860-769-4200,CT,POINT (-72.6987271 41.8291119),1996-01-07,1996
+892,Shelton School District,Perry Hill Elementary School,Public Schools,1261111,60 Perry Hill Road,Shelton,6484,203-924-4002,CT,POINT (-73.0998796 41.3116549),2010-01-09,2010
+893,Guilford School District,A. W. Cox School,Public Schools,600611,143 Three Mile Course,Guilford,6437,203-453-5291,CT,POINT (-72.69657475290447 41.28664),1984-01-07,1984
+894,Putnam School District,Putnam Elementary School,Public Schools,1160311,33 Wicker St.,Putnam,6260,860-963-6925,CT,POINT (-71.921874198641 41.92492845),1984-01-07,1984
+895,Integrated Day Charter School District,Integrated Day Charter School District,Public Charter School Districts,2640013,68 Thermos Ave.,Norwich,6360,860-892-1900,CT,POINT (-72.07700047294283 41.51167835),1999-01-07,1999
+896,Norwich School District,Uncas Elementary School,Public Schools,1041911,280 Elizabeth St.,Norwich,6360,860-823-4208,CT,POINT (-72.09484894654749 41.51213645386244),1984-01-07,1984
+897,Wolcott School District,Wolcott High School,Public Schools,1666111,457 Bound Line Rd.,Wolcott,6716,203-879-8164,CT,POINT (-72.97606823076923 41.605153384615384),1984-01-07,1984
+898,North Branford School District,North Branford High School,Public Schools,996111,49 Caputo Rd.,North Branford,6471,203-484-1465,CT,POINT (-72.80274533360841 41.334578007014535),1984-01-07,1984
+899,Connecticut Technical Education and Career System,A. I. Prince Technical High School,CT Technical Education and Career Schools,9001516,401 Flatbush Ave.,Hartford,6106,860-951-7112,CT,POINT (-72.70591623487124 41.741712),2000-01-07,2000
+900,Cromwell School District,Edna C. Stevens School,Public Schools,330211,25 Court St.,Cromwell,6416,860-632-4866,CT,POINT (-72.65827729121204 41.61943785),1984-01-07,1984
+901,Newtown School District,Hawley Elementary School,Public Schools,970111,29 Church Hill Rd.,Newtown,6470,203-426-7666,CT,POINT (-73.3029652 41.4152077),1984-01-07,1984
+902,Regional School District 10,Regional School District 10,Regional School Districts,2100012,24 Lyon Road,Burlington,6013,860-673-2538,CT,POINT (-72.98823005089282 41.783332139752225),2002-01-07,2002
+903,Trumbull School District,Madison Middle School,Public Schools,1445111,4630 Madison Ave.,Trumbull,6611,203-452-4499,CT,POINT (-73.2433421 41.2539173),1984-01-07,1984
+904,Avon School District,Pine Grove School,Public Schools,40411,151 Scoville Rd.,Avon,6001,860-404-4790,CT,POINT (-72.8556396 41.7750875),1990-01-07,1990
+905,Salisbury School District,Salisbury School District,Public School Districts,1220011,45 Lincoln City Road,Lakeville,6039,860-435-9871,CT,POINT (-73.4387578 41.9715233),1996-01-07,1996
+906,Bridgeport School District,Waltersville School,Public Schools,153011,150 Hallett Street,Bridgeport,6608,203-275-2400,CT,POINT (-73.1752882 41.1831572),1984-01-07,1984
+907,Danbury School District,Broadview Middle School,Public Schools,345111,72 Hospital Ave.,Danbury,6810,203-797-4861,CT,POINT (-73.4409285 41.4064942),1984-01-07,1984
+908,Regional School District 18,Regional School District 18,Regional School Districts,2180012,49 Lyme Street,Old Lyme,6371,860-434-7238,CT,POINT (-72.3270813 41.3188902),2002-01-07,2002
+909,Westport School District,Staples High School,Public Schools,1586111,70 North Ave.,Westport,6880,203-341-1210,CT,POINT (-73.32751322239844 41.15476855),1984-01-07,1984
+910,Odyssey Community School District,Odyssey Community School,Public Charter Schools,2635113,579 Middle Tpke West,Manchester,6040,860-645-1234,CT,POINT (-72.5506458 41.7813658),1997-01-07,1997
+911,Hartford School District,Hartford Public High School,Public Schools,646211,55 Forest Street,Hartford,6105,860-695-1300,CT,POINT (-72.70231361409068 41.7639962),2019-01-07,2019
+912,Windsor School District,Poquonock Elementary School,Public Schools,1640511,1760 Poquonock Ave.,Windsor,6095,860-687-2080,CT,POINT (-72.6777638 41.9042),1984-01-07,1984
+913,Greenwich School District,International School At Dundee,Public Schools,571311,55 Florence Rd.,Riverside,6878,203-637-3800,CT,POINT (-73.57661205424203 41.0518353),1999-01-07,1999
+915,New Haven School District,Cooperative High School - Inter-District Magnet,Public Schools,936411,177 College Street,New Haven,6511,475-220-2400,CT,POINT (-72.9298555 41.3054331),1987-01-07,1987
+916,New Milford School District,Northville Elementary School,Public Schools,960811,22 Hipp Rd.,New Milford,6776,860-355-3713,CT,POINT (-73.3942513 41.6184756),1984-01-07,1984
+917,North Branford School District,North Branford Intermediate School,Public Schools,995111,654 Foxon Rd.,North Branford,6471,203-484-1500,CT,POINT (-72.8012529 41.3349554),1984-01-07,1984
+918,Columbia School District,Columbia School District,Public School Districts,300011,3 Schoolhouse Road,Columbia,6237,860-228-9493,CT,POINT (-72.30066907754744 41.7049464),1996-01-07,1996
+919,Naugatuck School District,Naugatuck School District,Public School Districts,880011,497 Rubber Avenue,Naugatuck,6770,203-720-5265,CT,POINT (-73.07149705604921 41.4898549150671),1996-01-07,1996
+921,Vernon School District,Rockville High School,Public Schools,1466111,70 Loveland Hill,Vernon,6066,860-870-6050,CT,POINT (-72.4796654110355 41.85615455),1984-01-07,1984
+922,Trumbull School District,Middlebrook School,Public Schools,1440311,220 Middlebrooks Ave.,Trumbull,6611,203-452-4411,CT,POINT (-73.21103633130721 41.2493073),1984-01-07,1984
+923,Wilton School District,Miller-Driscoll School,Public Schools,1610511,217 Wolfpit Rd.,Wilton,6897,203-762-8678,CT,POINT (-73.432908 41.177446),1984-01-07,1984
+924,Tolland School District,Tolland School District,Public School Districts,1420011,51 Tolland Grn,Tolland,6084,860-870-6850,CT,POINT (-72.36944230083503 41.87149195),1984-01-07,1984
+925,Ellington School District,Ellington High School,Public Schools,486111,37 Maple St.,Ellington,6029,860-896-2352,CT,POINT (-72.46135163046512 41.9096568),1984-01-07,1984
+926,Middletown School District,Snow School,Public Schools,831111,299 Wadsworth St.,Middletown,6457,860-347-2579,CT,POINT (-72.6720121 41.5400992),1984-01-07,1984
+927,East Haven School District,East Haven High School,Public Schools,446111,35 Wheelbarrow Ln.,East Haven,6513,203-468-3254,CT,POINT (-72.83153525098547 41.3299067),1984-01-07,1984
+928,Meriden School District,John Barry School,Public Schools,800511,124 Columbia St.,Meriden,6450,203-237-8831,CT,POINT (-72.80384075399684 41.5450565),1984-01-07,1984
+929,Regional School District 16,Laurel Ledge School,Regional Schools,2160112,30 Highland Ave.,Beacon Falls,6403,203-729-5355,CT,POINT (-73.06211400035237 41.4487621),2002-01-07,2002
+930,Bristol School District,Bristol Central High School,Public Schools,176111,480 Wolcott St.,Bristol,6010,860-584-7735,CT,POINT (-72.96078951849816 41.6621603),1984-01-07,1984
+931,Unified School District #1,Unified School District #1,State Agencies,3360015,24 Wolcott Hill Road,Wethersfield,6109,860-692-7537,CT,POINT (-72.6720594 41.7262134),2000-01-07,2000
+932,Hartford School District,Kinsella Magnet School of Performing Arts: PK-8 Campus,Public Schools,641111,65 Van Block Avenue,Hartford,6106,860-695-4140,CT,POINT (-72.6652378 41.7550127),1984-01-07,1984
+933,New Haven School District,Truman School,Public Schools,932911,114 Truman St.,New Haven,6519,475-220-2100,CT,POINT (-72.94115412552205 41.29306326358148),1984-01-07,1984
+934,Watertown School District,Polk School,Public Schools,1530411,435 Buckingham St.,Oakville,6779,860-945-4840,CT,POINT (-73.08542105790804 41.5985427843118),1984-01-07,1984
+937,Milford School District,West Shore Middle School,Public Schools,845311,70 Kay Ave.,Milford,6460,203-783-3553,CT,POINT (-73.098766 41.1926),1997-01-07,1997
+938,East Haddam School District,Nathan Hale-Ray Middle School,Public Schools,415111,73 Clark Gates Rd.,Moodus,6469,860-873-5081,CT,POINT (-72.446251 41.5219514),2008-01-08,2008
+939,Oxford School District,Quaker Farms School,Public Schools,1080311,30 Great Oak Rd.,Oxford,6478,203-888-5842,CT,POINT (-73.1419703 41.4255229),1990-01-07,1990
+940,Park City Prep Charter School District,Park City Prep Charter School District,Public Charter School Districts,2830013,1550 State Street,Bridgeport,6605,203-953-3766,CT,POINT (-73.2123996420314 41.1696218),2006-01-07,2006
+941,Westport School District,Bedford Middle School,Public Schools,1585111,88 North Ave.,Westport,6880,203-341-1510,CT,POINT (-73.3299611209961 41.15890985),1984-01-07,1984
+942,Plymouth School District,Harry S. Fisher Elementary School,Public Schools,1110411,79 North Main Street,Terryville,6786,860-314-2770,CT,POINT (-73.0071519 41.6852676),2008-02-09,2008
+943,Waterbury School District,B. W. Tinker School,Public Schools,1512111,809 Highland Ave.,Waterbury,6708,203-574-8186,CT,POINT (-73.0514181 41.5361719),1984-01-07,1984
+944,New Canaan School District,West School,Public Schools,900311,769 Ponus Ridge,New Canaan,6840,203-594-4410,CT,POINT (-73.52251521102902 41.14004815),1984-01-07,1984
+945,Newington School District,John Wallace Middle School,Public Schools,945311,71 Halleran Dr.,Newington,6111,860-667-5888,CT,POINT (-72.7348231 41.6696505),1984-01-07,1984
+946,Montville School District,Leonard J. Tyl Middle School,Public Schools,865111,166 Chesterfield Rd.,Oakdale,6370,860-848-2822,CT,POINT (-72.16790955468838 41.45591405),1992-01-07,1992
+947,Somers School District,Mabelle B. Avery Middle School,Public Schools,1295111,1 Vision Boulevard,Somers,6071,860-749-2270,CT,POINT (-72.4613111 41.9787843),1997-01-07,1997
+948,Connecticut Technical Education and Career System,Connecticut Technical Education and Career System,CT Technical Education and Career Districts,9000016,39 Woodland Street,Hartford,6105,860-807-2200,CT,POINT (-72.702195 41.7701412),1999-01-07,1999
+949,Wallingford School District,Mark T. Sheehan High School,Public Schools,1486211,142 Hope Hill Road,Wallingford,6492,203-294-5900,CT,POINT (-72.83535616726695 41.4867298),1984-01-07,1984
+950,East Hartford School District,Dr. John A. Langford School,Public Schools,432211,61 Alps Dr.,East Hartford,6108,860-622-5700,CT,POINT (-72.5994538817809 41.7929532),1984-01-07,1984
+951,Area Cooperative Educational Services,Wintergreen Interdistrict Magnet School,Regional Education Service Center Schools,2440314,88 Bassett Road,North Haven,6473,203-281-9668,CT,POINT (-72.8362979 41.3973187),2000-01-07,2000
+952,Brookfield School District,Huckleberry Hill Elementary School,Public Schools,180411,100 Candlewood Lake Rd.,Brookfield,6804,203-775-7675,CT,POINT (-73.41900879734362 41.44779355),1997-01-07,1997
+953,Unified School District #1,Willard/Cybulski Correctional Institution,State Agency Facilities,3361515,391 Shaker Rd.,Enfield,6082,860-763-6190,CT,POINT (-72.50645793412305 42.0233442),2000-01-07,2000
+955,Hartford School District,"M. L. King, Jr. Middle School",Public Schools,641611,25 Ridgefield Street,Hartford,6112,860-695-3980,CT,POINT (-72.6966104 41.7856835),1984-01-07,1984
+956,Thompson School District,Tourtellotte Memorial High School,Public Schools,1416111,785 Riverside Dr.,North Grosvenordale,6255,860-923-9303,CT,POINT (-71.89787309538576 41.97743775),1984-01-07,1984
+957,Capitol Region Education Council,Reggio Magnet School of the Arts,Regional Education Service Center Schools,2410314,59 Waterville Road,Avon,6001,860-674-8549,CT,POINT (-72.82035832800408 41.8010505),2008-02-09,2008
+960,West Haven School District,Savin Rock Community School,Public Schools,1561411,50 Park St.,West Haven,6516,203-931-6850,CT,POINT (-72.94031606860972 41.2612345),1984-01-07,1984
+961,Stonington School District,Stonington School District,Public School Districts,1370011,40 Field Street,Pawcatuck,6379,860-572-0506,CT,POINT (-71.8431278 41.3702148),1996-01-07,1996
+962,West Haven School District,Carrigan 5/6 Intermediate School,Public Schools,1565311,2 Tetlow St.,West Haven,6516,203-937-4390,CT,POINT (-72.9724805 41.2909287),1984-01-07,1984
+963,New Britain School District,Vance Elementary School,Public Schools,891511,183 Vance St.,New Britain,6052,860-225-8731,CT,POINT (-72.79313565323636 41.65447335),1984-01-07,1984
+964,Griswold School District,Griswold School District,Public School Districts,580011,211 Slater Avenue,Griswold,6351,860-376-7600,CT,POINT (-71.98040962604455 41.59751475),1996-01-07,1996
+965,Waterbury School District,Wendell L. Cross School,Public Schools,1510811,1255 Hamilton Ave.,Waterbury,6706,203-574-8171,CT,POINT (-73.01238569948981 41.5336539),1984-01-07,1984
+966,Sherman School District,Sherman School,Public Schools,1270111,2 Route 37 East,Sherman,6784,860-355-3793,CT,POINT (-73.49633857502826 41.5793068),1984-01-07,1984
+967,Bolton School District,Bolton Center School,Public Schools,120111,108 Notch Rd.,Bolton,6043,860-643-2411,CT,POINT (-72.43953659545109 41.7744163),1984-01-07,1984
+968,Greenwich School District,Cos Cob School,Public Schools,570211,300 East Putnam Ave.,Cos Cob,6807,203-869-4670,CT,POINT (-73.59804246500984 41.0407685),1984-01-07,1984
+969,Bethel School District,Frank A. Berry School,Public Schools,90111,200 Whittlesey Dr.,Bethel,6801,203-794-8680,CT,POINT (-73.3965549 41.3840241),1984-01-07,1984
+970,West Hartford School District,Whiting Lane School,Public Schools,1551311,47 Whiting Ln.,West Hartford,6119,860-233-8541,CT,POINT (-72.7245468 41.7629683),1984-01-07,1984
+971,Regional School District 19,E. O. Smith High School,Regional Schools,2196112,1235 Storrs Rd.,Storrs,6268,860-487-0877,CT,POINT (-72.24434313799802 41.8020254),2002-01-07,2002
+972,Enfield School District,John F. Kennedy Middle School,Public Schools,495211,155 Raffia Rd.,Enfield,6082,860-763-8855,CT,POINT (-72.5636326 41.9567982),1984-01-07,1984
+973,Danbury School District,Danbury School District,Public School Districts,340011,63 Beaver Brook Road,Danbury,6810,203-797-4701,CT,POINT (-73.42616616689128 41.407306),1996-01-07,1996
+974,Norwich School District,John B. Stanton School,Public Schools,1041411,386 New London Tpke.,Norwich,6360,860-823-4207,CT,POINT (-72.10103208104012 41.5219692),1984-01-07,1984
+975,Hampton School District,Hampton School District,Public School Districts,630011,380 Main Street,Hampton,6247,860-455-9409,CT,POINT (-72.0587146970714 41.79239065),1996-01-07,1996
+976,Hartford School District,Pathways Academy of Technology and Design,Public Schools,646611,2 Pent Road,East Hartford,6118,860-695-9450,CT,POINT (-72.6348662928384 41.7405359),2003-01-07,2003
+977,Deep River School District,Deep River School District,Public School Districts,360011,1 Winthrop Road,Deep River,6417,860-526-2417,CT,POINT (-72.4562226 41.3646322),1996-01-07,1996
+978,Bridgeport School District,Columbus School,Public Schools,150511,300 University Avenue,Bridgeport,6604,203-275-2100,CT,POINT (-73.192622 41.165027),1984-01-07,1984
+979,Canterbury School District,Dr. Helen Baldwin Middle School,Public Schools,225111,45 Westminster Rd.,Canterbury,6331,860-546-9421,CT,POINT (-71.97710381025433 41.69888595),1997-01-07,1997
+980,Norwalk School District,Jefferson Marine Science Elementary School,Public Schools,1030711,75 Van Buren Avenue,Norwalk,6850,203-899-2870,CT,POINT (-73.4211164 41.1165257),1984-01-07,1984
+982,Danbury School District,Pembroke School,Public Schools,341511,34 1/2 Pembroke Rd.,Danbury,6811,203-797-4751,CT,POINT (-73.4977043 41.4764944),1984-01-07,1984
+983,Colchester School District,William J. Johnston Middle School,Public Schools,285111,360 Norwich Ave.,Colchester,6415,860-537-2313,CT,POINT (-72.3206838922469 41.57446895),1997-01-07,1997
+985,Lisbon School District,Lisbon Central School,Public Schools,730111,15 Newent Rd.,Lisbon,6351,860-376-2403,CT,POINT (-72.01530537678278 41.6041633),1984-01-07,1984
+986,Stafford School District,Stafford Elementary School,Public Schools,1340611,11 Levinthal Run,Stafford Springs,6076,860-684-6677,CT,POINT (-72.30156895871687 41.97142985),2007-01-07,2007
+987,South Windsor School District,South Windsor High School,Public Schools,1326211,161 Nevers Rd.,South Windsor,6074,860-648-5000,CT,POINT (-72.55408803214166 41.84308235),1984-01-07,1984
+988,Bethany School District,Bethany School District,Public School Districts,80011,44 Peck Road,Bethany,6524,203-393-1170,CT,POINT (-73.00002662548647 41.42210500489996),1996-01-07,1996
+989,Winchester School District,Winchester School District,Public School Districts,1620011,338 Main Street,Winsted,6098,860-379-0706,CT,POINT (-73.06894598003828 41.9215281),1996-01-07,1996
+990,Ashford School District,Ashford School,Public Schools,30111,440 Westford Rd.,Ashford,6278,860-429-6419,CT,POINT (-72.16789988672193 41.8922366),1998-01-07,1998
+991,Bridgeport School District,John Winthrop School,Public Schools,153611,85 Eckart St.,Bridgeport,6606,203-576-7769,CT,POINT (-73.2319217 41.2210465),1984-01-07,1984
+992,Regional School District 01,Housatonic Valley Regional High School,Regional Schools,2016112,246 Warren Turnpike Rd.,Falls Village,6031,860-824-5123,CT,POINT (-73.36156920408163 41.938168591836735),2002-01-07,2002
+993,New Haven School District,Wilbur Cross High School,Public Schools,936111,181 Mitchell Dr.,New Haven,6511,475-220-7400,CT,POINT (-72.9079986 41.3246087),1984-01-07,1984
+994,Glastonbury School District,Buttonball Lane School,Public Schools,540211,376 Buttonball Ln.,Glastonbury,6033,860-652-7276,CT,POINT (-72.5972 41.6895198),1984-01-07,1984
+995,Canton School District,Canton High School,Public Schools,236111,76 Simonds Avenue,Canton,6019,860-693-7707,CT,POINT (-72.91596245453107 41.82376099621312),1984-01-07,1984
+996,Bridgeport School District,"Aerospace/Hydrospace, Engineering and Physical Sciences Magnet High School",Public Schools,150811,840 Old Town Road,Bridgeport,6606,203-275-3343,CT,POINT (-73.18527028221652 41.2254734),,
+997,Waterbury School District,West Side Middle School,Public Schools,1515211,483 Chase Parkway,Waterbury,6708,203-574-8120,CT,POINT (-73.0618807004203 41.54526845),1984-01-07,1984
+998,Hartford School District,Expeditionary Learning Academy at Moylan School,Public Schools,643211,101 Catherine Street,Hartford,6106,860-695-4500,CT,POINT (-72.69918408276128 41.74574635),1998-01-07,1998
+999,East Lyme School District,Lillie B. Haynes School,Public Schools,450411,29 Society Rd.,Niantic,6357,860-739-2922,CT,POINT (-72.21389214900213 41.34806575),1984-01-07,1984
+1000,Ellington School District,Center School,Public Schools,480111,49 Main St.,Ellington,6029,860-896-2315,CT,POINT (-72.4664985 41.9040285),1984-01-07,1984
+1001,Manchester School District,Highland Park School,Public Schools,770411,397 Porter St.,Manchester,6040,860-647-3430,CT,POINT (-72.49357896278542 41.77364295),,
+1003,East Hampton School District,Center School,Public Schools,420311,7 Summit St.,East Hampton,6424,860-365-4050,CT,POINT (-72.50209696712409 41.57725),1984-01-07,1984
+1004,Orange School District,Turkey Hill School,Public Schools,1070411,441 Turkey Hill Rd.,Orange,6477,203-891-8040,CT,POINT (-73.0433568 41.2891252),1984-01-07,1984
+1005,Watertown School District,John Trumbull Primary School,Public Schools,1530211,779 Buckingham St.,Oakville,6779,860-945-2776,CT,POINT (-73.0840574 41.5958222),1999-01-07,1999
+1006,Unified School District #1,York Correctional Institution,State Agency Facilities,3362515,201 West Main St.,Niantic,6357,860-451-3228,CT,POINT (-72.23723036276425 41.32302575),2000-01-07,2000
+1007,Regional School District 15,Pomperaug School,Regional Schools,2150512,607 Main St. S,Southbury,6488,203-264-8283,CT,POINT (-73.22599323546848 41.46564855),2002-01-07,2002
+1008,Milford School District,Orchard Hills School,Public Schools,841811,185 Marino Dr.,Milford,6460,203-783-3566,CT,POINT (-73.0234121 41.2203549),1984-01-07,1984
+1009,Southington School District,Zaya A. Oshana Elementary School,Public Schools,1310611,70 Church Street,Southington,6479,860-628-3450,CT,POINT (-72.8959819 41.5895038),1984-01-07,1984
+1010,Fairfield School District,Jennings School,Public Schools,511711,31 Palm Dr.,Fairfield,6824,203-255-8316,CT,POINT (-73.24566878335183 41.186708980689424),1984-01-07,1984
+1011,Hartford School District,Betances STEM Magnet School,Public Schools,643811,400 Wethersfield Avenue,Hartford,6114,860-695-2970,CT,POINT (-72.67148579985789 41.74570945),2012-01-07,2012
+1012,Waterbury School District,Hopeville School,Public Schools,1511311,2 Cypress St.,Waterbury,6706,203-574-8173,CT,POINT (-73.03387 41.532959),1984-01-07,1984
+1013,Suffield School District,Suffield School District,Public School Districts,1390011,350 Mountain Road,Suffield,6078,860-668-3800,CT,POINT (-72.66324150041123 41.98465475),1996-01-07,1996
+1014,Plainville School District,Middle School of Plainville,Public Schools,1105211,150 Northwest Dr.,Plainville,6062,860-793-3250,CT,POINT (-72.88629985343925 41.6842488),1992-01-07,1992
+1015,Hamden School District,Ridge Hill School,Public Schools,621111,120 Carew Rd.,Hamden,6517,203-407-2035,CT,POINT (-72.89670239186108 41.34681895),1984-01-07,1984
+1016,New Haven School District,Fair Haven School,Public Schools,931611,164 Grand Ave.,New Haven,6513,475-220-2600,CT,POINT (-72.89331594622317 41.3087185),2007-01-07,2007
+1017,New Hartford School District,Ann Antolini School,Public Schools,920311,30 Antolini Road,New Hartford,6057,860-489-4169,CT,POINT (-73.0138431 41.8274782),1984-01-07,1984
+1018,Bridgeport School District,High Horizons Magnet School,Public Schools,154511,700 Palisade Ave.,Bridgeport,6610,203-576-7807,CT,POINT (-73.16297636586256 41.20348025),1997-01-07,1997
+1019,Regional School District 07,Northwestern Regional Middle School,Regional Schools,2075112,100 Battistoni Dr.,Winsted,6098,860-379-7243,CT,POINT (-73.0477852 41.9152045),2002-01-07,2002
+1021,East Hartford School District,Dr. Thomas S. O'Connell School,Public Schools,431011,305 May Rd.,East Hartford,6118,860-622-5400,CT,POINT (-72.5902059 41.7356292),1984-01-07,1984
+1022,Highville Charter School District,Highville Charter School District,Public Charter School Districts,2860013,One Science Park,New Haven,6511,203-287-0528,CT,POINT (-72.92608237191135 41.3234096),2007-01-07,2007
+1023,Stamford School District,Davenport Ridge School,Public Schools,1352011,1300 Newfield Ave.,Stamford,6905,203-977-4291,CT,POINT (-73.5333225 41.1045533),1984-01-07,1984
+1024,Franklin School District,Franklin School District,Public School Districts,530011,206 Pond Road,North Franklin,6254,860-642-6113,CT,POINT (-72.1247989 41.6311727),1996-01-07,1996
+1025,Capitol Region Education Council,Academy of Aerospace and Engineering,Regional Education Service Center Schools,2415114,1101 Kennedy Road,Windsor,6095,860-243-0857,CT,POINT (-72.65310670193978 41.89551475),,
+1026,Learn,Three Rivers Middle College Magnet School,Regional Education Service Center Schools,2456214,574 New London Turnpike,Norwich,6360,860-215-9055,CT,POINT (-72.1029761 41.5097547),,
+1027,Coventry School District,Capt. Nathan Hale School,Public Schools,325111,1776 Main Street,Coventry,6238,860-742-7334,CT,POINT (-72.31045806928012 41.7808021),1984-01-07,1984
+1028,Granby School District,Kelly Lane Primary School,Public Schools,560411,60 Kelly Ln.,Granby,6035,860-844-3041,CT,POINT (-72.80992492881694 41.9678062),1984-01-07,1984
+1029,Windham School District,Natchaug School,Public Schools,1630111,123 Jackson St.,Willimantic,6226,860-465-2380,CT,POINT (-72.20671509189977 41.7137339),1984-01-07,1984
+1030,North Haven School District,Clintonville Elementary School,Public Schools,1010811,456 Clintonville Rd.,North Haven,6473,203-239-5865,CT,POINT (-72.8329643 41.3904265),1984-01-07,1984
+1032,Meriden School District,Benjamin Franklin School,Public Schools,800111,426 West Main St.,Meriden,6450,203-235-7997,CT,POINT (-72.8182456 41.5390674),1984-01-07,1984
+1033,Greenwich School District,Central Middle School,Public Schools,575111,9 Indian Rock Ln.,Greenwich,6830,203-661-8500,CT,POINT (-73.60562426590315 41.0488932),1984-01-07,1984
+1034,Manchester School District,Buckley School,Public Schools,770311,250 Vernon Street,Manchester,6042,860-647-3302,CT,POINT (-72.49417845513801 41.7934176),1984-01-07,1984
+1035,Suffield School District,McAlister Intermediate School,Public Schools,1390311,260 Mountain Road,Suffield,6078,860-668-3830,CT,POINT (-72.66052558633558 41.985435),2004-01-07,2004
+1036,Lebanon School District,Lyman Memorial High School,Public Schools,716211,917 Exeter Rd.,Lebanon,6249,860-642-7567,CT,POINT (-72.23855638179936 41.62376665),1992-01-07,1992
+1037,Bloomfield School District,Carmen Arace Middle School,Public Schools,115211,390 Park Avenue,Bloomfield,6002,860-286-2622,CT,POINT (-72.71656135474228 41.8239087),1984-01-07,1984
+1038,Weston School District,Weston Intermediate School,Public Schools,1570211,95 School Rd.,Weston,6883,203-221-6330,CT,POINT (-73.3775353 41.2076689),2005-01-07,2005
+1039,West Hartford School District,King Philip Middle School,Public Schools,1555111,100 King Philip Dr.,West Hartford,6117,860-233-8236,CT,POINT (-72.74019333026185 41.7937177),1984-01-07,1984
+1040,Regional School District 18,Center School,Regional Schools,2180312,49 Lyme St.,Old Lyme,6371,860-434-7238,CT,POINT (-72.3270813 41.3188902),2002-01-07,2002
+1041,Danbury School District,Shelter Rock School,Public Schools,341211,2 Crows Nest Rd.,Danbury,6810,203-797-4777,CT,POINT (-73.428682 41.44187),1984-01-07,1984
+1042,Suffield School District,Suffield Middle School,Public Schools,1395111,350 Mountain Rd.,Suffield,6078,860-668-3820,CT,POINT (-72.66324150041123 41.98465475),1984-01-07,1984
+1045,Connecticut Technical Education and Career System,W. F. Kaynor Technical High School,CT Technical Education and Career Schools,9002316,43 Tompkins St.,Waterbury,6708,203-596-4302,CT,POINT (-73.066781393128 41.57576305),2000-01-07,2000
+1046,Bethel School District,Bethel High School,Public Schools,96111,300 Whittlesey Dr.,Bethel,6801,203-794-8600,CT,POINT (-73.3925284 41.3812136),1984-01-07,1984
+1047,Bridgeport School District,Barnum School,Public Schools,150111,495 Waterview Avenue,Bridgeport,6608,203-275-2300,CT,POINT (-73.1743213 41.1831088),1984-01-07,1984
+1048,Stratford School District,Stratford School District,Public School Districts,1380011,1000 East Broadway,Stratford,6615,203-385-4210,CT,POINT (-73.1291925 41.1937736),1996-01-07,1996
+1049,Killingly School District,Killingly Intermediate School,Public Schools,695211,1599 Upper Maple St.,Dayville,6241,860-779-6700,CT,POINT (-71.89736917332854 41.8505326),1990-01-07,1990
+1050,Torrington School District,Vogel-Wetmore School,Public Schools,1431311,68 Church St.,Torrington,6790,860-489-2570,CT,POINT (-73.1232994 41.8039157),1987-01-07,1987
+1051,Derby School District,Irving School,Public Schools,370411,9 Garden Place,Derby,6418,203-736-5043,CT,POINT (-73.088184 41.3277292),1984-01-07,1984
+1052,Darien School District,Ox Ridge Elementary School,Public Schools,351311,395 Mansfield Ave.,Darien,6820,203-655-2579,CT,POINT (-73.4857598 41.1030668),1984-01-07,1984
+1053,Berlin School District,Emma Hart Willard School,Public Schools,70411,1088 Norton Rd.,Berlin,6037,860-828-4151,CT,POINT (-72.7560217 41.6164862),1984-01-07,1984
+1054,The Bridge Academy District,The Bridge Academy,Public Charter Schools,2696113,160 Pulaski Street,Bridgeport,6608,203-336-9999,CT,POINT (-73.18381677808509 41.1838013),1997-01-07,1997
+1055,Stamford School District,K. T. Murphy School,Public Schools,1350511,19 Horton St.,Stamford,6902,203-977-4516,CT,POINT (-73.5111395 41.0478787),1984-01-07,1984
+1056,Union School District,Union School District,Public School Districts,1450011,18 Kinney Hollow Road,Union,6076,860-684-3146,CT,POINT (-72.1619602 41.9873427),1996-01-07,1996
+1057,Fairfield School District,Osborn Hill School,Public Schools,511811,760 Stillson Rd.,Fairfield,6824,203-255-8340,CT,POINT (-73.2565614 41.1769923),1997-01-07,1997
+1058,Trumbull School District,Hillcrest Middle School,Public Schools,1445211,530 Daniels Farm Rd.,Trumbull,6611,203-452-4466,CT,POINT (-73.1965791 41.2604346),1984-01-07,1984
+1059,Hartford School District,Wish Museum School,Public Schools,642211,104 Vine Street,Hartford,6112,860-695-5600,CT,POINT (-72.68738928824433 41.78253915),1984-01-07,1984
+1060,Newtown School District,Head O'Meadow Elementary School,Public Schools,970411,94 Boggs Hill Rd.,Newtown,6470,203-426-7670,CT,POINT (-73.31593198250073 41.38346305),1984-01-07,1984
+1061,Seymour School District,Seymour High School,Public Schools,1246111,2 Botsford Rd.,Seymour,6483,203-888-2561,CT,POINT (-73.0986525 41.3851635),1984-01-07,1984
+1062,New Haven School District,East Rock Community Magnet School,Public Schools,934611,133 Nash St.,New Haven,6511,475-220-5900,CT,POINT (-72.9079039 41.3192889),1984-01-07,1984
+1063,Greenwich School District,Julian Curtiss School,Public Schools,570311,180 East Elm St.,Greenwich,6830,203-869-1896,CT,POINT (-73.61920180410176 41.03193375),1984-01-07,1984
+1064,East Hartford School District,East Hartford School District,Public School Districts,430011,1110 Main Street,East Hartford,6108,860-622-5100,CT,POINT (-72.6411616 41.7728618),1996-01-07,1996
+1065,Brooklyn School District,Brooklyn School District,Public School Districts,190011,119 Gorman Road,Brooklyn,6234,860-774-9732,CT,POINT (-71.93643000185398 41.78538985),1996-01-07,1996
+1066,Easton School District,Samuel Staples Elementary School,Public Schools,460111,515 Morehouse Road,Easton,6612,203-261-3607,CT,POINT (-73.2879709 41.2392258),1984-01-07,1984
+1067,East Windsor School District,Broad Brook Elementary School,Public Schools,470111,14 Rye St.,East Windsor,6016,860-623-2433,CT,POINT (-72.5466501 41.9109879),1984-01-07,1984
+1068,Ansonia School District,Prendergast School,Public Schools,20811,59 Finney St.,Ansonia,6401,203-736-5080,CT,POINT (-73.05866840799146 41.33266793495545),1999-01-07,1999
+1069,Glastonbury School District,Gideon Welles School,Public Schools,540811,1029 Neipsic Rd.,Glastonbury,6033,860-652-7800,CT,POINT (-72.5473853 41.7015703),1997-01-07,1997
+1070,Cheshire School District,Norton School,Public Schools,250511,414 North Brooksvale Rd.,Cheshire,6410,203-272-7283,CT,POINT (-72.9186005 41.4794693),1984-01-07,1984
+1071,Waterbury School District,Wilby High School,Public Schools,1516311,568 Bucks Hill Rd.,Waterbury,6704,203-574-8100,CT,POINT (-73.0263601 41.6042643),1984-01-07,1984
+1072,Stamford School District,Stillmeadow School,Public Schools,1352111,800 Stillwater Rd.,Stamford,6902,203-977-4507,CT,POINT (-73.55984797148332 41.0694449),1984-01-07,1984
+1075,Naugatuck School District,Naugatuck High School,Public Schools,886111,543 Rubber Ave.,Naugatuck,6770,203-720-5400,CT,POINT (-73.07259740346296 41.49253315),1984-01-07,1984
+1076,Fairfield School District,Riverfield School,Public Schools,511211,1625 Mill Plain Rd.,Fairfield,6824,203-255-8328,CT,POINT (-73.2695364 41.1615796),1984-01-07,1984
+1077,Hartford School District,Burns Latino Studies Academy,Public Schools,640611,195 Putnam Street,Hartford,6106,860-695-2980,CT,POINT (-72.6922363673429 41.76143315),1984-01-07,1984
+1078,Farmington School District,East Farms School,Public Schools,520411,25 Wolf Pit Rd.,Farmington,6032,860-674-9519,CT,POINT (-72.80066265343729 41.7189891),1987-01-07,1987
+1079,Bridgeport School District,Paul Laurence Dunbar School,Public Schools,154111,445 Union Ave.,Bridgeport,6607,203-576-7194,CT,POINT (-73.16488161628467 41.17759165),1984-01-07,1984
+1080,Stamford School District,Rippowam Middle School,Public Schools,1355811,381 High Ridge Rd.,Stamford,6905,203-977-5255,CT,POINT (-73.547742 41.0846442),2001-01-07,2001
+1082,Manchester School District,Martin School,Public Schools,771611,140 Dartmouth Rd.,Manchester,6040,860-647-3367,CT,POINT (-72.5124935 41.7542651),1984-01-07,1984
+1083,Waterbury School District,Driggs School,Public Schools,1510911,77 Woodlawn Terrace,Waterbury,6710,203-574-8160,CT,POINT (-73.0427299 41.5637036),1984-01-07,1984
+1084,Milford School District,Orange Avenue School,Public Schools,840811,260 Orange Ave.,Milford,6460,203-783-3537,CT,POINT (-73.0505538 41.2384735),1984-01-07,1984
+1085,Southington School District,Flanders Elementary School,Public Schools,1311311,100 Victoria Dr.,Southington,6489,860-628-3372,CT,POINT (-72.85035421733723 41.61496205),1984-01-07,1984
+1086,Regional School District 10,Lewis S. Mills High School,Regional Schools,2106112,26 Lyon Rd.,Burlington,6013,860-673-0423,CT,POINT (-72.9874807 41.7801482),2002-01-07,2002
+1087,Orange School District,Orange School District,Public School Districts,1070011,637 Orange Center Road,Orange,6477,203-891-8020,CT,POINT (-73.0261868 41.2800881),1996-01-07,1996
+1088,Regional School District 04,Valley Regional High School,Regional Schools,2046112,256 Kelsey Hill Rd.,Deep River,6417,860-526-5328,CT,POINT (-72.4479597 41.3711728),2002-01-07,2002
+1089,Kent School District,Kent School District,Public School Districts,680011,9 Judd Avenue,Kent,6757,860-927-3537,CT,POINT (-73.48132865932949 41.72393565),1996-01-07,1996
+1090,Department of Mental Health and Addiction Services,Greater Bridgeport Community Mental Health Center,State Agency Facilities,3370515,1635 Central Ave.,Bridgeport,6610,860-262-7175,CT,POINT (-73.1685396 41.1894832),2007-01-07,2007
+1091,Stratford School District,David Wooster Middle School,Public Schools,1385211,150 Lincoln Street,Stratford,6615,203-385-4275,CT,POINT (-73.1415448 41.2110588),1984-01-07,1984
+1092,West Haven School District,Washington School,Public Schools,1561211,255 Meloy Road,West Haven,6516,203-931-6880,CT,POINT (-72.9749905 41.2762746),1984-01-07,1984
+1093,Norwalk School District,Rowayton School,Public Schools,1031311,1 Roton Avenue,Norwalk,6853,203-899-2940,CT,POINT (-73.4383027 41.0666846),1984-01-07,1984
+1094,New Fairfield School District,New Fairfield High School,Public Schools,916111,54 Gillotti Rd.,New Fairfield,6812,203-312-5800,CT,POINT (-73.5071662 41.4609208),1984-01-07,1984
+1095,Regional School District 13,Frederick Brewster School,Regional Schools,2130112,126 Tuttle Rd.,Durham,6422,860-349-7227,CT,POINT (-72.7004087 41.4682616),2002-01-07,2002
+1096,Portland School District,Brownstone Intermediate School,Public Schools,1130511,314 Main St.,Portland,6480,860-342-6765,CT,POINT (-72.6382454451111 41.57723595),2004-01-07,2004
+1097,Rocky Hill School District,Myrtle H. Stevens School,Public Schools,1190411,322 Orchard St.,Rocky Hill,6067,860-258-7751,CT,POINT (-72.65624333129917 41.6689813),1984-01-07,1984
+1098,Elm City College Preparatory School District,Elm City College Preparatory School District,Public Charter School Districts,2890013,370 James Street,New Haven,6513,203-498-0702,CT,POINT (-72.9042581 41.3132619),2009-01-07,2009
+1099,West Haven School District,West Haven School District,Public School Districts,1560011,355 Main Street,West Haven,6516,203-937-4300,CT,POINT (-72.9504936 41.2725729),1996-01-07,1996
+1100,Bristol School District,Ivy Drive School,Public Schools,171911,160 Ivy Dr.,Bristol,6010,860-584-7844,CT,POINT (-72.90182552084855 41.7043663),1998-01-07,1998
+1101,Stamford School District,Julia A. Stark School,Public Schools,1351211,398 Glenbrook Rd.,Stamford,6906,203-977-4583,CT,POINT (-73.522358 41.0673869),1984-01-07,1984
+1102,Wallingford School District,Cook Hill School,Public Schools,1481011,57 Hall Road,Wallingford,6492,203-284-5400,CT,POINT (-72.85850268337185 41.45703285),1984-01-07,1984
+1103,Watertown School District,Watertown School District,Public School Districts,1530011,61 Echo Lake Road,Watertown,6795,860-945-4800,CT,POINT (-73.1153963 41.6051791),1996-01-07,1996
+1104,Ledyard School District,Ledyard Middle School,Public Schools,725111,1860 Route 12,Gales Ferry,6335,860-464-3188,CT,POINT (-72.06742494826116 41.45188865),1984-01-07,1984
+1105,Regional School District 17,Haddam-Killingworth High School,Regional Schools,2176112,95 Little City Road,Higganum,6441,860-345-8541,CT,POINT (-72.56285397579364 41.4628906),2002-01-07,2002
+1106,Hartland School District,Hartland School District,Public School Districts,650011,30 South Road,East Hartland,6027,860-653-7207,CT,POINT (-72.9076897936621 41.99699299107083),1996-01-07,1996
+1107,North Stonington School District,North Stonington Elementary School,Public Schools,1020111,311 Norwich/Westerly Rd.,North Stonington,6359,860-535-2805,CT,POINT (-71.88587143167882 41.439165924906014),1984-01-07,1984
+1108,Thomaston School District,Thomaston Center School,Public Schools,1400211,1 Thomas Ave.,Thomaston,6787,860-283-3036,CT,POINT (-73.075184 41.673469),1997-01-07,1997
+1110,Shelton School District,Sunnyside School,Public Schools,1260611,418 River Rd.,Shelton,6484,203-922-3021,CT,POINT (-73.0749707 41.2911456),1990-01-07,1990
+1111,The Gilbert School District,The Gilbert School District,Endowed and Incorporated Academies Districts,9020022,200 Williams Avenue,Winsted,6098,860-379-6163,CT,POINT (-73.06815412558433 41.9324001),2000-01-07,2000
+1112,Willington School District,Willington School District,Public School Districts,1600011,"40A Old Farms Road,",Willington,6279,860-487-3130,CT,POINT (-72.2531676 41.8670107),1996-01-07,1996
+1113,Middletown School District,MacDonough School,Public Schools,830911,66 Spring St.,Middletown,6457,860-347-8553,CT,POINT (-72.656511 41.5669214),1984-01-07,1984
+1115,Learn,Learn,Regional Education Service Center School Districts,2450014,44 Hatchetts Hill Road,Old Lyme,6371,860-434-4800,CT,POINT (-72.2664391 41.3190304),2000-01-07,2000
+1116,Newington School District,Newington School District,Public School Districts,940011,131 Cedar Street,Newington,6111,860-667-2000,CT,POINT (-72.7304832 41.6968061),1996-01-07,1996
+1117,Explorations District,Explorations,Public Charter Schools,2726113,71 Spencer St.,Winsted,6098,860-738-9070,CT,POINT (-73.07607398143399 41.9293751),1997-01-07,1997
+1118,Madison School District,Dr. Robert H. Brown Intermediate School,Public Schools,760611,980 Durham Rd.,Madison,6443,203-245-6400,CT,POINT (-72.62258146540255 41.34024595),2004-01-07,2004
+1119,Trumbull School District,Jane Ryan School,Public Schools,1440411,190 Park Ln.,Trumbull,6611,203-452-4400,CT,POINT (-73.22679725453645 41.25582865),1984-01-07,1984
+1120,New Milford School District,Sarah Noble Intermediate School,Public Schools,960911,25 Sunny Valley Rd.,New Milford,6776,860-210-4020,CT,POINT (-73.4181098 41.5633486),2001-01-07,2001
+1121,Wolcott School District,Frisbie School,Public Schools,1660211,24 Todd Rd.,Wolcott,6716,203-879-8146,CT,POINT (-72.97836561025974 41.577294386862334),1984-01-07,1984
+1122,New Fairfield School District,New Fairfield School District,Public School Districts,910011,3 Brush Hill Road,New Fairfield,6812,203-312-5770,CT,POINT (-73.4862245 41.465292),1996-01-07,1996
+1123,Norwalk School District,Ponus Ridge STEAM Academy,Public Schools,1035311,21 Hunters Lane,Norwalk,6850,203-847-3557,CT,POINT (-73.4420929 41.1229603),1984-01-07,1984
+1124,Meriden School District,Orville H. Platt High School,Public Schools,806211,220 Coe Ave.,Meriden,6450,203-235-7963,CT,POINT (-72.8266354 41.5340643),1984-01-07,1984
+1125,Waterbury School District,Regan School,Public Schools,1512811,2780 North Main St.,Waterbury,6704,203-574-8187,CT,POINT (-73.0255746 41.5915595),1984-01-07,1984
+1126,Wilton School District,Cider Mill School,Public Schools,1610711,240 School Rd.,Wilton,6897,203-762-3351,CT,POINT (-73.433075 41.2041871),1997-01-07,1997
+1127,Rocky Hill School District,Albert D. Griswold Middle School,Public Schools,1195111,144 Bailey Rd.,Rocky Hill,6067,860-258-7741,CT,POINT (-72.6494959 41.6671743),1984-01-07,1984
+1128,Stratford School District,Nichols School,Public Schools,1380911,396 Nichols Avenue,Stratford,6614,203-385-4294,CT,POINT (-73.1395984 41.2026239),1984-01-07,1984
+1129,Chester School District,Chester Elementary School,Public Schools,260111,23 Ridge Rd.,Chester,6412,860-526-5797,CT,POINT (-72.45841193728735 41.404773448988756),1984-01-07,1984
+1130,Branford School District,John B. Sliney School,Public Schools,141611,23 Eades St.,Branford,6405,203-481-5386,CT,POINT (-72.811837162247 41.27920335),1984-01-07,1984
+1131,Barkhamsted School District,Barkhamsted School District,Public School Districts,50011,65 Ripley Hill Road,Barkhamsted,6063,860-738-4016,CT,POINT (-72.9899935 41.9113479),1996-01-07,1996
+1132,Danbury School District,Mill Ridge Primary School,Public Schools,340511,49A High Ridge Rd.,Danbury,6811,203-797-4781,CT,POINT (-73.4836998 41.3895479),1984-01-07,1984
+1133,East Granby School District,East Granby High School,Public Schools,406111,95 South Main St.,East Granby,6026,860-653-2541,CT,POINT (-72.7279499 41.9329458),1984-01-07,1984
+1134,Torrington School District,Torrington School District,Public School Districts,1430011,355 Migeon Avenue,Torrington,6790,860-489-2327,CT,POINT (-73.1312659 41.8097791),1996-01-07,1996
+1135,Bridgeport School District,Classical Studies Academy,Public Schools,152111,240 Linwood Ave.,Bridgeport,6604,203-576-7188,CT,POINT (-73.2098828 41.1790324),1984-01-07,1984
+1136,Wethersfield School District,Charles Wright School,Public Schools,1591011,186 Nott St.,Wethersfield,6109,860-571-8350,CT,POINT (-72.6685776 41.717173),1984-01-07,1984
+1137,Bridgeport School District,Thomas Hooker School,Public Schools,151311,138 Roger Williams Rd.,Bridgeport,6610,203-576-7185,CT,POINT (-73.16872890783252 41.2170248),1984-01-07,1984
+1138,Windham School District,Windham Middle School,Public Schools,1635111,123 Quarry St.,Willimantic,6226,860-465-2351,CT,POINT (-72.22808716143265 41.72334295),1984-01-07,1984
+1140,Fairfield School District,Fairfield Ludlowe High School,Public Schools,516011,785 Unquowa Rd.,Fairfield,6824,203-255-7201,CT,POINT (-73.263336430002 41.1493009),2005-01-07,2005
+1141,Pomfret School District,Pomfret School District,Public School Districts,1120011,20 Pomfret Street,Pomfret Center,6259,860-928-2718,CT,POINT (-71.961978 41.884892),1996-01-07,1996
+1142,Vernon School District,Maple Street School,Public Schools,1460211,20 Maple St.,Rockville,6066,860-870-6175,CT,POINT (-72.46236063059186 41.8671696),1984-01-07,1984
+1143,Capitol Region Education Council,Academy of Science and Innovation,Regional Education Service Center Schools,2416514,600 Slater Road,New Britain,6053,860-223-0726,CT,POINT (-72.81138963917945 41.68449645),,
+1144,Naugatuck School District,Hop Brook Elementary School,Public Schools,880511,75 Crown Street,Naugatuck,6770,203-720-5231,CT,POINT (-73.0553312 41.5016053),1984-01-07,1984
+1145,Hartford School District,Rawson School,Public Schools,641711,260 Holcomb Street,Hartford,6112,860-695-4840,CT,POINT (-72.6998275863657 41.79639825),1984-01-07,1984
+1146,Norfolk School District,Norfolk School District,Public School Districts,980011,128 Greenwoods Rd East,Norfolk,6058,860-542-5553,CT,POINT (-73.1881248 41.9874448),1996-01-07,1996
+1147,Bristol School District,South Side School,Public Schools,171111,21 Tuttle Rd.,Bristol,6010,860-584-7812,CT,POINT (-72.9517886 41.6605397),1998-01-07,1998
+1148,Canaan School District,Lee H. Kellogg School,Public Schools,210111,47 Main St.,Falls Village,6031,860-824-7791,CT,POINT (-73.3592325 41.9554294),1984-01-07,1984
+1149,Enfield School District,Edgar H. Parkman School,Public Schools,491311,165 Weymouth Rd.,Enfield,6082,860-253-6570,CT,POINT (-72.5702623 41.9490016),1984-01-07,1984
+1150,East Haven School District,Dominick H. Ferrara School,Public Schools,441311,22 Maynard Rd.,East Haven,6512,203-468-3318,CT,POINT (-72.8537542 41.3341252),1984-01-07,1984
+1151,Griswold School District,Griswold Middle School,Public Schools,585111,211 Slater Ave.,Griswold,6351,860-376-7630,CT,POINT (-71.98040962604455 41.59751475),1992-01-07,1992
+1152,Monroe School District,Monroe Elementary School,Public Schools,850111,375 Monroe Tpke.,Monroe,6468,203-452-2870,CT,POINT (-73.2244616 41.3096537),1984-01-07,1984
+1153,Stamford School District,Dolan School,Public Schools,1355311,51 Toms Rd.,Stamford,6906,203-977-4441,CT,POINT (-73.5243366 41.0796032),1984-01-07,1984
+1154,Guilford School District,A. Baldwin Middle School,Public Schools,600711,68 Bullard Dr.,Guilford,6437,203-457-0222,CT,POINT (-72.7189116 41.3379769),1997-01-07,1997
+1155,Cheshire School District,Cheshire School District,Public School Districts,250011,29 Main Street,Cheshire,6410,203-250-2400,CT,POINT (-72.9018273 41.4998834),1996-01-07,1996
+1157,West Hartford School District,Bugbee School,Public Schools,1550411,1943 Asylum Ave.,West Hartford,6117,860-929-5500,CT,POINT (-72.7531671 41.7778298),1984-01-07,1984
+1158,Hartford School District,Kinsella Magnet School of Performing Arts: High School Campus,Public Schools,641710,415 Granby Street,Hartford,6112,860-695-2040,CT,POINT (-72.7083324 41.800319),2022-01-07,2022
+1159,Bridgeport School District,Multicultural Magnet School,Public Schools,154611,700 Palisade Ave.,Bridgeport,6610,203-576-7505,CT,POINT (-73.16297636586256 41.20348025),1997-01-07,1997
+1160,Westbrook School District,Daisy Ingraham School,Public Schools,1540211,105 Goodspeed Dr.,Westbrook,6498,860-399-7925,CT,POINT (-72.44180637367981 41.28479102334632),1984-01-07,1984
+1161,Windsor School District,John F. Kennedy School,Public Schools,1640811,530 Park Ave.,Windsor,6095,860-687-2060,CT,POINT (-72.6748817 41.837487),1984-01-07,1984
+1162,Waterford School District,Great Neck Elementary School,Public Schools,1520211,165 Great Neck Rd.,Waterford,6385,860-442-2593,CT,POINT (-72.13358524582394 41.31323225),,
+1163,Unified School District #1,Hartford Correctional Center,State Agency Facilities,3360615,177 Weston St.,Hartford,6120,860-240-1865,CT,POINT (-72.66132919986998 41.79340565),2000-01-07,2000
+1164,Greenwich School District,North Mianus School,Public Schools,570711,309 Palmer Hill Rd.,Riverside,6878,203-637-9730,CT,POINT (-73.57921442404316 41.0564396),1984-01-07,1984
+1165,Norwich School District,Teachers' Memorial Global Studies Magnet Middle School,Public Schools,1045211,15 Teachers Dr.,Norwich,6360,860-823-4212,CT,POINT (-72.09649660521023 41.5287169),1984-01-07,1984
+1166,New Haven School District,Davis Academy for Arts & Design Innovation,Public Schools,930911,35 Davis St.,New Haven,6515,475-220-7800,CT,POINT (-72.9734351 41.3285603),1984-01-07,1984
+1167,East Hartford School District,Silver Lane School,Public Schools,431211,15 Mercer Ave.,East Hartford,6118,860-622-5500,CT,POINT (-72.63459762584523 41.7603919),1984-01-07,1984
+1168,Regional School District 05,Amity Regional High School,Regional Schools,2056112,25 Newton Rd.,Woodbridge,6525,203-397-4830,CT,POINT (-73.0077637 41.3574219),2002-01-07,2002
+1169,South Windsor School District,South Windsor School District,Public School Districts,1320011,1737 Main Street,South Windsor,6074,860-291-1200,CT,POINT (-72.60685989351197 41.85453185),1996-01-07,1996
+1170,New Haven School District,Worthington Hooker School,Public Schools,933811,180 Canner St.,New Haven,6511,475-220-7200,CT,POINT (-72.91416906332518 41.32376215),1984-01-07,1984
+1171,Norwalk School District,Naramake Elementary School,Public Schools,1032111,16 King Street,Norwalk,6851,203-899-2900,CT,POINT (-73.3911443 41.1202719),1984-01-07,1984
+1172,Simsbury School District,Henry James Memorial School,Public Schools,1285111,155 Firetown Rd.,Simsbury,6070,860-651-3341,CT,POINT (-72.81321985833155 41.88359456151064),1984-01-07,1984
+1173,Plainfield School District,Plainfield Memorial School,Public Schools,1090311,95 Canterbury Rd.,Plainfield,6374,860-564-6440,CT,POINT (-71.93234660648113 41.682988),1984-01-07,1984
+1174,Montville School District,Montville School District,Public School Districts,860011,800 Old Colchester Road,Oakdale,6370,860-848-1228,CT,POINT (-72.16459433963709 41.4570623),1996-01-07,1996
+1176,Unified School District #2,Albert J. Solnit Children's Center- South Campus,State Agency Facilities,3470315,915 River Rd.,Middletown,6457,860-704-4020,CT,POINT (-72.61401982820615 41.5571777),2000-01-07,2000
+1177,East Hartford School District,Connecticut IB Academy,Public Schools,436311,857 Forbes St.,East Hartford,6118,860-622-5590,CT,POINT (-72.60653830330796 41.754045),2003-01-07,2003
+1178,New London School District,New London High School,Public Schools,956111,20 Chester Street,New London,6320,860-437-6400,CT,POINT (-72.12368223646352 41.35985350402688),1984-01-07,1984
+1179,Montville School District,Montville High School,Public Schools,866111,800 Old Colchester Rd.,Oakdale,6370,860-848-9208,CT,POINT (-72.16459433963709 41.4570623),1984-01-07,1984
+1180,Meriden School District,Casimir Pulaski School,Public Schools,801111,100 Clearview Ave.,Meriden,6450,203-238-1273,CT,POINT (-72.80496900754302 41.522939082147),1984-01-07,1984
+1181,Regional School District 13,Coginchaug Regional High School,Regional Schools,2136112,135 Pickett Ln.,Durham,6422,860-349-7215,CT,POINT (-72.6694112 41.4769067),2002-01-07,2002
+1182,Hartford School District,McDonough Middle School,Public Schools,641211,111 Hillside Avenue,Hartford,6106,860-695-4260,CT,POINT (-72.6988642316959 41.7504201),1984-01-07,1984
+1183,Redding School District,John Read Middle School,Public Schools,1175111,486 Redding Road,Redding,6896,203-938-2533,CT,POINT (-73.4021923 41.3058152),1984-01-07,1984
+1184,East Lyme School District,East Lyme School District,Public School Districts,450011,165 Boston Post Road,East Lyme,6333,860-739-3966,CT,POINT (-72.21546189174549 41.36693725),1996-01-07,1996
+1185,Wallingford School District,Parker Farms School,Public Schools,1480311,30 Parker Farms Road,Wallingford,6492,203-294-6200,CT,POINT (-72.8361023 41.474808),1987-01-07,1987
+1186,Bristol School District,Bristol Eastern High School,Public Schools,176211,632 King St.,Bristol,6010,860-584-7876,CT,POINT (-72.92216385285377 41.686179),1984-01-07,1984
+1187,Windsor Locks School District,North Street School,Public Schools,1650111,325 North St.,Windsor Locks,6096,860-292-5027,CT,POINT (-72.64849028524321 41.93663625),1984-01-07,1984
+1188,Westport School District,Green's Farms School,Public Schools,1580411,17 Morningside Dr. South,Westport,6880,203-222-3610,CT,POINT (-73.3245236072404 41.13772),1999-01-07,1999
